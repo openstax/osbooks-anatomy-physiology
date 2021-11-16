@@ -2,7 +2,7 @@
 
 _Anatomy and Physiology_ is a textbook book published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
 
-The book can be viewed [online](https://openstax.org/details/books/###) and as a [pdf](https://assets.openstax.org/oscms-prodcms/media/documents/###.pdf).
+The book can be viewed [online](https://openstax.org/details/books/anatomy-and-physiology) and as a [pdf](https://assets.openstax.org/oscms-prodcms/media/documents/AnatomyandPhysiology-OP.pdf).
 
 ## Summary
 _Anatomy and Physiology_ is a dynamic textbook for the two-semester human anatomy and physiology course for life science and allied health majors. The book is organized by body system and covers standard scope and sequence requirements. Its lucid text, strategically constructed art, career features, and links to external learning tools address the critical teaching and learning challenges in the course. The web-based version of _Anatomy and Physiology_ also features links to surgical videos, histology, and interactive diagrams.
