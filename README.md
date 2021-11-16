@@ -1,120 +1,242 @@
-# template-osbooks
+# Anatomy and Physiology
 
-Use this repository template to create an "osbooks" repository for migration of content from CNX Archive to Github.
+_Anatomy and Physiology_ is a textbook book published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
 
-**NOTE:** If you want to create an entirely new book (not move one from legacy) use the [/template-osbooks-new](https://github.com/openstax/template-osbooks-new/) repo
+The book can be viewed [online](https://openstax.org/details/books/###) and as a [pdf](https://assets.openstax.org/oscms-prodcms/media/documents/###.pdf).
 
-[Full list of **osbooks repositories**](https://github.com/openstax?q=osbooks) via Github Search.
+## Summary
+_Anatomy and Physiology_ is a dynamic textbook for the two-semester human anatomy and physiology course for life science and allied health majors. The book is organized by body system and covers standard scope and sequence requirements. Its lucid text, strategically constructed art, career features, and links to external learning tools address the critical teaching and learning challenges in the course. The web-based version of _Anatomy and Physiology_ also features links to surgical videos, histology, and interactive diagrams.
 
-Note: "osbook(s)" repository" and "content repository" can be used interchangably
+## License
+This book is available under the [CC-BY 4.0](https://github.com/openstax/content-synchronizer/blob/main/licenses/by-4.0) license.
 
-### Overview of Steps
+## Support
+If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
 
-1. **Create osbook repository** - by using this template repository.
-2. **Seed osbook repository** - by updating files the _content synchronization pipeline_ looks for to sync content from archive to github.
-3. **Finalize osbook repository** - by creating a github issue to enable syncing of content from archive to github, one osbook per github issue.
+## Senior Contributing Authors
+J. Gordon Betts, Tyler Junior College
 
----
+Kelly A. Young, California State University, Long Beach
 
-## Create osbook repository
+James A. Wise, Hampton University
 
-1. On GitHub, navigate to the main page of this repository.
-2. Above the file list, click **Use this template**.
-3. In the _Owner_ drop-down menu, select **openstax**.
-4. Name the Repository:
+Eddie Johnson, Central Oregon Community College
 
-   - _osbooks-**book-name**_, if repo contains only one collection, or
-   - _osbooks-**book-name**-bundle_, if repo contains more than one collection
+Brandon Poe, Springfield Technical Community College
 
-   Note: Repository names can be changed at a later time. _Description_ can be left blank.
+Dean H. Kruse, Portland Community College
 
-5. Set repository visibility to **Private**.
+Oksana Korol, Aims Community College
 
-6. Leave **Include all branches** unchecked, this template repository only has one branch.
+Jody E. Johnson, Arapahoe Community College
 
-7. Click **Create repository from template**.
+Mark Womble, Youngstown State University
 
-## Seed osbook repository
+Peter DeSaix, University of North Carolina at Chapel Hill
 
-Once the content repo is created:
+## Contributing Authors
+William Blaker, Furman University
 
-1. Fill out the `META-INF/books.xml`:
+Julie Bowers, East Tennessee State University
 
-   - Should contain atleast one `<book />` tag
-   - Where `<book />` contains:
-     - _slug_: determined by CM
-     - _collection-id_: `col#####`
-     - _href_: `"../collections/<slug>.collection.xml"`
+Matthew Barlow, Eastern New Mexico University
 
-   `books.xml` example
+Michael Hortsch, University of Michigan
 
-   ```
-   <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-       <book slug="college-algebra" collection-id="col11759" href="../collections/college-algebra.collection.xml" />
-       <book slug="precalculus" collection-id="col11667" href="../collections/precalculus.collection.xml" />
-       <book slug="precalculus-coreq" collection-id="col32026" href="../collections/precalculus-coreq.collection.xml" />
-   </container>
-   ```
+Emily Bradshaw, Florida Southern College
 
-2. Copy/Paste one of the following into `LICENSE` file:
+Kathleen Tallman, Azusa Pacific University
 
-   - [CC-BY 4.0](https://github.com/openstax/content-synchronizer/blob/main/licenses/by-4.0)
-   - [CC-BY-NC-SA 4.0](https://github.com/openstax/content-synchronizer/blob/main/licenses/by-nc-sa-4.0)
-   - [CC-SA 4.0](https://github.com/openstax/content-synchronizer/blob/main/licenses/by-sa-4.0)
+Boyd Campbell, Southwest College of Naturopathic Medicine and Health Sciences
 
-3. Change permissions with manage permissions
-   1. On GitHub, navigate to the main page of this repository.
-   2. On top navigation tabs, click **Settings**.
-   3. On left navigation, click **Manage access**.
-   4. Using the Manage Acccess panel, to add:
-      - openstax/ce-all, Role: Write
-      - openstax/content-managers, Role: Admin
-      - openstax/ce-admins, Role: Admin
-      - {vendor account}, Role: Write (Note: find the book's vendor under column C [here](https://docs.google.com/spreadsheets/d/1dVpPsE2wTIZyoC4n8GnooqpntC2IZDTjcSdNMPycfB0/edit#gid=254689054)).
-         - Wisewire: `ww-openstax`
-         - MPS: `mps-openstax`
-         - Six Red Marbles (SRM): `srm-openstax`
+Rohinton Tarapore, University of Pennsylvania
 
-## Finalize osbook repository
+Branko Jablanovic, College of Lake County
 
-1. Navigate to [Create Issue for Repo Sync](https://github.com/openstax/cnx/issues/new?assignees=&labels=&template=task.md)
-2. Title issue "Sync Content Repo `<osbook-repo-name>`"
-3. Copy and Paste task.md into the body of issue:
-   `task.md`
+Pamela Dobbins, Shelton State Community College
 
-   ```
-   ## Description
+Brian Shmaefsky, Lone Star College System
 
-   ### Set up for Syncing for following Content Repo:
-   Name of Content Repo: <!-- Name of Content Repo -->
-   Link of Content Repo: <!-- Link to Content Repo -->
+Barbara Christie-Pope, Cornell College
 
-   ## Acceptance Criteria
+Douglas Sizemore, Bevill State Community College
 
-   - [ ] [Sync pipeline set up](https://github.com/openstax/content-synchronizer#quick-start)
-   - [ ]  Initial content sync is successful
-   - [ ] "CE: Github Repo Stable Sync" column on [Github/POET transition plan spreadsheet](https://docs.google.com/spreadsheets/d/1qbkcpdpION-uN8GWW3zpanpunq4pjwqmVDGPOBhNW-8/edit#gid=0) is updated with hyperlink:
-   - _text_: Date of first successful pipeline job
-   - _link_: Link to pipeline
+Maurice Culver, Florida State College at Jacksonville
 
-   ```
+Debra McLaughlin, University of Maryland University College
 
-4. Update the following, in the issue body:
+Bruce Maring, Daytona State College
 
-   - `<!-- Name of Content Repo -->`
-   - `<!-- Link to Content Repo -->`
+Peter Dukehart, Three Rivers Community College
 
-5. Click, **Submit New Issue**
+Susan Dentel, Washtenaw Community College
 
-### Once a new issue is submitted this kicks off the workflow to sync the content and eventually get it ready for [POET](https://poet.openstax.org/).
+Elizabeth Tattersall, Western Nevada College
 
----
+Margaret Weck, St. Louis College of Pharmacy
 
-## Resources
+Neil Westergaard, Williston State College
 
-- [Github/ POET Transition Plan](https://docs.google.com/spreadsheets/d/1qbkcpdpION-uN8GWW3zpanpunq4pjwqmVDGPOBhNW-8/edit#gid=0) (google spreadsheet)
-- [Content Synchronizer](https://github.com/openstax/content-synchronizer) (github repo)
-- [Content Repo Migration/ Creation Process](https://openstax.atlassian.net/wiki/spaces/CE/pages/1655209985/Migrate+Seed+Books+with+Github+for+POET) (confluence documentation)
-- [Full List of Osbooks Repos](https://github.com/openstax?q=osbooks) (github search)
-- [Template Repo for New Book](https://github.com/openstax/template-osbooks) (this github repo)
-- [Creating a Repository from Template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) (github documentation)
+Marnie Chapman, University of Alaska, Sitka
+
+William Kleinelp, Middlesex County College
+
+Brenda Leady, University of Toledo
+
+Susanna Heinze, Skagit Valley College
+
+Julie May, William Carey University
+
+Ann Caplea, Walsh University
+
+Kim Aaronson, Aquarius Institute; Triton College
+
+Lopamudra Agarwal, Augusta Technical College
+
+Gary Allen, Dalhousie University
+
+Nishi Bryska, University of North Carolina, Charlotte
+
+Susan Caley Opsal, Illinois Valley Community College
+
+Norman Johnson, University of Massachusetts Amherst
+
+Sarah Leupen, University of Maryland, Baltimore County
+
+Robert Mallet, University of North Texas Health Science Center
+
+Kenneth Crane, Texarkana College
+
+Heather Cushman, Tacoma Community College
+
+Chaya Gopalan, St. Louis College of Pharmacy
+
+Mark Hubley, Prince George's Community College
+
+Dale Horeth, Tidewater Community College
+
+Kathleen Weiss, George Fox University
+
+Sharon Ellerton, Queensborough Community College
+
+Janis Thompson, Lorain County Community College
+
+Rita Thrasher, Pensacola State College
+
+Nicholas Mitchell, St. Bonaventure University
+
+David Van Wylen, St. Olaf College
+
+Elisabeth Martin, College of Lake County
+
+Ivan Paul, John Wood Community College
+
+Lihua Liang, Johns Hopkins University
+
+David Wortham, West Georgia Technical College
+
+Shobhana Natarajan, Alcon Laboratories, Inc.
+
+Betsy Ott, Tyler Junior College
+
+Sondra Dubowsky, McLennan Community College
+
+Mary Jane Niles, University of San Francisco
+
+Mark Thomas, University of Northern Colorado
+
+Mike Pyle, Olivet Nazarene University
+
+Umesh Yadav, University of Texas Medical Branch
+
+Ann Henninger, Wartburg College
+
+Elizabeth DuPriest, Warner Pacific College
+
+Timothy Ballard, University of North Carolina Wilmington
+
+Phillip Nicotera, St. Petersburg College
+
+Michael Giangrande, Oakland Community College
+
+Natalie Maxwell, Carl Albert State College, Sallisaw
+
+Cameron Perkins, South Georgia College
+
+Robert Rawding, Gannon University
+
+Lynn Gargan, Tarant County College
+
+Jeff Keyte, College of Saint Mary
+
+Victor Greco, Chattahoochee Technical College
+
+Robert Allison, McLennan Community College
+
+Heather Armbruster, Southern Union State Community College
+
+Lynn Wandrey, Mott Community College
+
+David Pfeiffer, University of Alaska, Anchorage
+
+Mark Jonasson, North Arkansas College
+
+Susan Spencer, Mount Hood Community College
+
+Leigh Kleinert, Grand Rapids Community College
+
+Jason Schreer, State University of New York at Potsdam
+
+Thomas Pilat, Illinois Central College
+
+Ikemefuna Nwosu, Parkland College; Lake Land College
+
+Patty Dolan, Pacific Lutheran University
+
+Ellen DuPré, Central College
+
+John Lepri, University of North Carolina, Greensboro
+
+Carla Endres, Utah State University - College of Eastern Utah: San Juan Campus
+
+Eileen Preston, Tarrant County College
+
+Eric Sun, Middle Georgia State College
+
+Tom Swenson, Ithaca College
+
+Tony Yates, Oklahoma Baptist University
+
+Justin York, Glendale Community College
+
+Cheri Zao, North Idaho College
+
+Elena Zoubina, Bridgewater State University; Massasoit Community College
+
+Noelle Cutter, Molloy College
+
+Lynnette Danzl-Tauer, Rock Valley College
+
+Myriam Feldman, Lake Washington Institute of Technology; Cascadia Community College
+
+Jane Davis, Aurora University
+
+Rosemary Hubbard, Marymount University
+
+Aaron Payette, College of Southern Nevada
+
+Greg Fitch, Avila University
+
+Robert Sullivan, Marist College
+
+AnnMarie DelliPizzi, Dominican College
+
+Cynthia Standley, University of Arizona
+
+Shobhana Natarajan, Brookhaven College
+
+Scott Payne, Kentucky Wesleyan College
+
+Laird Sheldahl, Mt. Hood Community College
+
+Pam Elf, University of Minnesota
