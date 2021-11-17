@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Pineal Gland </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46693</md:content-id>
+  <md:title>The Pineal Gland </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the location and structure of the pineal gland</item>
+<item>Discuss the function of melatonin</item>
+</list></md:abstract>
+  <md:uuid>80559b95-ffbd-4060-9692-be435e1c8b87</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1355539">Recall that the hypothalamus, part of the diencephalon of the brain, sits inferior and somewhat anterior to the thalamus. Inferior but somewhat posterior to the thalamus is the <term>pineal gland</term>, a tiny endocrine gland whose functions are not entirely clear. The <term>pinealocyte</term> cells that make up the pineal gland are known to produce and secrete the amine hormone <term>melatonin</term>, which is derived from serotonin.</para>
+<para id="fs-id1391140">The secretion of melatonin varies according to the level of light received from the environment. When photons of light stimulate the retinas of the eyes, a nerve impulse is sent to a region of the hypothalamus called the suprachiasmatic nucleus (SCN), which is important in regulating biological rhythms. From the SCN, the nerve signal is carried to the spinal cord and eventually to the pineal gland, where the production of melatonin is inhibited. As a result, blood levels of melatonin fall, promoting wakefulness. In contrast, as light levels decline—such as during the evening—melatonin production increases, boosting blood levels and causing drowsiness.</para>
+<note id="fs-id1249408" class="anatomy interactive">
+<label/>
+<para id="fs-id1326362">Visit this <link url="http://openstax.org/l/melatonin">link</link> to view an animation describing the function of the hormone melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?</para>
+</note>
+<para id="fs-id1388310">The secretion of melatonin may influence the body’s circadian rhythms, the dark-light fluctuations that affect not only sleepiness and wakefulness, but also appetite and body temperature. Interestingly, children have higher melatonin levels than adults, which may prevent the release of gonadotropins from the anterior pituitary, thereby inhibiting the onset of puberty. Finally, an antioxidant role of melatonin is the subject of current research.</para>
+<para id="fs-id1492434">Jet lag occurs when a person travels across several time zones and feels sleepy during the day or wakeful at night. Traveling across multiple time zones significantly disturbs the light-dark cycle regulated by melatonin. It can take up to several days for melatonin synthesis to adjust to the light-dark patterns in the new environment, resulting in jet lag. Some air travelers take melatonin supplements to induce sleep.</para>
+<section id="fs-id1377759" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1481350">The pineal gland is an endocrine structure of the diencephalon of the brain, and is located inferior and posterior to the thalamus. It is made up of pinealocytes. These cells produce and secrete the hormone melatonin in response to low light levels. High blood levels of melatonin induce drowsiness. Jet lag, caused by traveling across several time zones, occurs because melatonin synthesis takes several days to readjust to the light-dark patterns in the new environment.</para></section>
+
+<section id="fs-id1212218" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id1240203">
+<problem id="fs-id1260523"><para id="fs-id1473985">Visit this <link url="http://openstax.org/l/melatonin">link</link> to view an animation describing the function of the hormone melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?</para></problem>
+<solution id="fs-id1242479">
+<label/>
+<para id="fs-id1283197">Turning on the lights.</para></solution>
+</exercise>
+</section>
+<section id="fs-id1409625" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1351515">
+<problem id="fs-id1355306"><para id="fs-id1357308">What cells secrete melatonin?</para>
+<list id="fs-id1340340" list-type="enumerated" number-style="lower-alpha">
+<item>melanocytes</item>
+<item>pinealocytes</item>
+<item>suprachiasmatic nucleus cells</item>
+<item>retinal cells</item>
+</list>
+</problem>
+<solution id="fs-id1413961">
+<label/>
+<para id="fs-id1224982">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1414216">
+<problem id="fs-id1081284"><para id="fs-id1414548">The production of melatonin is inhibited by ________.</para>
+<list id="fs-id1387430" list-type="enumerated" number-style="lower-alpha">
+<item>declining levels of light</item>
+<item>exposure to bright light</item>
+<item>the secretion of serotonin</item>
+<item>the activity of pinealocytes</item>
+</list>
+</problem>
+<solution id="fs-id1232615">
+<label/>
+<para id="fs-id1386116">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1274353" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1421708">
+<problem id="fs-id1421894">
+<para id="fs-id1398292">Seasonal affective disorder (SAD) is a mood disorder characterized by, among other symptoms, increased appetite, sluggishness, and increased sleepiness. It occurs most commonly during the winter months, especially in regions with long winter nights. Propose a role for melatonin in SAD and a possible non-drug therapy.</para></problem>
+<solution id="fs-id849154"><label/>
+<para id="fs-id1432416">SAD is thought to occur in part because low levels and duration of sunlight allow excessive and prolonged secretion of melatonin. Light therapy—daytime exposure to very bright lighting—is one common therapy.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1255046">
+<problem id="fs-id1390078">
+<para id="fs-id841960">Retinitis pigmentosa (RP) is a disease that causes deterioration of the retinas of the eyes. Describe the impact RP would have on melatonin levels.</para></problem>
+<solution id="fs-id801955"><label/>
+<para id="fs-id1407838">The retina is important for melatonin production because it senses light. Bright light inhibits the production of melatonin, whereas low light levels promote the production of melatonin. Therefore, deterioration of the retinas would most likely disturb the sleep-wake pattern because melatonin production would be elevated.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1409186"><term>melatonin</term> <meaning id="fs-id1204935">amino acid–derived hormone that is secreted in response to low light and causes drowsiness</meaning></definition>
+<definition id="fs-id2514459"><term>pineal gland</term> <meaning id="fs-id2260471">endocrine gland that secretes melatonin, which is important in regulating the sleep-wake cycle</meaning></definition>
+<definition id="fs-id2612370"><term>pinealocyte</term> <meaning id="fs-id2525225">cell of the pineal gland that produces and secretes the hormone melatonin</meaning></definition>
+</glossary>
+</document>

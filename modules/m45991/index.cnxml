@@ -1,0 +1,159 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Medical Imaging </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45991</md:content-id>
+  <md:title>Medical Imaging </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Discuss the uses and drawbacks of X-ray imaging</item>
+<item>Identify four modern medical imaging techniques and how they are used</item>
+</list></md:abstract>
+  <md:uuid>bda09c0d-e898-4653-9d37-3cb49fab55e5</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2614479">For thousands of years, fear of the dead and legal sanctions limited the ability of anatomists and physicians to study the internal structures of the human body. An inability to control bleeding, infection, and pain made surgeries infrequent, and those that were performed—such as wound suturing, amputations, tooth and tumor removals, skull drilling, and cesarean births—did not greatly advance knowledge about internal anatomy. Theories about the function of the body and about disease were therefore largely based on external observations and imagination. During the fourteenth and fifteenth centuries, however, the detailed anatomical drawings of Italian artist and anatomist Leonardo da Vinci and Flemish anatomist Andreas Vesalius were published, and interest in human anatomy began to increase. Medical schools began to teach anatomy using human dissection; although some resorted to grave robbing to obtain corpses. Laws were eventually passed that enabled students to dissect the corpses of criminals and those who donated their bodies for research. Still, it was not until the late nineteenth century that medical researchers discovered non-surgical methods to look inside the living body.</para>
+<section id="fs-id2622766">
+<title>X-Rays</title>
+<para id="fs-id2162168">German physicist Wilhelm Röntgen (1845–1923) was experimenting with electrical current when he discovered that a mysterious and invisible “ray” would pass through his flesh but leave an outline of his bones on a screen coated with a metal compound. In 1895, Röntgen made the first durable record of the internal parts of a living human: an “X-ray” image (as it came to be called) of his wife’s hand. Scientists around the world quickly began their own experiments with X-rays, and by 1900, X-rays were widely used to detect a variety of injuries and diseases. In 1901, Röntgen was awarded the first Nobel Prize for physics for his work in this field.</para><para id="fs-id1431659">The <term>X-ray</term> is a form of high energy electromagnetic radiation with a short wavelength capable of penetrating solids and ionizing gases. As they are used in medicine, X-rays are emitted from an X-ray machine and directed toward a specially treated metallic plate placed behind the patient’s body. The beam of radiation results in darkening of the X-ray plate. X-rays are slightly impeded by soft tissues, which show up as gray on the X-ray plate, whereas hard tissues, such as bone, largely block the rays, producing a light-toned “shadow.” Thus, X-rays are best used to visualize hard body structures such as teeth and bones (<link target-id="fig-ch01_07_01" document=""/>). Like many forms of high energy radiation, however, X-rays are capable of damaging cells and initiating changes that can lead to cancer. This danger of excessive exposure to X-rays was not fully appreciated for many years after their widespread use.</para><figure id="fig-ch01_07_01"><title>X-Ray of a Hand</title><media id="fs-id1699202" alt="This photo shows an X ray image of the palmar surface of the left hand. The bones appear bright white against a gray outline of the skin of the hand. The four segments of the finger bones are clearly visible, as well as the collection of round bones that compose the wrist and connect the hand to the two bones of the forearm.">
+<image mime-type="image/jpg" src="../../media/01_16_X-ray_of_Hand.jpg" width="270"/>
+</media>
+<caption>High energy electromagnetic radiation allows the internal structures of the body, such as bones, to be seen in X-rays like these. (credit: Trace Meek/flickr)</caption></figure><para id="fs-id2566590">Refinements and enhancements of X-ray techniques have continued throughout the twentieth and twenty-first centuries. Although often supplanted by more sophisticated imaging techniques, the X-ray remains a “workhorse” in medical imaging, especially for viewing fractures and for dentistry. The disadvantage of irradiation to the patient and the operator is now attenuated by proper shielding and by limiting exposure.</para></section>
+<section id="fs-id2017522">
+<title>Modern Medical Imaging</title>
+<para id="fs-id2694909">X-rays can depict a two-dimensional image of a body region, and only from a single angle. In contrast, more recent medical imaging technologies produce data that is integrated and analyzed by computers to produce three-dimensional images or images that reveal aspects of body functioning.</para>
+<section id="fs-id1473697">
+<title>Computed Tomography</title>
+<para id="fs-id2569694">Tomography refers to imaging by sections. <term>Computed tomography (CT)</term> is a noninvasive imaging technique that uses computers to analyze several cross-sectional X-rays in order to reveal minute details about structures in the body (<link target-id="fig-ch01_07_02" document=""/><emphasis effect="bold">a</emphasis>). The technique was invented in the 1970s and is based on the principle that, as X-rays pass through the body, they are absorbed or reflected at different levels. In the technique, a patient lies on a motorized platform while a computerized axial tomography (CAT) scanner rotates 360 degrees around the patient, taking X-ray images. A computer combines these images into a two-dimensional view of the scanned area, or “slice.”</para><figure id="fig-ch01_07_02"><title>Medical Imaging Techniques</title><media id="fs-id1517329" alt="These photos shows four types of imaging equipment. Photo A, the results of a CT scan, shows 17 different transverse views of the skull, each taken at a different depth along the superior-inferior axis. The images are translucent, similar to an X ray, and are viewed on a light board. Photo B shows an MRI machine, which is a large drum into which lying patients enter via a conveyor belt. Photo C shows computer images of the body taken with PET scans. This produces anterior, lateral, posterior, and transverse views of the body that reveal the structure of the internal organs. Photo D shows an ultrasound readout, which is black and white. The image depicts solid tissues as light areas and empty space as dark areas. Some of the features of a young fetus can be seen in the empty space at the center of the image. The space containing the fetus is surrounded by the solid tissue of the uterus.">
+<image mime-type="image/jpg" src="../../media/113abcd_Medical_Imaging_Techniques.jpg" width="480"/>
+</media>
+<caption>(a) The results of a CT scan of the head are shown as successive transverse sections. (b) An MRI machine generates a magnetic field around a patient. (c) PET scans use radiopharmaceuticals to create images of active blood flow and physiologic activity of the organ or organs being targeted. (d) Ultrasound technology is used to monitor pregnancies because it is the least invasive of imaging techniques and uses no electromagnetic radiation. (credit a: Akira Ohgaki/flickr; credit b: “Digital Cate”/flickr; credit c: “Raziel”/Wikimedia Commons; credit d: “Isis”/Wikimedia Commons)</caption></figure><para id="fs-id1747669">Since 1970, the development of more powerful computers and more sophisticated software has made CT scanning routine for many types of diagnostic evaluations. It is especially useful for soft tissue scanning, such as of the brain and the thoracic and abdominal viscera. Its level of detail is so precise that it can allow physicians to measure the size of a mass down to a millimeter. The main disadvantage of CT scanning is that it exposes patients to a dose of radiation many times higher than that of X-rays. In fact, children who undergo CT scans are at increased risk of developing cancer, as are adults who have multiple CT scans.</para><note id="fs-id2138801" class="anatomy interactive"><label/>
+<para id="fs-id2025531">A CT or CAT scan relies on a circling scanner that revolves around the patient’s body. Watch this <link url="http://openstax.org/l/CATscan">video</link> to learn more about CT and CAT scans. What type of radiation does a CT scanner use?</para>
+</note></section>
+<section id="fs-id1364876">
+<title>Magnetic Resonance Imaging</title>
+<para id="fs-id2523214"><term>Magnetic resonance imaging (MRI)</term> is a noninvasive medical imaging technique based on a phenomenon of nuclear physics discovered in the 1930s, in which matter exposed to magnetic fields and radio waves was found to emit radio signals. In 1970, a physician and researcher named Raymond Damadian noticed that malignant (cancerous) tissue gave off different signals than normal body tissue. He applied for a patent for the first MRI scanning device, which was in use clinically by the early 1980s. The early MRI scanners were crude, but advances in digital computing and electronics led to their advancement over any other technique for precise imaging, especially to discover tumors. MRI also has the major advantage of not exposing patients to radiation.</para>
+<para id="fs-id1960262">Drawbacks of MRI scans include their much higher cost, and patient discomfort with the procedure. The MRI scanner subjects the patient to such powerful electromagnets that the scan room must be shielded. The patient must be enclosed in a metal tube-like device for the duration of the scan (see <link target-id="fig-ch01_07_02" document=""/><emphasis effect="bold">b</emphasis>), sometimes as long as thirty minutes, which can be uncomfortable and impractical for ill patients. The device is also so noisy that, even with earplugs, patients can become anxious or even fearful. These problems have been overcome somewhat with the development of “open” MRI scanning, which does not require the patient to be entirely enclosed in the metal tube. Patients with iron-containing metallic implants (internal sutures, some prosthetic devices, and so on) cannot undergo MRI scanning because it can dislodge these implants.</para>
+<para id="fs-id2291906">Functional MRIs (fMRIs), which detect the concentration of blood flow in certain parts of the body, are increasingly being used to study the activity in parts of the brain during various body activities. This has helped scientists learn more about the locations of different brain functions and more about brain abnormalities and diseases.</para>
+<note id="fs-id2327865" class="anatomy interactive">
+<label/>
+<para id="fs-id2051985">A patient undergoing an MRI is surrounded by a tube-shaped scanner. Watch this <link url="http://openstax.org/l/MRI">video</link> to learn more about MRIs. What is the function of magnets in an MRI?</para>
+</note>
+</section>
+<section id="fs-id2197878">
+<title>Positron Emission Tomography</title>
+<para id="fs-id2299812"><term>Positron emission tomography (PET)</term> is a medical imaging technique involving the use of so-called radiopharmaceuticals, substances that emit radiation that is short-lived and therefore relatively safe to administer to the body. Although the first PET scanner was introduced in 1961, it took 15 more years before radiopharmaceuticals were combined with the technique and revolutionized its potential. The main advantage is that PET (see <link target-id="fig-ch01_07_02" document=""/><emphasis effect="bold">c</emphasis>) can illustrate physiologic activity—including nutrient metabolism and blood flow—of the organ or organs being targeted, whereas CT and MRI scans can only show static images. PET is widely used to diagnose a multitude of conditions, such as heart disease, the spread of cancer, certain forms of infection, brain abnormalities, bone disease, and thyroid disease.</para>
+<note id="fs-id1918607" class="anatomy interactive">
+<label/>
+<para id="fs-id2228496">PET relies on radioactive substances administered several minutes before the scan. Watch this <link url="http://openstax.org/l/PET">video</link> to learn more about PET. How is PET used in chemotherapy?</para>
+</note>
+</section>
+<section id="fs-id2251902">
+<title>Ultrasonography</title>
+<para id="fs-id1277947"><term>Ultrasonography</term> is an imaging technique that uses the transmission of high-frequency sound waves into the body to generate an echo signal that is converted by a computer into a real-time image of anatomy and physiology (see <link target-id="fig-ch01_07_02" document=""/><emphasis effect="bold">d</emphasis>). Ultrasonography is the least invasive of all imaging techniques, and it is therefore used more freely in sensitive situations such as pregnancy. The technology was first developed in the 1940s and 1950s. Ultrasonography is used to study heart function, blood flow in the neck or extremities, certain conditions such as gallbladder disease, and fetal growth and development. The main disadvantages of ultrasonography are that the image quality is heavily operator-dependent and that it is unable to penetrate bone and gas.</para>
+</section>
+</section>
+<section id="fs-id2104180" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1689506">Detailed anatomical drawings of the human body first became available in the fifteenth and sixteenth centuries; however, it was not until the end of the nineteenth century, and the discovery of X-rays, that anatomists and physicians discovered non-surgical methods to look inside a living body. Since then, many other techniques, including CT scans, MRI scans, PET scans, and ultrasonography, have been developed, providing more accurate and detailed views of the form and function of the human body.</para></section>
+<section id="fs-id1961948" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id2524869">
+<problem id="fs-id2269341"><para id="fs-id1990564">A CT or CAT scan relies on a circling scanner that revolves around the patient’s body. Watch this <link url="http://openstax.org/l/CATscan">video</link> to learn more about CT and CAT scans. What type of radiation does a CT scanner use?</para></problem>
+<solution id="fs-id2137766">
+<label/>
+<para id="fs-id2327229">X-rays.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2108871">
+<problem id="fs-id2031408"><para id="fs-id2324682">A patient undergoing an MRI is surrounded by a tube-shaped scanner. Watch this <link url="http://openstax.org/l/MRI">video</link> to learn more about MRIs. What is the function of magnets in an MRI?</para></problem>
+<solution id="fs-id1898861">
+<label/>
+<para id="fs-id1357426">The magnets induce tissue to emit radio signals that can show differences between different types of tissue.</para></solution>
+</exercise>
+<exercise id="fs-id1291623">
+<problem id="fs-id2663849"><para id="fs-id1890699">PET relies on radioactive substances administered several minutes before the scan. Watch this <link url="http://openstax.org/l/PET">video</link> to learn more about PET. How is PET used in chemotherapy?</para></problem>
+<solution id="fs-id1765288">
+<label/>
+<para id="fs-id2109964">PET scans can indicate how patients are responding to chemotherapy.</para></solution>
+</exercise>
+</section>
+<section id="fs-id2156002" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2246580">
+<problem id="fs-id2007322"><para id="fs-id1845310">In 1901, Wilhelm Röntgen was the first person to win the Nobel Prize for physics. For what discovery did he win?</para>
+<list id="fs-id2623401" list-type="enumerated" number-style="lower-alpha"><item>nuclear physics</item>
+<item>radiopharmaceuticals</item>
+<item>the link between radiation and cancer</item>
+<item>X-rays</item>
+</list></problem>
+<solution id="fs-id1700055">
+<label/>
+<para id="fs-id1278156">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2607216">
+<problem id="fs-id2875715"><para id="fs-id1592634">Which of the following imaging techniques would be best to use to study the uptake of nutrients by rapidly multiplying cancer cells?</para>
+<list id="fs-id2129587" list-type="enumerated" number-style="lower-alpha">
+<item>CT</item>
+<item>MRI</item>
+<item>PET</item>
+<item>ultrasonography</item>
+</list>
+</problem>
+<solution id="fs-id2305454">
+<label/>
+<para id="fs-id2493827">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1227190">
+<problem id="fs-id1476038"><para id="fs-id2227353">Which of the following imaging studies can be used most safely during pregnancy?</para>
+<list id="fs-id2489351" list-type="enumerated" number-style="lower-alpha"><item>CT scans</item>
+<item>PET scans</item>
+<item>ultrasounds</item>
+<item>X-rays</item>
+</list></problem>
+<solution id="fs-id1706969">
+<label/>
+<para id="fs-id2644099">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1435474">
+<problem id="fs-id1881825"><para id="fs-id2693936">What are two major disadvantages of MRI scans?</para>
+<list id="fs-id2351150" list-type="enumerated" number-style="lower-alpha">
+<item>release of radiation and poor quality images</item>
+<item>high cost and the need for shielding from the magnetic signals</item>
+<item>can only view metabolically active tissues and inadequate availability of equipment</item>
+<item>release of radiation and the need for a patient to be confined to metal tube for up to 30 minutes</item>
+</list>
+</problem>
+<solution id="fs-id1216025">
+<label/>
+<para id="fs-id1491781">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1385797" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2718727">
+<problem id="fs-id1485019"><para id="fs-id1961478">Which medical imaging technique is most dangerous to use repeatedly, and why?</para></problem>
+<solution id="fs-id2736942"><label/>
+<para id="fs-id2580575">CT scanning subjects patients to much higher levels of radiation than X-rays, and should not be performed repeatedly.</para></solution>
+</exercise>
+<exercise id="fs-id1632217">
+<problem id="fs-id1903565"><para id="fs-id1903566">Explain why ultrasound imaging is the technique of choice for studying fetal growth and development.</para></problem>
+<solution id="fs-id2414343"><label/>
+<para id="fs-id1909385">Ultrasonography does not expose a mother or fetus to radiation, to radiopharmaceuticals, or to magnetic fields. At this time, there are no known medical risks of ultrasonography.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2842492"><term>computed tomography (CT)</term> <meaning id="fs-id2353665">medical imaging technique in which a computer-enhanced cross-sectional X-ray image is obtained</meaning></definition>
+<definition id="fs-id1882117"><term>magnetic resonance imaging (MRI)</term> <meaning id="fs-id2660968">medical imaging technique in which a device generates a magnetic field to obtain detailed sectional images of the internal structures of the body</meaning></definition>
+<definition id="fs-id1649403"><term>positron emission tomography (PET)</term> <meaning id="fs-id1904229">medical imaging technique in which radiopharmaceuticals are traced to reveal metabolic and physiological functions in tissues</meaning></definition>
+<definition id="fs-id2069470"><term>ultrasonography</term> <meaning id="fs-id1351556">application of ultrasonic waves to visualize subcutaneous body structures such as tendons and organs</meaning></definition>
+<definition id="fs-id2138074"><term>X-ray</term> <meaning id="fs-id2589557">form of high energy electromagnetic radiation with a short wavelength capable of penetrating solids and ionizing gases; used in medicine as a diagnostic aid to visualize body structures such as bones</meaning></definition>
+</glossary>
+</document>

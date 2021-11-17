@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bone Classification </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46282</md:content-id>
+  <md:title>Bone Classification </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Classify bones according to their shapes</item>
+<item>Describe the function of each category of bones</item>
+</list></md:abstract>
+  <md:uuid>f31ed894-b1ee-470d-9adb-7cf69966a03d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1323961">The 206 bones that compose the adult skeleton are divided into five categories based on their shapes (<link target-id="fig-ch06_02_01" document=""/>). Their shapes and their functions are related such that each categorical shape of bone has a distinct function.</para>
+<figure id="fig-ch06_02_01"><title>Classifications of Bones </title><media id="fs-id1955545" alt="This illustration shows an anterior view of a human skeleton with call outs of five bones. The first call out is the sternum, or breast bone, which lies along the midline of the thorax. The sternum is the bone to which the ribs connect at the front of the body. It is classified as a flat bone and appears somewhat like a tie, with an enlarged upper section and a thin, tapering, lower section. The next callout is the right femur, which is the thigh bone. The inferior end of the femur is broad where it connects to the knee while the superior edge is ball-shaped where it attaches to the hip socket. The femur is an example of a long bone. The next callout is of the patella or kneecap. It is a small, wedge-shaped bone that sits on the anterior side of the knee. The kneecap is an example of a sesamoid bone. The next callout is a dorsal view of the right foot. The lateral, intermediate and medial cuneiform bones are small, square-shaped bones of the top of the foot. These bones lie between the proximal edge of the toe bones and the inferior edge of the shin bones. The lateral cuneiform is proximal to the fourth toe while the medial cuneiform is proximal to the great toe. The intermediate cuneiform lies between the lateral and medial cuneiform. These bones are examples of short bones. The fifth callout shows a superior view of one of the lumbar vertebrae. The vertebra has a kidney-shaped body connected to a triangle of bone that projects above the body of the vertebra. Two spines project off of the triangle at approximately 45 degree angles. The vertebrae are examples of irregular bones.">
+<image mime-type="image/jpeg" src="../../media/601_Bone_Classification.jpg" width="600"/>
+</media>
+
+<caption>Bones are classified according to their shape.</caption></figure><section id="fs-id1170296">
+<title>Long Bones</title>
+<para id="fs-id856306">A <term>long bone</term> is one that is cylindrical in shape, being longer than it is wide. Keep in mind, however, that the term describes the shape of a bone, not its size. Long bones are found in the arms (humerus, ulna, radius) and legs (femur, tibia, fibula), as well as in the fingers (metacarpals, phalanges) and toes (metatarsals, phalanges). Long bones function as levers; they move when muscles contract.</para>
+</section>
+<section id="fs-id1639531">
+<title>Short Bones</title>
+<para id="fs-id962590">A <term>short bone</term> is one that is cube-like in shape, being approximately equal in length, width, and thickness. The only short bones in the human skeleton are in the carpals of the wrists and the tarsals of the ankles. Short bones provide stability and support as well as some limited motion.</para>
+</section>
+<section id="fs-id1016222">
+<title>Flat Bones</title>
+<para id="fs-id1739295">The term “<term>flat bone</term>” is somewhat of a misnomer because, although a flat bone is typically thin, it is also often curved. Examples include the cranial (skull) bones, the scapulae (shoulder blades), the sternum (breastbone), and the ribs. Flat bones serve as points of attachment for muscles and often protect internal organs.</para></section>
+<section id="fs-id1643285">
+<title>Irregular Bones</title>
+<para id="fs-id1064136">An <term>irregular bone</term> is one that does not have any easily characterized shape and therefore does not fit any other classification. These bones tend to have more complex shapes, like the vertebrae that support the spinal cord and protect it from compressive forces. Many facial bones, particularly the ones containing sinuses, are classified as irregular bones.</para>
+</section>
+<section id="fs-id1170424">
+<title>Sesamoid Bones</title>
+<para id="fs-id773871">A <term>sesamoid bone</term> is a small, round bone that, as the name suggests, is shaped like a sesame seed. These bones form in tendons (the sheaths of tissue that connect bones to muscles) where a great deal of pressure is generated in a joint. The sesamoid bones protect tendons by helping them overcome compressive forces. Sesamoid bones vary in number and placement from person to person but are typically found in tendons associated with the feet, hands, and knees. The patellae (singular = patella) are the only sesamoid bones found in common with every person. <link target-id="tbl-ch06_01" document=""/> reviews bone classifications with their associated features, functions, and examples.</para>
+
+<table class="top-titled" id="tbl-ch06_01" summary="Bone Classifications">
+<tgroup cols="4" align="left"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4">Bone Classifications</entry>
+</row>
+<row>
+<entry>Bone classification</entry>
+<entry>Features</entry>
+<entry>Function(s)</entry>
+<entry>Examples</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>Long</entry>
+<entry>Cylinder-like shape, longer than it is wide</entry>
+<entry>Leverage</entry>
+<entry>Femur, tibia, fibula, metatarsals, humerus, ulna, radius, metacarpals, phalanges</entry>
+</row>
+<row>
+<entry>Short</entry>
+<entry>Cube-like shape, approximately equal in length, width, and thickness</entry> 
+<entry>Provide stability, support, while allowing for some motion</entry>
+<entry>Carpals, tarsals</entry>
+</row>
+<row>
+<entry>Flat</entry>
+<entry>Thin and curved</entry>
+<entry>Points of attachment for muscles; protectors of internal organs</entry>
+<entry>Sternum, ribs, scapulae, cranial bones</entry>
+</row>
+<row>
+<entry>Irregular</entry>
+<entry>Complex shape</entry>
+<entry>Protect internal organs</entry> 
+<entry>Vertebrae, facial bones</entry>
+</row>
+<row>
+<entry>Sesamoid</entry>
+<entry>Small and round; embedded in tendons</entry>
+<entry>Protect tendons from compressive forces</entry>
+<entry>Patellae</entry>
+</row>
+
+</tbody>
+
+</tgroup>
+</table></section>
+<section id="fs-id1534723" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1862528">Bones can be classified according to their shapes. Long bones, such as the femur, are longer than they are wide. Short bones, such as the carpals, are approximately equal in length, width, and thickness. Flat bones are thin, but are often curved, such as the ribs. Irregular bones such as those of the face have no characteristic shape. Sesamoid bones, such as the patellae, are small and round, and are located in tendons.</para></section>
+<section id="fs-id1239338" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1859097">
+<problem id="fs-id1168022"><para id="fs-id1272003">Most of the bones of the arms and hands are long bones; however, the bones in the wrist are categorized as ________.</para>
+<list id="fs-id1812322" list-type="enumerated" number-style="lower-alpha">
+<item>flat bones</item>
+<item>short bones</item>
+<item>sesamoid bones</item>
+<item>irregular bones</item>
+</list>
+</problem>
+<solution id="fs-id1189148">
+<label/>
+<para id="fs-id756984">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1057151">
+<problem id="fs-id1696501"><para id="fs-id1954534">Sesamoid bones are found embedded in ________.</para>
+<list id="fs-id1467311" list-type="enumerated" number-style="lower-alpha">
+<item>joints</item>
+<item>muscles</item>
+<item>ligaments</item>
+<item>tendons</item>
+</list>
+</problem>
+<solution id="fs-id951414">
+<label/>
+<para id="fs-id1857824">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1434572">
+<problem id="fs-id1016227"><para id="fs-id1689547">Bones that surround the spinal cord are classified as ________ bones.</para>
+<list id="fs-id756453" list-type="enumerated" number-style="lower-alpha">
+<item>irregular</item>
+<item>sesamoid</item>
+<item>flat</item>
+<item>short</item>
+</list>
+</problem>
+<solution id="fs-id1594732">
+<label/>
+<para id="fs-id1467920">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id691668">
+<problem id="fs-id692297"><para id="fs-id1301140">Which category of bone is among the most numerous in the skeleton?</para>
+<list id="fs-id1236964" list-type="enumerated" number-style="lower-alpha">
+<item>long bone</item>
+<item>sesamoid bone</item>
+<item>short bone</item>
+<item>flat bone</item>
+</list>
+</problem>
+<solution id="fs-id1273266">
+<label/>
+<para id="fs-id1392812">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1284008">
+<problem id="fs-id787492"><para id="fs-id1554725">Long bones enable body movement by acting as a ________.</para>
+<list id="fs-id1859796" list-type="enumerated" number-style="lower-alpha">
+<item>counterweight</item>
+<item>resistive force</item>
+<item>lever</item>
+<item>fulcrum</item>
+</list>
+</problem>
+<solution id="fs-id813284">
+<label/>
+<para id="fs-id1859790">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1641280" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1319983">
+<problem id="fs-id1476517"><para id="fs-id1534146">What are the structural and functional differences between a tarsal and a metatarsal?</para></problem>
+<solution id="fs-id1512226"><label/>
+<para id="fs-id1270632">Structurally, a tarsal is a short bone, meaning its length, width, and thickness are about equal, while a metatarsal is a long bone whose length is greater than its width. Functionally, the tarsal provides limited motion, while the metatarsal acts as a lever.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1311450">
+<problem id="fs-id1733552"><para id="fs-id1618681">What are the structural and functional differences between the femur and the patella?</para></problem>
+<solution id="fs-id1455888"><label/>
+<para id="fs-id1271570">Structurally, the femur is a long bone, meaning its length is greater than its width, while the patella, a sesamoid bone, is small and round. Functionally, the femur acts as a lever, while the patella protects the patellar tendon from compressive forces.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1078988"><term>flat bone</term> <meaning id="fs-id1955244">thin and curved bone; serves as a point of attachment for muscles and protects internal organs</meaning></definition>
+<definition id="fs-id1302889"><term>irregular bone</term> <meaning id="fs-id1172558">bone of complex shape; protects internal organs from compressive forces</meaning></definition>
+<definition id="fs-id1286119"><term>long bone</term> <meaning id="fs-id1944258">cylinder-shaped bone that is longer than it is wide; functions as a lever</meaning></definition>
+<definition id="fs-id1093994"><term>sesamoid bone</term> <meaning id="fs-id1486083">small, round bone embedded in a tendon; protects the tendon from compressive forces</meaning></definition>
+<definition id="fs-id1734166"><term>short bone</term> <meaning id="fs-id1613505">cube-shaped bone that is approximately equal in length, width, and thickness; provides limited motion</meaning></definition>
+</glossary>
+</document>

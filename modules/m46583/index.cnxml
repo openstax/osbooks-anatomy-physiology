@@ -1,0 +1,295 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Transplantation and Cancer Immunology </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46583</md:content-id>
+  <md:title>Transplantation and Cancer Immunology </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain why blood typing is important and what happens when mismatched blood is used in a transfusion</item>
+<item>Describe how tissue typing is done during organ transplantation and the role of transplant anti-rejection drugs</item>
+<item>Show how the immune response is able to control some cancers and how this immune response might be enhanced by cancer vaccines</item>
+</list></md:abstract>
+  <md:uuid>a5e05827-2e27-4659-852b-8bb4f7eba36b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2122116">The immune responses to transplanted organs and to cancer cells are both important medical issues. With the use of tissue typing and anti-rejection drugs, transplantation of organs and the control of the anti-transplant immune response have made huge strides in the past 50 years. Today, these procedures are commonplace. <term>Tissue typing</term> is the determination of MHC molecules in the tissue to be transplanted to better match the donor to the recipient. The immune response to cancer, on the other hand, has been more difficult to understand and control. Although it is clear that the immune system can recognize some cancers and control them, others seem to be resistant to immune mechanisms.</para>
+<section id="fs-id1950171">
+<title>The Rh Factor</title>
+<para id="fs-id1417330">Red blood cells can be typed based on their surface antigens. ABO blood type, in which individuals are type A, B, AB, or O according to their genetics, is one example. A separate antigen system seen on red blood cells is the Rh antigen. When someone is “A positive” for example, the positive refers to the presence of the Rh antigen, whereas someone who is “A negative” would lack this molecule.</para>
+<para id="fs-id2158747">An interesting consequence of Rh factor expression is seen in <term>erythroblastosis fetalis</term>, a hemolytic disease of the newborn (<link target-id="fig-ch22_07_01" document=""/>). This disease occurs when mothers negative for Rh antigen have multiple Rh-positive children. During the birth of a first Rh-positive child, the mother makes a primary anti-Rh antibody response to the fetal blood cells that enter the maternal bloodstream. If the mother has a second Rh-positive child, IgG antibodies against Rh-positive blood mounted during this secondary response cross the placenta and attack the fetal blood, causing anemia. This is a consequence of the fact that the fetus is not genetically identical to the mother, and thus the mother is capable of mounting an immune response against it. This disease is treated with antibodies specific for Rh factor. These are given to the mother during the first and subsequent births, destroying any fetal blood that might enter her system and preventing the immune response.</para><figure id="fig-ch22_07_01"><title>Erythroblastosis Fetalis </title><media id="fs-id1892568" alt="This figure shows the progression of thedisease called erythroblastosis fetalis. The top panel shows the umbilical artery and vein and the placenta. The center panel shows the response in the immune system of a first Rh+ infant. The bottom panel shows the response in the case of a second exposure for a Rh+ infant.">
+<image mime-type="image/jpg" src="../../media/2230_Erythroblastosis_Fetalis.jpg" width="500"/>
+</media>
+<caption>Erythroblastosis fetalis (hemolytic disease of the newborn) is the result of an immune response in an Rh-negative mother who has multiple children with an Rh-positive father. During the first birth, fetal blood enters the mother’s circulatory system, and anti-Rh antibodies are made. During the gestation of the second child, these antibodies cross the placenta and attack the blood of the fetus. The treatment for this disease is to give the mother anti-Rh antibodies (RhoGAM) during the first pregnancy to destroy Rh-positive fetal red blood cells from entering her system and causing the anti-Rh antibody response in the first place.</caption></figure></section>
+<section id="fs-id1371098">
+<title>Tissue Transplantation</title>
+<para id="fs-id2237570">Tissue transplantation is more complicated than blood transfusions because of two characteristics of MHC molecules. These molecules are the major cause of transplant rejection (hence the name “histocompatibility”). <term>MHC polygeny</term> refers to the multiple MHC proteins on cells, and <term>MHC polymorphism</term> refers to the multiple alleles for each individual MHC locus. Thus, there are many alleles in the human population that can be expressed (<link target-id="tbl-ch22_08" document=""/> and <link target-id="tbl-ch22_09" document=""/>). When a donor organ expresses MHC molecules that are different from the recipient, the latter will often mount a cytotoxic T cell response to the organ and reject it. Histologically, if a biopsy of a transplanted organ exhibits massive infiltration of T lymphocytes within the first weeks after transplant, it is a sign that the transplant is likely to fail. The response is a classical, and very specific, primary T cell immune response. As far as medicine is concerned, the immune response in this scenario does the patient no good at all and causes significant harm.</para><table class="top-titled" id="tbl-ch22_08" summary="">
+<tgroup cols="3" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Partial Table of Alleles of the Human MHC (Class I)</entry>
+</row>
+<row>
+<entry>Gene</entry>
+<entry># of alleles</entry>
+<entry># of possible MHC I protein components</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>A</entry>
+<entry>2132</entry>
+<entry>1527</entry>
+</row>
+<row>
+<entry>B</entry>
+<entry>2798</entry>
+<entry>2110</entry>
+</row>
+<row>
+<entry>C</entry>
+<entry>1672</entry>
+<entry>1200</entry>
+</row>
+<row>
+<entry>E</entry>
+<entry>11</entry>
+<entry>3</entry>
+</row>
+<row>
+<entry>F</entry>
+<entry>22</entry>
+<entry>4</entry>
+</row>
+<row>
+<entry>G</entry>
+<entry>50</entry>
+<entry>16</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table class="top-titled" id="tbl-ch22_09" summary="">
+<tgroup cols="3" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Partial Table of Alleles of the Human MHC (Class II)</entry>
+</row>
+<row>
+<entry>Gene</entry>
+<entry># of alleles</entry>
+<entry># of possible MHC II protein components</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>DRA</entry>
+<entry>7</entry>
+<entry>2</entry></row>
+<row>
+<entry>DRB</entry>
+<entry>1297</entry>
+<entry>958</entry>
+</row>
+<row>
+<entry>DQA1</entry>
+<entry>49</entry>
+<entry>31</entry>
+</row>
+<row><entry>DQB1</entry>
+<entry>179</entry>
+<entry>128</entry></row>
+<row>
+<entry>DPA1</entry>
+<entry>36</entry>
+<entry>18</entry>
+</row>
+<row><entry>DPB1</entry>
+<entry>158</entry>
+<entry>136</entry></row>
+<row>
+<entry>DMA</entry>
+<entry>7</entry>
+<entry>4</entry>
+</row>
+<row><entry>DMB</entry>
+<entry>13</entry>
+<entry>7</entry></row>
+<row><entry>DOA</entry>
+<entry>12</entry>
+<entry>3</entry>
+</row>
+<row><entry>DOB</entry>
+<entry>13</entry>
+<entry>5</entry>
+</row></tbody>
+</tgroup>
+</table>
+<para id="fs-id1949990">Immunosuppressive drugs such as cyclosporine A have made transplants more successful, but matching the MHC molecules is still key. In humans, there are six MHC molecules that show the most polymorphisms, three class I molecules (A, B, and C) and three class II molecules called DP, DQ, and DR. A successful transplant usually requires a match between at least 3–4 of these molecules, with more matches associated with greater success. Family members, since they share a similar genetic background, are much more likely to share MHC molecules than unrelated individuals do. In fact, due to the extensive polymorphisms in these MHC molecules, unrelated donors are found only through a worldwide database. The system is not foolproof however, as there are not enough individuals in the system to provide the organs necessary to treat all patients needing them.</para>
+<para id="fs-id2229766">One disease of transplantation occurs with bone marrow transplants, which are used to treat various diseases, including SCID and leukemia. Because the bone marrow cells being transplanted contain lymphocytes capable of mounting an immune response, and because the recipient’s immune response has been destroyed before receiving the transplant, the donor cells may attack the recipient tissues, causing <term>graft-versus-host disease</term>. Symptoms of this disease, which usually include a rash and damage to the liver and mucosa, are variable, and attempts have been made to moderate the disease by first removing mature T cells from the donor bone marrow before transplanting it.</para>
+</section>
+<section id="fs-id1707607"><title>Immune Responses Against Cancer</title><para id="fs-id1837177">It is clear that with some cancers, for example Kaposi’s sarcoma, a healthy immune system does a good job at controlling them (<link target-id="fig-ch22_07_02" document=""/>). This disease, which is caused by the human herpesvirus, is almost never observed in individuals with strong immune systems, such as the young and immunocompetent. Other examples of cancers caused by viruses include liver cancer caused by the hepatitis B virus and cervical cancer caused by the human papilloma virus. As these last two viruses have vaccines available for them, getting vaccinated can help prevent these two types of cancer by stimulating the immune response.</para>
+<figure id="fig-ch22_07_02"><title>Karposi’s Sarcoma Lesions </title><media id="fs-id1697696" alt="This photograph shows lesions on the surface of skin.">
+<image mime-type="image/jpg" src="../../media/2231_Kaposis_Sacroma_Lesions.jpg" width="380"/>
+</media>
+<caption>(credit: National Cancer Institute)</caption></figure><para id="fs-id2464332">On the other hand, as cancer cells are often able to divide and mutate rapidly, they may escape the immune response, just as certain pathogens such as HIV do. There are three stages in the immune response to many cancers: elimination, equilibrium, and escape. Elimination occurs when the immune response first develops toward tumor-specific antigens specific to the cancer and actively kills most cancer cells, followed by a period of controlled equilibrium during which the remaining cancer cells are held in check. Unfortunately, many cancers mutate, so they no longer express any specific antigens for the immune system to respond to, and a subpopulation of cancer cells escapes the immune response, continuing the disease process.</para>
+<para id="fs-id2265552">This fact has led to extensive research in trying to develop ways to enhance the early immune response to completely eliminate the early cancer and thus prevent a later escape. One method that has shown some success is the use of cancer vaccines, which differ from viral and bacterial vaccines in that they are directed against the cells of one’s own body. Treated cancer cells are injected into cancer patients to enhance their anti-cancer immune response and thereby prolong survival. The immune system has the capability to detect these cancer cells and proliferate faster than the cancer cells do, overwhelming the cancer in a similar way as they do for viruses. Cancer vaccines have been developed for malignant melanoma, a highly fatal skin cancer, and renal (kidney) cell carcinoma. These vaccines are still in the development stages, but some positive and encouraging results have been obtained clinically.</para>
+<para id="fs-id1698041">It is tempting to focus on the complexity of the immune system and the problems it causes as a negative. The upside to immunity, however, is so much greater: The benefit of staying alive far outweighs the negatives caused when the system does sometimes go awry. Working on “autopilot,” the immune system helps to maintain your health and kill pathogens. The only time you really miss the immune response is when it is not being effective and illness results, or, as in the extreme case of HIV disease, the immune system is gone completely.</para>
+<note id="fs-id2177358" class="anatomy everyday">
+<title>How Stress Affects the Immune Response: The Connections between the Immune, Nervous, and Endocrine Systems of the Body</title>
+<para id="fs-id2576560">
+The immune system cannot exist in isolation. After all, it has to protect the entire body from infection. Therefore, the immune system is required to interact with other organ systems, sometimes in complex ways. Thirty years of research focusing on the connections between the immune system, the central nervous system, and the endocrine system have led to a new science with the unwieldy name of called <term>psychoneuroimmunology</term>. The physical connections between these systems have been known for centuries: All primary and secondary organs are connected to sympathetic nerves. What is more complex, though, is the interaction of neurotransmitters, hormones, cytokines, and other soluble signaling molecules, and the mechanism of “crosstalk” between the systems. For example, white blood cells, including lymphocytes and phagocytes, have receptors for various neurotransmitters released by associated neurons. Additionally, hormones such as cortisol (naturally produced by the adrenal cortex) and prednisone (synthetic) are well known for their abilities to suppress T cell immune mechanisms, hence, their prominent use in medicine as long-term, anti-inflammatory drugs.</para>
+<para id="fs-id1866363">One well-established interaction of the immune, nervous, and endocrine systems is the effect of stress on immune health. In the human vertebrate evolutionary past, stress was associated with the fight-or-flight response, largely mediated by the central nervous system and the adrenal medulla. This stress was necessary for survival. The physical action of fighting or running, whichever the animal decides, usually resolves the problem in one way or another. On the other hand, there are no physical actions to resolve most modern day stresses, including short-term stressors like taking examinations and long-term stressors such as being unemployed or losing a spouse. The effect of stress can be felt by nearly every organ system, and the immune system is no exception (<link target-id="tbl-ch22_10" document=""/>).</para>
+<table class="top-titled" id="tbl-ch22_10" summary="">
+<tgroup cols="2" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2">Effects of Stress on Body Systems</entry>
+</row>
+<row>
+<entry>System</entry>
+<entry>Stress-related illness</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Integumentary system</entry>
+<entry>Acne, rashes, irritation</entry>
+</row>
+<row>
+<entry>Nervous system</entry>
+<entry>Headaches, depression, anxiety, irritability, loss of appetite, lack of motivation, reduced mental performance</entry>
+</row>
+<row>
+<entry>Muscular and skeletal systems</entry>
+<entry>Muscle and joint pain, neck and shoulder pain</entry>
+</row>
+<row>
+<entry>Circulatory system</entry>
+<entry>Increased heart rate, hypertension, increased probability of heart attacks</entry>
+</row>
+<row>
+<entry>Digestive system</entry>
+<entry>Indigestion, heartburn, stomach pain, nausea, diarrhea, constipation, weight gain or loss</entry>
+</row>
+<row>
+<entry>Immune system</entry>
+<entry>Depressed ability to fight infections</entry>
+</row>
+<row>
+<entry>Male reproductive system</entry>
+<entry>Lowered sperm production, impotence, reduced sexual desire</entry>
+</row>
+<row>
+<entry>Female reproductive system</entry>
+<entry>Irregular menstrual cycle, reduced sexual desire</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-id2363485">At one time, it was assumed that all types of stress reduced all aspects of the immune response, but the last few decades of research have painted a different picture. First, most short-term stress does not impair the immune system in healthy individuals enough to lead to a greater incidence of diseases. However, older individuals and those with suppressed immune responses due to disease or immunosuppressive drugs may respond even to short-term stressors by getting sicker more often. It has been found that short-term stress diverts the body’s resources towards enhancing innate immune responses, which have the ability to act fast and would seem to help the body prepare better for possible infections associated with the trauma that may result from a fight-or-flight exchange. The diverting of resources away from the adaptive immune response, however, causes its own share of problems in fighting disease.</para>
+<para id="fs-id2328229">Chronic stress, unlike short-term stress, may inhibit immune responses even in otherwise healthy adults. The suppression of both innate and adaptive immune responses is clearly associated with increases in some diseases, as seen when individuals lose a spouse or have other long-term stresses, such as taking care of a spouse with a fatal disease or dementia. The new science of psychoneuroimmunology, while still in its relative infancy, has great potential to make exciting advances in our understanding of how the nervous, endocrine, and immune systems have evolved together and communicate with each other.</para>
+</note>
+</section><section id="fs-id2253394" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1250462">Blood transfusion and organ transplantation both require an understanding of the immune response to prevent medical complications. Blood needs to be typed so that natural antibodies against mismatched blood will not destroy it, causing more harm than good to the recipient. Transplanted organs must be matched by their MHC molecules and, with the use of immunosuppressive drugs, can be successful even if an exact tissue match cannot be made. Another aspect to the immune response is its ability to control and eradicate cancer. Although this has been shown to occur with some rare cancers and those caused by known viruses, the normal immune response to most cancers is not sufficient to control cancer growth. Thus, cancer vaccines designed to enhance these immune responses show promise for certain types of cancer.</para>
+</section>
+<section id="fs-id2018932" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2110583">
+<problem id="fs-id1372749"><para id="fs-id1855140">Which of the following terms means “many genes”?</para>
+<list id="fs-id1352160" list-type="enumerated" number-style="lower-alpha">
+<item>polymorphism</item>
+<item>polygeny</item>
+<item>polypeptide</item>
+<item>multiple alleles</item>
+</list>
+</problem>
+<solution id="fs-id1468241">
+<label/>
+<para id="fs-id1752899">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1400112">
+<problem id="fs-id1225648"><para id="fs-id1381383">Why do we have natural antibodies?</para>
+<list id="fs-id1375714" list-type="enumerated" number-style="lower-alpha">
+<item>We don’t know why.</item>
+<item>immunity to environmental bacteria</item>
+<item>immunity to transplants</item>
+<item>from clonal selection</item>
+</list>
+</problem>
+<solution id="fs-id1636224">
+<label/>
+<para id="fs-id2135636">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1492110">
+<problem id="fs-id1321062"><para id="fs-id1321063">Which type of cancer is associated with HIV disease?</para>
+<list id="fs-id2278485" list-type="enumerated" number-style="lower-alpha">
+<item>Kaposi’s sarcoma</item>
+<item>melanoma</item>
+<item>lymphoma</item>
+<item>renal cell carcinoma</item>
+</list>
+</problem>
+<solution id="fs-id1610212">
+<label/>
+<para id="fs-id1417234">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1401100">
+<problem id="fs-id629143"><para id="fs-id1424111">How does cyclosporine A work?</para>
+<list id="fs-id1416942" list-type="enumerated" number-style="lower-alpha">
+<item>suppresses antibodies</item>
+<item>suppresses T cells</item>
+<item>suppresses macrophages</item>
+<item>suppresses neutrophils</item>
+</list>
+</problem>
+<solution id="fs-id1249035">
+<label/>
+<para id="fs-id1635288">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2584330">
+<problem id="fs-id1354690"><para id="fs-id1354691">What disease is associated with bone marrow transplants?</para>
+<list id="fs-id2080799" list-type="enumerated" number-style="lower-alpha">
+<item>diabetes mellitus type I</item>
+<item>melanoma</item>
+<item>headache</item>
+<item>graft-versus-host disease</item>
+</list>
+</problem>
+<solution id="fs-id1476824">
+<label/>
+<para id="fs-id2596426">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2004916" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2241846">
+<problem id="fs-id2236922"><para id="fs-id2236923">Describe how stress affects immune responses.</para></problem>
+<solution id="fs-id2450689"><label/>
+<para id="fs-id2383485">Stress causes the release of hormones and the activation of nerves that suppress the immune response. Short-term stress has little effect on the health of an already healthy individual, whereas chronic stress does lead to increases in disease in such people.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1906738" class="references"><title>References</title><para id="eip-id1166357078798">Robinson J, Mistry K, McWilliam H, Lopez R, Parham P, Marsh SG. Nucleic acid research. IMGT/HLA Database [Internet]. 2011 [cited 2013 Apr 1]; 39:D1171–1176. Available from: <link url="http://europepmc.org/abstract/MED/21071412">http://europepmc.org/abstract/MED/21071412</link></para><para id="fs-id2019287">Robinson J, Malik A, Parham P, Bodmer JG, Marsh SG. Tissue antigens. IMGT/HLA Database [Internet]. 2000 [cited 2013 Apr 1]; 55(3):280–287. Available from: <link url="https://pubmed.ncbi.nlm.nih.gov/10777106/">https://pubmed.ncbi.nlm.nih.gov/10777106/</link></para></section> </content>
+<glossary>
+<definition id="fs-id1917098"><term>erythroblastosis fetalis</term> <meaning id="fs-id1857897">disease of Rh factor-positive newborns in Rh-negative mothers with multiple Rh-positive children; resulting from the action of maternal antibodies against fetal blood</meaning></definition>
+<definition id="fs-id2278462"><term>graft-versus-host disease</term> <meaning id="fs-id2443209">in bone marrow transplants; occurs when the transplanted cells mount an immune response against the recipient</meaning></definition>
+<definition id="fs-id1469703"><term>MHC polygeny</term> <meaning id="fs-id1984204">multiple MHC genes and their proteins found in body cells</meaning></definition>
+<definition id="fs-id1882192"><term>MHC polymorphism</term> <meaning id="fs-id2071670">multiple alleles for each individual MHC locus</meaning></definition>
+<definition id="fs-id2078496"><term>psychoneuroimmunology</term> <meaning id="fs-id2204390">study of the connections between the immune, nervous, and endocrine systems</meaning></definition>
+<definition id="fs-id1381083"><term>tissue typing</term> <meaning id="fs-id2607315">typing of MHC molecules between a recipient and donor for use in a potential transplantation procedure</meaning></definition>
+</glossary>
+</document>

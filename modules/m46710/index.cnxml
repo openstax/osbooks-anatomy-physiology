@@ -1,0 +1,181 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>An Overview of Blood </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46710</md:content-id>
+  <md:title>An Overview of Blood </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Identify the primary functions of blood in transportation, defense, and maintenance of homeostasis</item>
+<item>Name the fluid component of blood and the three major types of formed elements, and identify their relative proportions in a blood sample</item>
+<item>Discuss the unique physical characteristics of blood</item>
+<item>Identify the composition of blood plasma, including its most important solutes and plasma proteins</item>
+</list></md:abstract>
+  <md:uuid>214ac474-5c9f-4f0b-b979-ff6fd79cb1af</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2717477">Recall that <term>blood</term> is a connective tissue. Like all connective tissues, it is made up of cellular elements and an extracellular matrix. The cellular elements—referred to as the <term>formed elements</term>—include <term>red blood cells (RBCs)</term>, <term>white blood cells (WBCs)</term>, and cell fragments called <term>platelets</term>. The extracellular matrix, called <term>plasma</term>, makes blood unique among connective tissues because it is fluid. This fluid, which is mostly water, perpetually suspends the formed elements and enables them to circulate throughout the body within the cardiovascular system.</para>
+<section id="fs-id2344330">
+<title>Functions of Blood</title>
+<para id="fs-id2116217">The primary function of blood is to deliver oxygen and nutrients to and remove wastes from body cells, but that is only the beginning of the story. The specific functions of blood also include defense, distribution of heat, and maintenance of homeostasis.</para>
+<section id="fs-id2041571">
+<title>Transportation</title>
+<para id="fs-id2518753">Nutrients from the foods you eat are absorbed in the digestive tract. Most of these travel in the bloodstream directly to the liver, where they are processed and released back into the bloodstream for delivery to body cells. Oxygen from the air you breathe diffuses into the blood, which moves from the lungs to the heart, which then pumps it out to the rest of the body. Moreover, endocrine glands scattered throughout the body release their products, called hormones, into the bloodstream, which carries them to distant target cells. Blood also picks up cellular wastes and byproducts, and transports them to various organs for removal. For instance, blood moves carbon dioxide to the lungs for exhalation from the body, and various waste products are transported to the kidneys and liver for excretion from the body in the form of urine or bile.</para>
+</section>
+<section id="fs-id2271972">
+<title>Defense</title>
+<para id="fs-id2252310">Many types of WBCs protect the body from external threats, such as disease-causing bacteria that have entered the bloodstream in a wound. Other WBCs seek out and destroy internal threats, such as cells with mutated DNA that could multiply to become cancerous, or body cells infected with viruses.</para>
+<para id="fs-id2458701">When damage to the vessels results in bleeding, blood platelets and certain proteins dissolved in the plasma, the fluid portion of the blood, interact to block the ruptured areas of the blood vessels involved. This protects the body from further blood loss.</para>
+</section>
+<section id="fs-id1261338">
+<title>Maintenance of Homeostasis</title>
+<para id="fs-id2108450">Recall that body temperature is regulated via a classic negative-feedback loop. If you were exercising on a warm day, your rising core body temperature would trigger several homeostatic mechanisms, including increased transport of blood from your core to your body periphery, which is typically cooler. As blood passes through the vessels of the skin, heat would be dissipated to the environment, and the blood returning to your body core would be cooler. In contrast, on a cold day, blood is diverted away from the skin to maintain a warmer body core. In extreme cases, this may result in frostbite.</para>
+<para id="fs-id2308069">Blood also helps to maintain the chemical balance of the body. Proteins and other compounds in blood act as buffers, which thereby help to regulate the pH of body tissues. Blood also helps to regulate the water content of body cells.</para>
+</section>
+</section>
+<section id="fs-id2463929">
+<title>Composition of Blood</title>
+<para id="fs-id2095884">You have probably had blood drawn from a superficial vein in your arm, which was then sent to a lab for analysis. Some of the most common blood tests—for instance, those measuring lipid or glucose levels in plasma—determine which substances are present within blood and in what quantities. Other blood tests check for the composition of the blood itself, including the quantities and types of formed elements.</para>
+<para id="fs-id2365674">One such test, called a <term>hematocrit</term>, measures the percentage of RBCs, clinically known as erythrocytes, in a blood sample. It is performed by spinning the blood sample in a specialized centrifuge, a process that causes the heavier elements suspended within the blood sample to separate from the lightweight, liquid plasma (<link target-id="fig-ch19_01_01" document=""/>). Because the heaviest elements in blood are the erythrocytes, these settle at the very bottom of the hematocrit tube. Located above the erythrocytes is a pale, thin layer composed of the remaining formed elements of blood. These are the WBCs, clinically known as leukocytes, and the platelets, cell fragments also called thrombocytes. This layer is referred to as the <term>buffy coat</term> because of its color; it normally constitutes less than 1 percent of a blood sample. Above the buffy coat is the blood plasma, normally a pale, straw-colored fluid, which constitutes the remainder of the sample.</para>
+<para id="fs-id2715713">The volume of erythrocytes after centrifugation is also commonly referred to as <term>packed cell volume (PCV)</term>. In normal blood, about 45 percent of a sample is erythrocytes. The hematocrit of any one sample can vary significantly, however, about 36–50 percent, according to gender and other factors. Normal hematocrit values for females range from 37 to 47, with a mean value of 41; for males, hematocrit ranges from 42 to 52, with a mean of 47. The percentage of other formed elements, the WBCs and platelets, is extremely small so it is not normally considered with the hematocrit. So the mean plasma percentage is the percent of blood that is not erythrocytes: for females, it is approximately 59 (or 100 minus 41), and for males, it is approximately 53 (or 100 minus 47).</para>
+<figure id="fig-ch19_01_01"><title>Composition of Blood </title><media id="fs-id2019842" alt="This figure shows three test tubes with a red and yellow liquid in them. The left panel shows normal blood, the center panel shows anemic blood and the right panel shows polycythemic blood.">
+<image mime-type="image/jpg" src="../../media/1901_Composition_of_Blood.jpg" width="380"/>
+</media>
+<caption>The cellular elements of blood include a vast number of erythrocytes and comparatively fewer leukocytes and platelets. Plasma is the fluid in which the formed elements are suspended. A sample of blood spun in a centrifuge reveals that plasma is the lightest component. It floats at the top of the tube separated from the heaviest elements, the erythrocytes, by a buffy coat of leukocytes and platelets. Hematocrit is the percentage of the total sample that is comprised of erythrocytes. Depressed and elevated hematocrit levels are shown for comparison.</caption></figure></section>
+<section id="fs-id2923988">
+<title>Characteristics of Blood</title>
+<para id="fs-id1910265">When you think about blood, the first characteristic that probably comes to mind is its color. Blood that has just taken up oxygen in the lungs is bright red, and blood that has released oxygen in the tissues is a more dusky red. This is because hemoglobin is a pigment that changes color, depending upon the degree of oxygen saturation.</para>
+<para id="fs-id2468492">Blood is viscous and somewhat sticky to the touch. It has a viscosity approximately five times greater than water. Viscosity is a measure of a fluid’s thickness or resistance to flow, and is influenced by the presence of the plasma proteins and formed elements within the blood. The viscosity of blood has a dramatic impact on blood pressure and flow. Consider the difference in flow between water and honey. The more viscous honey would demonstrate a greater resistance to flow than the less viscous water. The same principle applies to blood.</para>
+<para id="fs-id2271392">The normal temperature of blood is slightly higher than normal body temperature—about 38 °C (or 100.4 °F), compared to 37 °C (or 98.6 °F) for an internal body temperature reading, although daily variations of 0.5 °C are normal. Although the surface of blood vessels is relatively smooth, as blood flows through them, it experiences some friction and resistance, especially as vessels age and lose their elasticity, thereby producing heat. This accounts for its slightly higher temperature.</para><para id="fs-id2355195">The pH of blood averages about 7.4; however, it can range from 7.35 to 7.45 in a healthy person. Blood is therefore somewhat more basic (alkaline) on a chemical scale than pure water, which has a pH of 7.0. Blood contains numerous buffers that actually help to regulate pH.</para>
+<para id="fs-id2764346">Blood constitutes approximately 8 percent of adult body weight. Adult males typically average about 5 to 6 liters of blood. Females average 4–5 liters.</para>
+</section>
+<section id="fs-id1372351">
+<title>Blood Plasma</title>
+<para id="fs-id2500972">Like other fluids in the body, plasma is composed primarily of water: In fact, it is about 92 percent water. Dissolved or suspended within this water is a mixture of substances, most of which are proteins. There are literally hundreds of substances dissolved or suspended in the plasma, although many of them are found only in very small quantities.</para>
+<note id="fs-id1849832" class="anatomy interactive"><label/>
+<para id="fs-id2752792">Visit this <link url="http://openstax.org/l/normallevels">site</link> for a list of normal levels established for many of the substances found in a sample of blood. Serum, one of the specimen types included, refers to a sample of plasma after clotting factors have been removed. What types of measurements are given for levels of glucose in the blood?</para></note><section id="fs-id3236118">
+<title>Plasma Proteins</title>
+<para id="fs-id2713000">About 7 percent of the volume of plasma—nearly all that is not water—is made of proteins. These include several plasma proteins (proteins that are unique to the plasma), plus a much smaller number of regulatory proteins, including enzymes and some hormones. The major components of plasma are summarized in <link target-id="fig-ch19_01_02" document=""/>.</para>
+<para id="fs-id2290720">The three major groups of plasma proteins are as follows:</para>
+<list id="fs-id2123844" list-type="bulleted">
+<item><term>Albumin</term> is the most abundant of the plasma proteins. Manufactured by the liver, albumin molecules serve as binding proteins—transport vehicles for fatty acids and steroid hormones. Recall that lipids are hydrophobic; however, their binding to albumin enables their transport in the watery plasma. Albumin is also the most significant contributor to the osmotic pressure of blood; that is, its presence holds water inside the blood vessels and draws water from the tissues, across blood vessel walls, and into the bloodstream. This in turn helps to maintain both blood volume and blood pressure. Albumin normally accounts for approximately 54 percent of the total plasma protein content, in clinical levels of 3.5–5.0 g/dL blood.</item>
+<item>The second most common plasma proteins are the <term>globulins</term>. A heterogeneous group, there are three main subgroups known as alpha, beta, and gamma globulins. The alpha and beta globulins transport iron, lipids, and the fat-soluble vitamins A, D, E, and K to the cells; like albumin, they also contribute to osmotic pressure. The gamma globulins are proteins involved in immunity and are better known as an <term>antibodies</term> or <term>immunoglobulins</term>. Although other plasma proteins are produced by the liver, immunoglobulins are produced by specialized leukocytes known as plasma cells. (Seek additional content for more information about immunoglobulins.) Globulins make up approximately 38 percent of the total plasma protein volume, in clinical levels of 1.0–1.5 g/dL blood.</item>
+<item><term>Fibrinogen</term> is the third of the three major groups of plasma proteins. Like albumin and the alpha and beta globulins, fibrinogen is produced by the liver. It is essential for blood clotting, a process described later in this chapter. Fibrinogen accounts for about 7 percent of the total plasma protein volume, in clinical levels of 0.2–0.45 g/dL blood.</item>
+</list>
+</section>
+<section id="fs-id2583101">
+<title>Other Plasma Solutes</title>
+<para id="fs-id2338114">In addition to proteins, plasma contains a wide variety of other substances. These include various electrolytes, such as sodium, potassium, and calcium ions; dissolved gases, such as oxygen, carbon dioxide, and nitrogen; various organic nutrients, such as vitamins, lipids, glucose, and amino acids; and metabolic wastes. All of these nonprotein solutes combined contribute approximately 1 percent to the total volume of plasma.</para>
+<figure id="fig-ch19_01_02"><title>Major Blood Components </title><media id="fs-id2362125" alt="This table lists the components of blood, the percentage of each component, their site of production, and their major functions.">
+<image mime-type="image/jpg" src="../../media/1915_Table_19_01_Major_Blood_Components.jpg" width="600"/>
+</media>
+</figure><note id="fs-id1977494" class="anatomy career">
+<title>Phlebotomy and Medical Lab Technology</title>
+<para id="fs-id2979580">Phlebotomists are professionals trained to draw blood (phleb- = “a blood vessel”; -tomy = “to cut”). When more than a few drops of blood are required, phlebotomists perform a venipuncture, typically of a surface vein in the arm. They perform a capillary stick on a finger, an earlobe, or the heel of an infant when only a small quantity of blood is required. An arterial stick is collected from an artery and used to analyze blood gases. After collection, the blood may be analyzed by medical laboratories or perhaps used for transfusions, donations, or research. While many allied health professionals practice phlebotomy, the American Society of Phlebotomy Technicians issues certificates to individuals passing a national examination, and some large labs and hospitals hire individuals expressly for their skill in phlebotomy.</para><para id="fs-id2650646">Medical or clinical laboratories employ a variety of individuals in technical positions:</para>
+<list id="fs-id1909106">
+<item>Medical technologists (MT), also known as clinical laboratory technologists (CLT), typically hold a bachelor’s degree and certification from an accredited training program. They perform a wide variety of tests on various body fluids, including blood. The information they provide is essential to the primary care providers in determining a diagnosis and in monitoring the course of a disease and response to treatment.</item>
+<item>Medical laboratory technicians (MLT) typically have an associate’s degree but may perform duties similar to those of an MT.</item>
+<item>Medical laboratory assistants (MLA) spend the majority of their time processing samples and carrying out routine assignments within the lab. Clinical training is required, but a degree may not be essential to obtaining a position.</item>
+</list>
+</note>
+</section>
+</section>
+<section id="fs-id1351423" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1635742">Blood is a fluid connective tissue critical to the transportation of nutrients, gases, and wastes throughout the body; to defend the body against infection and other threats; and to the homeostatic regulation of pH, temperature, and other internal conditions. Blood is composed of formed elements—erythrocytes, leukocytes, and cell fragments called platelets—and a fluid extracellular matrix called plasma. More than 90 percent of plasma is water. The remainder is mostly plasma proteins—mainly albumin, globulins, and fibrinogen—and other dissolved solutes such as glucose, lipids, electrolytes, and dissolved gases. Because of the formed elements and the plasma proteins and other solutes, blood is sticky and more viscous than water. It is also slightly alkaline, and its temperature is slightly higher than normal body temperature.</para>
+</section>
+<section id="fs-id2727638" class="interactive-exercise">
+<title>Interactive Link Questions</title><exercise id="fs-id2570994">
+<problem id="fs-id2265362"><para id="fs-id2372459">Visit this <link url="http://openstax.org/l/normallevels">site</link> for a list of normal levels established for many of the substances found in a sample of blood. Serum, one of the specimen types included, refers to a sample of plasma after clotting factors have been removed. What types of measurements are given for levels of glucose in the blood?</para></problem>
+<solution id="fs-id2295074">
+<label/>
+<para id="fs-id1471090">There are values given for percent saturation, tension, and blood gas, and there are listings for different types of hemoglobin.</para></solution>
+</exercise>
+</section>
+<section id="fs-id1926708" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2443596">
+<problem id="fs-id2762416">
+<para id="fs-id2345283">Which of the following statements about blood is true?</para>
+<list id="fs-id1379429" list-type="enumerated" number-style="lower-alpha">
+<item>Blood is about 92 percent water.</item>
+<item>Blood is slightly more acidic than water. </item>
+<item>Blood is slightly more viscous than water. </item>
+<item>Blood is slightly more salty than seawater.</item>
+</list>
+</problem>
+<solution id="fs-id2643682">
+<label/>
+<para id="fs-id2420099">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id4201161">
+<problem id="fs-id2417636">
+<para id="fs-id2349832">Which of the following statements about albumin is true?</para>
+<list id="fs-id1517316" list-type="enumerated" number-style="lower-alpha">
+<item>It draws water out of the blood vessels and into the body’s tissues.</item>
+<item>It is the most abundant plasma protein. </item>
+<item>It is produced by specialized leukocytes called plasma cells. </item>
+<item>All of the above are true.</item>
+</list>
+</problem>
+<solution id="fs-id1481580">
+<label/>
+<para id="fs-id1342389">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2643719">
+<problem id="fs-id1960632"><para id="fs-id1960633">Which of the following plasma proteins is <emphasis effect="italics">not </emphasis>produced by the liver?</para>
+<list id="fs-id2487058" list-type="enumerated" number-style="lower-alpha">
+<item>fibrinogen</item>
+<item>alpha globulin</item>
+<item>beta globulin</item>
+<item>immunoglobulin</item>
+</list>
+</problem>
+<solution id="fs-id1707803">
+<label/>
+<para id="fs-id1932601">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2009095" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2622617">
+<problem id="fs-id1484117"><para id="fs-id2487846">A patient’s hematocrit is 42 percent. Approximately what percentage of the patient’s blood is plasma?</para></problem>
+<solution id="fs-id2473069"><label/>
+<para id="fs-id1349481">The patient’s blood is approximately 58 percent plasma (since the buffy coat is less than 1 percent).</para>
+</solution>
+</exercise>
+<exercise id="fs-id1639620">
+<problem id="fs-id2362340"><para id="fs-id2300259">Why would it be incorrect to refer to the formed elements as cells?</para></problem>
+<solution id="fs-id2472616"><label/>
+<para id="fs-id1960729">The formed elements include erythrocytes and leukocytes, which are cells (although mature erythrocytes do not have a nucleus); however, the formed elements also include platelets, which are not true cells but cell fragments.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2268108">
+<problem id="fs-id1987794"><para id="fs-id2101088">True or false: The buffy coat is the portion of a blood sample that is made up of its proteins.</para></problem>
+<solution id="fs-id2295986"><label/>
+<para id="fs-id1255726">False. The buffy coat is the portion of blood that is made up of its leukocytes and platelets.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1700946"><term>albumin</term> <meaning id="fs-id2298220">most abundant plasma protein, accounting for most of the osmotic pressure of plasma</meaning></definition>
+<definition id="fs-id1526079"><term>antibodies</term> <meaning id="fs-id1530405">(also, immunoglobulins or gamma globulins) antigen-specific proteins produced by specialized B lymphocytes that protect the body by binding to foreign objects such as bacteria and viruses</meaning></definition>
+<definition id="fs-id1836796"><term>blood</term> <meaning id="fs-id2378942">liquid connective tissue composed of formed elements—erythrocytes, leukocytes, and platelets—and a fluid extracellular matrix called plasma; component of the cardiovascular system</meaning></definition>
+<definition id="fs-id3528895"><term>buffy coat</term> <meaning id="fs-id1232760">thin, pale layer of leukocytes and platelets that separates the erythrocytes from the plasma in a sample of centrifuged blood</meaning></definition>
+<definition id="fs-id1641539"><term>fibrinogen</term> <meaning id="fs-id2229976">plasma protein produced in the liver and involved in blood clotting</meaning></definition>
+<definition id="fs-id2326661"><term>formed elements</term> <meaning id="fs-id2319857">cellular components of blood; that is, erythrocytes, leukocytes, and platelets</meaning></definition>
+<definition id="fs-id1492391"><term>globulins</term> <meaning id="fs-id1535679">heterogeneous group of plasma proteins that includes transport proteins, clotting factors, immune proteins, and others</meaning></definition>
+<definition id="fs-id1689010"><term>hematocrit</term> <meaning id="fs-id2492971">(also, packed cell volume) volume percentage of erythrocytes in a sample of centrifuged blood</meaning></definition>
+<definition id="fs-id2143940"><term>immunoglobulins</term> <meaning id="fs-id2370234">(also, antibodies or gamma globulins) antigen-specific proteins produced by specialized B lymphocytes that protect the body by binding to foreign objects such as bacteria and viruses</meaning></definition>
+<definition id="fs-id2571328"><term>packed cell volume (PCV)</term> <meaning id="fs-id1953960">(also, hematocrit) volume percentage of erythrocytes present in a sample of centrifuged blood</meaning></definition>
+<definition id="fs-id2154376"><term>plasma</term> <meaning id="fs-id2763907">in blood, the liquid extracellular matrix composed mostly of water that circulates the formed elements and dissolved materials throughout the cardiovascular system</meaning></definition>
+<definition id="fs-id1423706"><term>platelets</term> <meaning id="fs-id1917829">(also, thrombocytes) one of the formed elements of blood that consists of cell fragments broken off from megakaryocytes</meaning></definition>
+<definition id="fs-id2517227"><term>red blood cells (RBCs)</term> <meaning id="fs-id1989625">(also, erythrocytes) one of the formed elements of blood that transports oxygen</meaning></definition>
+<definition id="fs-id2104990"><term>white blood cells (WBCs)</term> <meaning id="fs-id2139165">(also, leukocytes) one of the formed elements of blood that provides defense against disease agents and foreign materials</meaning></definition>
+</glossary>
+</document>

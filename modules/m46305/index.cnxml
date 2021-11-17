@@ -1,0 +1,240 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Exercise, Nutrition, Hormones, and Bone Tissue </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46305</md:content-id>
+  <md:title>Exercise, Nutrition, Hormones, and Bone Tissue </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the effect exercise has on bone tissue</item>
+<item>List the nutrients that affect bone health</item>
+<item>Discuss the role those nutrients play in bone health</item>
+<item>Describe the effects of hormones on bone tissue</item>
+</list></md:abstract>
+  <md:uuid>83ebec07-6636-49f5-b77c-eaf419b6431c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1064136">All of the organ systems of your body are interdependent, and the skeletal system is no exception. The food you take in via your digestive system and the hormones secreted by your endocrine system affect your bones. Even using your muscles to engage in exercise has an impact on your bones.</para>
+<section id="fs-id962757">
+<title>Exercise and Bone Tissue</title>
+<para id="fs-id1304639">During long space missions, astronauts can lose approximately 1 to 2 percent of their bone mass per month. This loss of bone mass is thought to be caused by the lack of mechanical stress on astronauts’ bones due to the low gravitational forces in space. Lack of mechanical stress causes bones to lose mineral salts and collagen fibers, and thus strength. Similarly, mechanical stress stimulates the deposition of mineral salts and collagen fibers. The internal and external structure of a bone will change as stress increases or decreases so that the bone is an ideal size and weight for the amount of activity it endures. That is why people who exercise regularly have thicker bones than people who are more sedentary. It is also why a broken bone in a cast atrophies while its contralateral mate maintains its concentration of mineral salts and collagen fibers. The bones undergo remodeling as a result of forces (or lack of forces) placed on them.</para>
+<para id="fs-id1931512">Numerous, controlled studies have demonstrated that people who exercise regularly have greater bone density than those who are more sedentary. Any type of exercise will stimulate the deposition of more bone tissue, but resistance training has a greater effect than cardiovascular activities. Resistance training is especially important to slow down the eventual bone loss due to aging and for preventing osteoporosis.</para>
+</section>
+<section id="fs-id692395">
+<title>Nutrition and Bone Tissue</title>
+<para id="fs-id1494228">The vitamins and minerals contained in all of the food we consume are important for all of our organ systems. However, there are certain nutrients that affect bone health.</para>
+<section id="fs-id1829421">
+<title>Calcium and Vitamin D</title>
+<para id="fs-id1942371">You already know that calcium is a critical component of bone, especially in the form of calcium phosphate and calcium carbonate. Since the body cannot make calcium, it must be obtained from the diet. However, calcium cannot be absorbed from the small intestine without vitamin D. Therefore, intake of vitamin D is also critical to bone health. In addition to vitamin D’s role in calcium absorption, it also plays a role, though not as clearly understood, in bone remodeling.</para>
+<para id="fs-id1868136">Milk and other dairy foods are not the only sources of calcium. This important nutrient is also found in green leafy vegetables, broccoli, and intact salmon and canned sardines with their soft bones. Nuts, beans, seeds, and shellfish provide calcium in smaller quantities.</para>
+<para id="fs-id1495448">Except for fatty fish like salmon and tuna, or fortified milk or cereal, vitamin D is not found naturally in many foods. The action of sunlight on the skin triggers the body to produce its own vitamin D (<link target-id="fig-ch06_06_01" document=""/>), but many people, especially those of darker complexion and those living in northern latitudes where the sun’s rays are not as strong, are deficient in vitamin D. In cases of deficiency, a doctor can prescribe a vitamin D supplement.</para>
+<figure id="fig-ch06_06_01"><title>Synthesis of Vitamin D </title><media id="fs-id1710593" alt="This illustration resembles a flow chart. It begins with the sun shining on a silhouette of a man. One arrow leads from the sun to the man’s skin, stating that Vitamin D is manufactured in the skin after the absorption of sunlight. Another arrow points into the man’s mouth and states that Vitamin D is ingested through food and supplements, absorbed by the intestines, and carried to the liver via the bloodstream. A call out of the liver states that, in the liver, Vitamin D turns into 25 (OH) D, also known as calcidiol, the primary form of circulating Vitamin D. Another callout of the right kidney states that, in the kidneys, Vitamin D is transformed into 1 25 OH (D2). This is also known as calcitriol, a biologically active form of Vitamin D. The synthesis of Vitamin D facilitates calcium absorption from the small intestine, calcium re-absorption from the kidneys, and the rebuilding of bone tissue.">
+<image mime-type="image/jpg" src="../../media/614_Synthesis_of_Vitamin_D.jpg" width="380"/>
+</media>
+<caption>Sunlight is one source of vitamin D.</caption></figure></section>
+<section id="fs-id1283296">
+<title>Other Nutrients</title>
+<para id="fs-id1554460">Vitamin K also supports bone mineralization and may have a synergistic role with vitamin D in the regulation of bone growth. Green leafy vegetables are a good source of vitamin K.</para>
+<para id="fs-id1091621">The minerals magnesium and fluoride may also play a role in supporting bone health. While magnesium is only found in trace amounts in the human body, more than 60 percent of it is in the skeleton, suggesting it plays a role in the structure of bone. Fluoride can displace the hydroxyl group in bone’s hydroxyapatite crystals and form fluorapatite. Similar to its effect on dental enamel, fluorapatite helps stabilize and strengthen bone mineral. Fluoride can also enter spaces within hydroxyapatite crystals, thus increasing their density.</para>
+<para id="fs-id969752">Omega-3 fatty acids have long been known to reduce inflammation in various parts of the body. Inflammation can interfere with the function of osteoblasts, so consuming omega-3 fatty acids, in the diet or in supplements, may also help enhance production of new osseous tissue. <link target-id="tbl-ch06_05" document=""/> summarizes the role of nutrients in bone health.</para>
+<table class="top-titled" id="tbl-ch06_05" summary="">
+<tgroup cols="2" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2">Nutrients and Bone Health</entry>
+</row>
+<row>
+<entry>Nutrient</entry>
+<entry>Role in bone health</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>Calcium</entry>
+<entry>Needed to make calcium phosphate and calcium carbonate, which form the hydroxyapatite crystals that give bone its hardness</entry></row>
+<row>
+<entry>Vitamin D</entry>
+<entry>Needed for calcium absorption</entry>
+</row>
+<row>
+<entry>Vitamin K</entry>
+<entry>Supports bone mineralization; may have synergistic effect with vitamin D</entry>
+</row>
+<row>
+<entry>Magnesium</entry>
+<entry>Structural component of bone</entry>
+</row>
+<row>
+<entry>Fluoride</entry>
+<entry>Structural component of bone</entry>
+</row>
+<row><entry>Omega-3 fatty acids</entry>
+<entry>Reduces inflammation that may interfere with osteoblast function</entry></row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-id702255">
+<title>Hormones and Bone Tissue</title>
+<para id="fs-id864233">The endocrine system produces and secretes hormones, many of which interact with the skeletal system. These hormones are involved in controlling bone growth, maintaining bone once it is formed, and remodeling it.</para>
+<section id="fs-id969608"><title>Hormones That Influence Osteoblasts and/or Maintain the Matrix</title><para id="fs-id2035780">Several hormones are necessary for controlling bone growth and maintaining the bone matrix. The pituitary gland secretes growth hormone (GH), which, as its name implies, controls bone growth in several ways. It triggers chondrocyte proliferation in epiphyseal plates, resulting in the increasing length of long bones. GH also increases calcium retention, which enhances mineralization, and stimulates osteoblastic activity, which improves bone density.</para>
+<para id="fs-id1999803">GH is not alone in stimulating bone growth and maintaining osseous tissue. Thyroxine, a hormone secreted by the thyroid gland promotes osteoblastic activity and the synthesis of bone matrix. During puberty, the sex hormones (estrogen in girls, testosterone in boys) also come into play. They too promote osteoblastic activity and production of bone matrix, and in addition, are responsible for the growth spurt that often occurs during adolescence. They also promote the conversion of the epiphyseal plate to the epiphyseal line (i.e., cartilage to its bony remnant), thus bringing an end to the longitudinal growth of bones. Additionally, calcitriol, the active form of vitamin D, is produced by the kidneys and stimulates the absorption of calcium and phosphate from the digestive tract.</para>
+<note id="fs-id1299380" class="anatomy aging">
+<title>Skeletal System</title>
+<para id="fs-id1303451">
+<term>Osteoporosis</term> is a disease characterized by a decrease in bone mass that occurs when the rate of bone resorption exceeds the rate of bone formation, a common occurrence as the body ages. Notice how this is different from Paget’s disease. In Paget’s disease, new bone is formed in an attempt to keep up with the resorption by the overactive osteoclasts, but that new bone is produced haphazardly. In fact, when a physician is evaluating a patient with thinning bone, he or she will test for osteoporosis and Paget’s disease (as well as other diseases). Osteoporosis does not have the elevated blood levels of alkaline phosphatase found in Paget’s disease.</para>
+<figure id="fig-ch06_06_02"><title>Graph Showing Relationship Between Age and Bone Mass </title><media id="fs-id1534723" alt="This graph shows bone mass (total mass of skeletal calcium in grams) on the Y axis. The Y axis scale goes from 0 up to 1500. The x axis displays age in years from 0 to 100 years. Two plot lines are shown: a blue line for males and a pink line for females. Male bone mass climbs rapidly from 0 grams to 1500 grams between age 0 and age 25. Bone mass then slowly drops to 1000 grams between age 25 and age 100. Female bone loss climbs rapidly from 0 grams to about 1200 grams between age 0 and age 28. Female bone mass then drops very slowly from 1200 grams to 1000 grams between age 29 and age 55. Bone mass then drops steeply from 1000 grams to 750 grams between ages 55 and 60. This is labeled on the graph as bone loss due to menopause. After this steep drop, the female line again levels somewhat, but still drops gradually, much like that of the male. Between age 60 and age 100, female bone density drops from 750 grams to about 625 grams.">
+<image mime-type="image/jpg" src="../../media/615_Age_and_Bone_Mass.jpg" width="420"/>
+</media>
+<caption>Bone density peaks at about 30 years of age. Women lose bone mass more rapidly than men.</caption></figure><para id="fs-id1272003">While osteoporosis can involve any bone, it most commonly affects the proximal ends of the femur, vertebrae, and wrist. As a result of the loss of bone density, the osseous tissue may not provide adequate support for everyday functions, and something as simple as a sneeze can cause a vertebral fracture. When an elderly person falls and breaks a hip (really, the femur), it is very likely the femur that broke first, which resulted in the fall. Histologically, osteoporosis is characterized by a reduction in the thickness of compact bone and the number and size of trabeculae in cancellous bone.</para>
+<para id="fs-id1057151"><link target-id="fig-ch06_06_02" document=""/> shows that women lose bone mass more quickly than men starting at about 50 years of age. This occurs because 50 is the approximate age at which women go through menopause. Not only do their menstrual periods lessen and eventually cease, but their ovaries reduce in size and then cease the production of estrogen, a hormone that promotes osteoblastic activity and production of bone matrix. Thus, osteoporosis is more common in women than in men, but men can develop it, too. Anyone with a family history of osteoporosis has a greater risk of developing the disease, so the best treatment is prevention, which should start with a childhood diet that includes adequate intake of calcium and vitamin D and a lifestyle that includes weight-bearing exercise. These actions, as discussed above, are important in building bone mass. Promoting proper nutrition and weight-bearing exercise early in life can maximize bone mass before the age of 30, thus reducing the risk of osteoporosis.</para>
+<para id="fs-id1953630">For many elderly people, a hip fracture can be life threatening. The fracture itself may not be serious, but the immobility that comes during the healing process can lead to the formation of blood clots that can lodge in the capillaries of the lungs, resulting in respiratory failure; pneumonia due to the lack of poor air exchange that accompanies immobility; pressure sores (bed sores) that allow pathogens to enter the body and cause infections; and urinary tract infections from catheterization.</para>
+<para id="fs-id1968510">Current treatments for managing osteoporosis include bisphosphonates (the same medications often used in Paget’s disease), calcitonin, and estrogen (for women only). Minimizing the risk of falls, for example, by removing tripping hazards, is also an important step in managing the potential outcomes from the disease.</para>
+</note>
+</section><section id="fs-id692297">
+<title>Hormones That Influence Osteoclasts</title>
+<para id="fs-id1284942">Bone modeling and remodeling require osteoclasts to resorb unneeded, damaged, or old bone, and osteoblasts to lay down new bone. Two hormones that affect the osteoclasts are parathyroid hormone (PTH) and calcitonin.</para>
+<para id="fs-id1689680">PTH stimulates osteoclast proliferation and activity. As a result, calcium is released from the bones into the circulation, thus increasing the calcium ion concentration in the blood. PTH also promotes the reabsorption of calcium by the kidney tubules, which can affect calcium homeostasis (see below).</para>
+<para id="fs-id852197">The small intestine is also affected by PTH, albeit indirectly. Because another function of PTH is to stimulate the synthesis of vitamin D, and because vitamin D promotes intestinal absorption of calcium, PTH indirectly increases calcium uptake by the small intestine. Calcitonin, a hormone secreted by the thyroid gland, has some effects that counteract those of PTH. Calcitonin inhibits osteoclast activity and stimulates calcium uptake by the bones, thus reducing the concentration of calcium ions in the blood. As evidenced by their opposing functions in maintaining calcium homeostasis, PTH and calcitonin are generally <emphasis effect="italics">not</emphasis> secreted at the same time. <link target-id="tbl-ch06_06" document=""/> summarizes the hormones that influence the skeletal system.</para>
+<table class="top-titled" id="tbl-ch06_06" summary="">
+<tgroup cols="2" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c2">Hormones That Affect the Skeletal System</entry>
+</row>
+<row>
+<entry>Hormone</entry>
+<entry>Role</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Growth hormone</entry>
+<entry>Increases length of long bones, enhances mineralization, and improves bone density</entry>
+</row>
+<row>
+<entry>Thyroxine</entry>
+<entry>Stimulates bone growth and promotes synthesis of bone matrix</entry>
+</row>
+<row>
+<entry>Sex hormones</entry>
+<entry>Promote osteoblastic activity and production of bone matrix; responsible for adolescent growth spurt; promote conversion of epiphyseal plate to epiphyseal line</entry>
+</row>
+<row>
+<entry>Calcitriol</entry>
+<entry>Stimulates absorption of calcium and phosphate from digestive tract</entry>
+</row>
+<row>
+<entry>Parathyroid hormone</entry>
+<entry>Stimulates osteoclast proliferation and resorption of bone by osteoclasts; promotes reabsorption of calcium by kidney tubules; indirectly increases calcium absorption by small intestine</entry>
+</row>
+<row>
+<entry>Calcitonin</entry>
+<entry>Inhibits osteoclast activity and stimulates calcium uptake by bones</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-id1093994" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1111323">Mechanical stress stimulates the deposition of mineral salts and collagen fibers within bones. Calcium, the predominant mineral in bone, cannot be absorbed from the small intestine if vitamin D is lacking. Vitamin K supports bone mineralization and may have a synergistic role with vitamin D. Magnesium and fluoride, as structural elements, play a supporting role in bone health. Omega-3 fatty acids reduce inflammation and may promote production of new osseous tissue. Growth hormone increases the length of long bones, enhances mineralization, and improves bone density. Thyroxine stimulates bone growth and promotes the synthesis of bone matrix. The sex hormones (estrogen in women; testosterone in men) promote osteoblastic activity and the production of bone matrix, are responsible for the adolescent growth spurt, and promote closure of the epiphyseal plates. Osteoporosis is a disease characterized by decreased bone mass that is common in aging adults. Calcitriol stimulates the digestive tract to absorb calcium and phosphate. Parathyroid hormone (PTH) stimulates osteoclast proliferation and resorption of bone by osteoclasts. Vitamin D plays a synergistic role with PTH in stimulating the osteoclasts. Additional functions of PTH include promoting reabsorption of calcium by kidney tubules and indirectly increasing calcium absorption from the small intestine. Calcitonin inhibits osteoclast activity and stimulates calcium uptake by bones.</para></section>
+<section id="fs-id1690028" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1233565">
+<problem id="fs-id1462504"><para id="fs-id1594571">Wolff’s law, which describes the effect of mechanical forces in bone modeling/remodeling, would predict that ________</para>
+<list id="fs-id1857810" list-type="enumerated" number-style="lower-alpha">
+<item>a right-handed pitcher will have thicker bones in his right arm compared to his left.</item>
+<item>a right-handed cyclist will have thicker bones in her right leg compared to her left.</item>
+<item>a broken bone will heal thicker than it was before the fracture.</item>
+<item>a bed-ridden patient will have thicker bones than an athlete.</item>
+</list>
+</problem>
+<solution id="fs-id1569371">
+<label/>
+<para id="fs-id1475727">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1506178">
+<problem id="fs-id1515649"><para id="fs-id1733952">Calcium cannot be absorbed from the small intestine if ________ is lacking.</para>
+<list id="fs-id1126309" list-type="enumerated" number-style="lower-alpha">
+<item>vitamin D</item>
+<item>vitamin K</item>
+<item>calcitonin</item>
+<item>fluoride</item>
+</list>
+</problem>
+<solution id="fs-id1334270">
+<label/>
+<para id="fs-id1859712">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1828403">
+<problem id="fs-id1495870"><para id="fs-id1511088">Which one of the following foods is best for bone health?</para>
+<list id="fs-id1517585" list-type="enumerated" number-style="lower-alpha">
+<item>carrots</item>
+<item>liver</item>
+<item>leafy green vegetables</item>
+<item>oranges</item>
+</list>
+</problem>
+<solution id="fs-id1432938">
+<label/>
+<para id="fs-id1145020">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1639450">
+<problem id="fs-id1103264"><para id="fs-id1189854">Which of the following hormones are responsible for the adolescent growth spurt?</para>
+<list id="fs-id1812339" list-type="enumerated" number-style="lower-alpha">
+<item>estrogen and testosterone</item>
+<item>calcitonin and calcitriol</item>
+<item>growth hormone and parathyroid hormone</item>
+<item>thyroxine and progesterone</item>
+</list>
+</problem>
+<solution id="fs-id1942453">
+<label/>
+<para id="fs-id1613412">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id704483">
+<problem id="fs-id1282569"><para id="fs-id1931422">With respect to their direct effects on osseous tissue, which pair of hormones has actions that oppose each other?</para>
+<list id="fs-id1530854" list-type="enumerated" number-style="lower-alpha">
+<item>estrogen and testosterone</item>
+<item>calcitonin and calcitriol</item>
+<item>estrogen and progesterone</item>
+<item>calcitonin and parathyroid hormone</item>
+</list>
+</problem>
+<solution id="fs-id2035794">
+<label/>
+<para id="fs-id1494511">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1497344" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1805294">
+<problem id="fs-id1489817"><para id="fs-id1146098">If you were a dietician who had a young female patient with a family history of osteoporosis, what foods would you suggest she include in her diet? Why?</para></problem>
+<solution id="fs-id1319720"><label/>
+<para id="fs-id1672036">Since maximum bone mass is achieved by age 30, I would want this patient to have adequate calcium and vitamin D in her diet. To do this, I would recommend ingesting milk and other dairy foods, green leafy vegetables, and intact canned sardines so she receives sufficient calcium. Intact salmon would be a good source for calcium and vitamin D. Other fatty fish would also be a good vitamin D source.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1740117">
+<problem id="fs-id1143954"><para id="fs-id1492144">During the early years of space exploration our astronauts, who had been floating in space, would return to earth showing significant bone loss dependent on how long they were in space. Discuss how this might happen and what could be done to alleviate this condition.</para></problem>
+<solution id="fs-id1179935"><label/>
+<para id="fs-id1488700">Astronauts floating in space were not exerting significant pressure on their bones; they were “weightless.” Without the force of gravity exerting pressure on the bones, bone mass was lost. To alleviate this condition, astronauts now do resistive exercise designed to apply forces to the bones and thus help keep them healthy.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1164096"><term>osteoporosis</term> <meaning id="fs-id1142164">disease characterized by a decrease in bone mass; occurs when the rate of bone resorption exceeds the rate of bone formation, a common occurrence as the body ages</meaning></definition>
+</glossary>
+</document>

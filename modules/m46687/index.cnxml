@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Parathyroid Glands </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46687</md:content-id>
+  <md:title>The Parathyroid Glands </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the location and structure of the parathyroid glands</item>
+<item>Describe the hormonal control of blood calcium levels</item>
+<item>Discuss the physiological response of parathyroid dysfunction</item>
+</list></md:abstract>
+  <md:uuid>77840296-c962-4f13-a9c6-d9927605fcf4</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1372354">The <term>parathyroid glands</term> are tiny, round structures usually found embedded in the posterior surface of the thyroid gland (<link target-id="fig-ch18_05_01" document=""/>). A thick connective tissue capsule separates the glands from the thyroid tissue. Most people have four parathyroid glands, but occasionally there are more in tissues of the neck or chest. The function of one type of parathyroid cells, the oxyphil cells, is not clear. The primary functional cells of the parathyroid glands are the chief cells. These epithelial cells produce and secrete the <term>parathyroid hormone (PTH)</term>, the major hormone involved in the regulation of blood calcium levels.</para>
+<figure id="fig-ch18_05_01"><title>Parathyroid Glands </title><media id="fs-id1353437" alt="Part A of this diagram shows the four, small, disc-shaped parathyroid glands embedded in the posterior surface of the thyroid gland. Part B shows a micrograph of parathyroid tissue. The tissue is largely composed of cube-shaped chief cells encircling a central blood vessel. A few larger and darker-staining oxyphil cells are embedded within the many chief cells.">
+<image mime-type="image/jpg" src="../../media/1814_The_Parathyroid_Glands.jpg" width="550"/>
+</media>
+<caption>The small parathyroid glands are embedded in the posterior surface of the thyroid gland. LM × 760. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption></figure><note id="fs-id1279608" class="anatomy interactive um">
+<label/>
+<para id="fs-id1355209">View the <link url="http://openstax.org/l/parathyroid">University of Michigan WebScope</link> to explore the tissue sample in greater detail.</para></note>
+<para id="fs-id1469316">The parathyroid glands produce and secrete PTH, a peptide hormone, in response to low blood calcium levels (<link target-id="fig-ch18_05_02" document=""/>). PTH secretion causes the release of calcium from the bones by stimulating osteoclasts, which secrete enzymes that degrade bone and release calcium into the interstitial fluid. PTH also inhibits osteoblasts, the cells involved in bone deposition, thereby sparing blood calcium. PTH causes increased reabsorption of calcium (and magnesium) in the kidney tubules from the urine filtrate. In addition, PTH initiates the production of the steroid hormone calcitriol (also known as 1,25-dihydroxyvitamin D), which is the active form of vitamin D<sub>3</sub>, in the kidneys. Calcitriol then stimulates increased absorption of dietary calcium by the intestines. A negative feedback loop regulates the levels of PTH, with rising blood calcium levels inhibiting further release of PTH.</para>
+<figure id="fig-ch18_05_02"><title>Parathyroid Hormone in Maintaining Blood Calcium Homeostasis </title><media id="fs-id1355324" alt="This diagram shows the role of parathyroid hormone in maintaining blood calcium homeostasis. When blood calcium concentration drops, chief cells of the parathyroid gland release parathyroid hormone (PTH). PTH affects bone, the kidneys and the intestines. In regards to bone, PTH inhibits osteoblasts and stimulates osteoclasts. This results in compact bone being broken down, as illustrated by an osteoclast burrowing into the surface of a bone. The break down releases calcium ions into a nearby blood vessel. The osteoblasts are inactive in this stage. In regards to the kidneys, PTH stimulates kidney tubule cells to recover waste calcium from the urine. PTH also stimulates kidney tubule cells to release calcitrol. This is illustrated with a cross section of a kidney tubule, showing the cells of the tubule wall. Urine is running to the left of the tubule wall cells while an artery is to the right. The right edge of the tubule wall cells and the left edge of the artery are separated by a small region of interstitial space. The cells are removing calcium from the urine and pumping it into the interstitial fluid, after which the calcium enters the artery. The cells are also pumping calcitrol into the blood vessel. In regards to the intestine, PTH stimulates the intestines to absorb calcium from digesting food. A cross section of an intestinal cell is shown, which is cube-shaped but with finger-like projections on the intestinal lumen side (top). Beneath the intestinal cell is an artery. Calcitrol is leaving the artery and entering the intestinal cell, stimulating it to absorb calcium from food in the intestinal lumen. The effects of PTH on bone, the kidneys and the intestines all cause blood calcium levels to increase. High calcium concentrations in the blood stimulate the parafollicular cells in the thyroid to release calcitonin. Calcitonin reverses the effects of PTH by stimulating osteoblasts and inhibiting osteoclasts in bone tissue. This is illustrated by calcium ions leaving a blood vessel and traveling to osteoblasts on a section of compact bone. The osteoblasts are thickening the compact bone layer while, in this stage, the osteoclasts are inactive.">
+<image mime-type="image/jpg" src="../../media/1817_The_Role_of_Parathyroid_Hormone_in_Maintaining_Blood_Calcium_Homeostasis.jpg" width="550"/>
+</media>
+<caption>Parathyroid hormone increases blood calcium levels when they drop too low. Conversely, calcitonin, which is released from the thyroid gland, decreases blood calcium levels when they become too high. These two mechanisms constantly maintain blood calcium concentration at homeostasis.</caption></figure><para id="fs-id1279317">Abnormally high activity of the parathyroid gland can cause <term>hyperparathyroidism</term>, a disorder caused by an overproduction of PTH that results in excessive calcium reabsorption from bone. Hyperparathyroidism can significantly decrease bone density, leading to spontaneous fractures or deformities. As blood calcium levels rise, cell membrane permeability to sodium is decreased, and the responsiveness of the nervous system is reduced. At the same time, calcium deposits may collect in the body’s tissues and organs, impairing their functioning.</para>
+<para id="fs-id1475434">In contrast, abnormally low blood calcium levels may be caused by parathyroid hormone deficiency, called <term>hypoparathyroidism</term>, which may develop following injury or surgery involving the thyroid gland. Low blood calcium increases membrane permeability to sodium, resulting in muscle twitching, cramping, spasms, or convulsions. Severe deficits can paralyze muscles, including those involved in breathing, and can be fatal.</para>
+<para id="fs-id1388439">When blood calcium levels are high, calcitonin is produced and secreted by the parafollicular cells of the thyroid gland. As discussed earlier, calcitonin inhibits the activity of osteoclasts, reduces the absorption of dietary calcium in the intestine, and signals the kidneys to reabsorb less calcium, resulting in larger amounts of calcium excreted in the urine.</para>
+<section id="fs-id1475094" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1368146">Calcium is required for a variety of important physiologic processes, including neuromuscular functioning; thus, blood calcium levels are closely regulated. The parathyroid glands are small structures located on the posterior thyroid gland that produce parathyroid hormone (PTH), which regulates blood calcium levels. Low blood calcium levels cause the production and secretion of PTH. In contrast, elevated blood calcium levels inhibit secretion of PTH and trigger secretion of the thyroid hormone calcitonin. Underproduction of PTH can result in hypoparathyroidism. In contrast, overproduction of PTH can result in hyperparathyroidism.</para>
+</section>
+<section id="fs-id1311294" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1225564">
+<problem id="fs-id1210372"><para id="fs-id1172712">When blood calcium levels are low, PTH stimulates ________.</para>
+<list id="fs-id1480595" list-type="enumerated" number-style="lower-alpha">
+<item>urinary excretion of calcium by the kidneys</item>
+<item>a reduction in calcium absorption from the intestines</item>
+<item>the activity of osteoblasts</item>
+<item>the activity of osteoclasts</item>
+</list>
+</problem>
+<solution id="fs-id1471643">
+<label/>
+<para id="fs-id1191406">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1398516">
+<problem id="fs-id1480349">
+<para id="fs-id1372958">Which of the following can result from hyperparathyroidism?</para>
+<list id="fs-id1471100" list-type="enumerated" number-style="lower-alpha">
+<item>increased bone deposition</item>
+<item>fractures</item>
+<item>convulsions</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id1263208">
+<label/>
+<para id="fs-id1405124">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1386882" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1040855">
+<problem id="fs-id1283584">
+<para id="fs-id1273642">Describe the role of negative feedback in the function of the parathyroid gland.</para>
+</problem>
+<solution id="fs-id1081468">
+<label/>
+<para id="fs-id1370992">The production and secretion of PTH is regulated by a negative feedback loop. Low blood calcium levels initiate the production and secretion of PTH. PTH increases bone resorption, calcium absorption from the intestines, and calcium reabsorption by the kidneys. As a result, blood calcium levels begin to rise. This, in turn, inhibits the further production and secretion of PTH.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1205466">
+<problem id="fs-id1399194"><para id="fs-id1391983">Explain why someone with a parathyroid gland tumor might develop kidney stones.</para></problem>
+<solution id="fs-id1374247"><label/>
+<para id="fs-id1100139">A parathyroid gland tumor can prompt hypersecretion of PTH. This can raise blood calcium levels so excessively that calcium deposits begin to accumulate throughout the body, including in the kidney tubules, where they are referred to as kidney stones.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1375310"><term>hyperparathyroidism</term> <meaning id="fs-id1481450">disorder caused by overproduction of PTH that results in abnormally elevated blood calcium</meaning></definition>
+<definition id="fs-id2349525"><term>hypoparathyroidism</term> <meaning id="fs-id2638588">disorder caused by underproduction of PTH that results in abnormally low blood calcium</meaning></definition>
+<definition id="fs-id2153158"><term>parathyroid glands</term> <meaning id="fs-id1918093">small, round glands embedded in the posterior thyroid gland that produce parathyroid hormone (PTH)</meaning></definition>
+<definition id="fs-id1422449"><term>parathyroid hormone (PTH)</term> <meaning id="fs-id1398254">peptide hormone produced and secreted by the parathyroid glands in response to low blood calcium levels</meaning></definition>
+</glossary>
+</document>

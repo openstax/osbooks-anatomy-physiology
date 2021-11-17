@@ -1,0 +1,380 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11496</md:content-id>
+    <md:title>Anatomy and Physiology</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>14fb4ad7-39a1-4eee-ab6e-3ef2482e3e22</md:uuid>
+<md:slug>anatomy-and-physiology</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m46844"/>
+    <col:subcollection>
+      <md:title>Levels of Organization</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>An Introduction to the Human Body</md:title>
+          <col:content>
+            <col:module document="m45981"/>
+            <col:module document="m45983"/>
+            <col:module document="m45985"/>
+            <col:module document="m45986"/>
+            <col:module document="m45988"/>
+            <col:module document="m45989"/>
+            <col:module document="m45990"/>
+            <col:module document="m45991"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Chemical Level of Organization</md:title>
+          <col:content>
+            <col:module document="m45996"/>
+            <col:module document="m45998"/>
+            <col:module document="m46000"/>
+            <col:module document="m46004"/>
+            <col:module document="m46006"/>
+            <col:module document="m46008"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Cellular Level of Organization</md:title>
+          <col:content>
+            <col:module document="m46016"/>
+            <col:module document="m46021"/>
+            <col:module document="m46023"/>
+            <col:module document="m46073"/>
+            <col:module document="m46032"/>
+            <col:module document="m46034"/>
+            <col:module document="m46036"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Tissue Level of Organization</md:title>
+          <col:content>
+            <col:module document="m46045"/>
+            <col:module document="m46046"/>
+            <col:module document="m46048"/>
+            <col:module document="m46049"/>
+            <col:module document="m46055"/>
+            <col:module document="m46057"/>
+            <col:module document="m46058"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Support and Movement</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Integumentary System</md:title>
+          <col:content>
+            <col:module document="m46059"/>
+            <col:module document="m46060"/>
+            <col:module document="m46062"/>
+            <col:module document="m46064"/>
+            <col:module document="m46066"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Bone Tissue and the Skeletal System</md:title>
+          <col:content>
+            <col:module document="m46290"/>
+            <col:module document="m46341"/>
+            <col:module document="m46282"/>
+            <col:module document="m46281"/>
+            <col:module document="m46301"/>
+            <col:module document="m46342"/>
+            <col:module document="m46305"/>
+            <col:module document="m46295"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Axial Skeleton</md:title>
+          <col:content>
+            <col:module document="m46347"/>
+            <col:module document="m46344"/>
+            <col:module document="m46355"/>
+            <col:module document="m46352"/>
+            <col:module document="m46350"/>
+            <col:module document="m46348"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Appendicular Skeleton</md:title>
+          <col:content>
+            <col:module document="m46370"/>
+            <col:module document="m46374"/>
+            <col:module document="m46368"/>
+            <col:module document="m46375"/>
+            <col:module document="m46364"/>
+            <col:module document="m46376"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Joints</md:title>
+          <col:content>
+            <col:module document="m46402"/>
+            <col:module document="m46383"/>
+            <col:module document="m46403"/>
+            <col:module document="m46381"/>
+            <col:module document="m46394"/>
+            <col:module document="m46398"/>
+            <col:module document="m46377"/>
+            <col:module document="m46388"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Muscle Tissue</md:title>
+          <col:content>
+            <col:module document="m46450"/>
+            <col:module document="m46473"/>
+            <col:module document="m46476"/>
+            <col:module document="m46447"/>
+            <col:module document="m46470"/>
+            <col:module document="m46480"/>
+            <col:module document="m46438"/>
+            <col:module document="m46404"/>
+            <col:module document="m46478"/>
+            <col:module document="m46407"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Muscular System</md:title>
+          <col:content>
+            <col:module document="m46492"/>
+            <col:module document="m46487"/>
+            <col:module document="m46498"/>
+            <col:module document="m46484"/>
+            <col:module document="m46485"/>
+            <col:module document="m46495"/>
+            <col:module document="m46482"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Regulation, Integration, and Control</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Nervous System and Nervous Tissue</md:title>
+          <col:content>
+            <col:module document="m46504"/>
+            <col:module document="m46500"/>
+            <col:module document="m46509"/>
+            <col:module document="m46531"/>
+            <col:module document="m46526"/>
+            <col:module document="m46503"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Anatomy of the Nervous System</md:title>
+          <col:content>
+            <col:module document="m46528"/>
+            <col:module document="m46535"/>
+            <col:module document="m46533"/>
+            <col:module document="m46719"/>
+            <col:module document="m46553"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Somatic Nervous System</md:title>
+          <col:content>
+            <col:module document="m46561"/>
+            <col:module document="m46577"/>
+            <col:module document="m46557"/>
+            <col:module document="m46574"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Autonomic Nervous System</md:title>
+          <col:content>
+            <col:module document="m46590"/>
+            <col:module document="m46582"/>
+            <col:module document="m46579"/>
+            <col:module document="m46581"/>
+            <col:module document="m46587"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Neurological Exam</md:title>
+          <col:content>
+            <col:module document="m46593"/>
+            <col:module document="m46594"/>
+            <col:module document="m46650"/>
+            <col:module document="m46607"/>
+            <col:module document="m46640"/>
+            <col:module document="m46604"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Endocrine System</md:title>
+          <col:content>
+            <col:module document="m46682"/>
+            <col:module document="m46656"/>
+            <col:module document="m46667"/>
+            <col:module document="m46699"/>
+            <col:module document="m46700"/>
+            <col:module document="m46687"/>
+            <col:module document="m46684"/>
+            <col:module document="m46693"/>
+            <col:module document="m46670"/>
+            <col:module document="m46685"/>
+            <col:module document="m46680"/>
+            <col:module document="m46658"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fluids and Transport</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Cardiovascular System: Blood</md:title>
+          <col:content>
+            <col:module document="m46703"/>
+            <col:module document="m46710"/>
+            <col:module document="m46691"/>
+            <col:module document="m46707"/>
+            <col:module document="m46701"/>
+            <col:module document="m46705"/>
+            <col:module document="m46708"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Cardiovascular System: The Heart</md:title>
+          <col:content>
+            <col:module document="m46679"/>
+            <col:module document="m46676"/>
+            <col:module document="m46664"/>
+            <col:module document="m46661"/>
+            <col:module document="m46672"/>
+            <col:module document="m46673"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Cardiovascular System: Blood Vessels and Circulation</md:title>
+          <col:content>
+            <col:module document="m46600"/>
+            <col:module document="m46597"/>
+            <col:module document="m46635"/>
+            <col:module document="m46586"/>
+            <col:module document="m46603"/>
+            <col:module document="m46646"/>
+            <col:module document="m46610"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Lymphatic and Immune System</md:title>
+          <col:content>
+            <col:module document="m46573"/>
+            <col:module document="m46563"/>
+            <col:module document="m46571"/>
+            <col:module document="m46560"/>
+            <col:module document="m46558"/>
+            <col:module document="m46569"/>
+            <col:module document="m46566"/>
+            <col:module document="m46583"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Energy, Maintenance, and Environmental Exchange</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Respiratory System</md:title>
+          <col:content>
+            <col:module document="m46523"/>
+            <col:module document="m46548"/>
+            <col:module document="m46551"/>
+            <col:module document="m46549"/>
+            <col:module document="m46521"/>
+            <col:module document="m46545"/>
+            <col:module document="m46524"/>
+            <col:module document="m46518"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Digestive System</md:title>
+          <col:content>
+            <col:module document="m46505"/>
+            <col:module document="m46506"/>
+            <col:module document="m46502"/>
+            <col:module document="m46511"/>
+            <col:module document="m46517"/>
+            <col:module document="m46512"/>
+            <col:module document="m46496"/>
+            <col:module document="m46501"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Metabolism and Nutrition</md:title>
+          <col:content>
+            <col:module document="m46458"/>
+            <col:module document="m46489"/>
+            <col:module document="m46451"/>
+            <col:module document="m46462"/>
+            <col:module document="m46493"/>
+            <col:module document="m46466"/>
+            <col:module document="m46456"/>
+            <col:module document="m46467"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Urinary System</md:title>
+          <col:content>
+            <col:module document="m46430"/>
+            <col:module document="m46432"/>
+            <col:module document="m46427"/>
+            <col:module document="m46429"/>
+            <col:module document="m46431"/>
+            <col:module document="m46433"/>
+            <col:module document="m46443"/>
+            <col:module document="m46435"/>
+            <col:module document="m46424"/>
+            <col:module document="m46434"/>
+            <col:module document="m46446"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Fluid, Electrolyte, and Acid-Base Balance</md:title>
+          <col:content>
+            <col:module document="m46415"/>
+            <col:module document="m46411"/>
+            <col:module document="m46416"/>
+            <col:module document="m46414"/>
+            <col:module document="m46409"/>
+            <col:module document="m46413"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Human Development and the Continuity of Life</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Reproductive System</md:title>
+          <col:content>
+            <col:module document="m46385"/>
+            <col:module document="m46400"/>
+            <col:module document="m46392"/>
+            <col:module document="m46408"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Development and Inheritance</md:title>
+          <col:content>
+            <col:module document="m46339"/>
+            <col:module document="m46308"/>
+            <col:module document="m46319"/>
+            <col:module document="m46316"/>
+            <col:module document="m46353"/>
+            <col:module document="m46335"/>
+            <col:module document="m46325"/>
+            <col:module document="m46311"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

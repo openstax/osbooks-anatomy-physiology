@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Protein Synthesis </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46032</md:content-id>
+  <md:title>Protein Synthesis </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+<item>Explain how the genetic code stored within DNA determines the protein that will form</item>
+<item>Describe the process of transcription</item>
+<item>Describe the process of translation</item>
+<item>Discuss the function of ribosomes</item>
+</list></md:abstract>
+  <md:uuid>9720dd66-aa78-4811-8a72-9caff10a22b9</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2211531">It was mentioned earlier that DNA provides a “blueprint” for the cell structure and physiology. This refers to the fact that DNA contains the information necessary for the cell to build one very important type of molecule: the protein. Most structural components of the cell are made up, at least in part, by proteins and virtually all the functions that a cell carries out are completed with the help of proteins. One of the most important classes of proteins is enzymes, which help speed up necessary biochemical reactions that take place inside the cell. Some of these critical biochemical reactions include building larger molecules from smaller components (such as occurs during DNA replication or synthesis of microtubules) and breaking down larger molecules into smaller components (such as when harvesting chemical energy from nutrient molecules). Whatever the cellular process may be, it is almost sure to involve proteins. Just as the cell’s genome describes its full complement of DNA, a cell’s <term>proteome</term> is its full complement of proteins. Protein synthesis begins with genes. A <term>gene</term> is a functional segment of DNA that provides the genetic information necessary to build a protein. Each particular gene provides the code necessary to construct a particular protein. <term>Gene expression</term>, which transforms the information coded in a gene to a final gene product, ultimately dictates the structure and function of a cell by determining which proteins are made.</para><para id="fs-id1955042">The interpretation of genes works in the following way. Recall that proteins are polymers, or chains, of many amino acid building blocks. The sequence of bases in a gene (that is, its sequence of A, T, C, G nucleotides) translates to an amino acid sequence. A <term>triplet</term> is a section of three DNA bases in a row that codes for a specific amino acid. Similar to the way in which the three-letter code <emphasis effect="italics">d-o-g</emphasis> signals the image of a dog, the three-letter DNA base code signals the use of a particular amino acid. For example, the DNA triplet CAC (cytosine, adenine, and cytosine) specifies the amino acid valine. Therefore, a gene, which is composed of multiple triplets in a unique sequence, provides the code to build an entire protein, with multiple amino acids in the proper sequence (<link target-id="fig-ch03_04_01" document=""/>). The mechanism by which cells turn the DNA code into a protein product is a two-step process, with an RNA molecule as the intermediate.</para>
+<figure id="fig-ch03_04_01"><title>The Genetic Code</title><media id="fs-id1435982" alt="This diagram shows the translation of RNA into proteins. A DNA template strand is shown to become an RNA strand through transcription. Then the RNA strand undergoes translation and becomes proteins.">
+<image mime-type="image/jpg" src="../../media/0324_DNA_Translation_and_Codons.jpg" width="400"/>
+</media>
+<caption> DNA holds all of the genetic information necessary to build a cell’s proteins. The nucleotide sequence of a gene is ultimately translated into an amino acid sequence of the gene’s corresponding protein.</caption></figure><section id="fs-id2235180">
+<title>From DNA to RNA: Transcription</title>
+<para id="fs-id1531263">DNA is housed within the nucleus, and protein synthesis takes place in the cytoplasm, thus there must be some sort of intermediate messenger that leaves the nucleus and manages protein synthesis. This intermediate messenger is <term>messenger RNA (mRNA)</term>, a single-stranded nucleic acid that carries a copy of the genetic code for a single gene out of the nucleus and into the cytoplasm where it is used to produce proteins.</para>
+<para id="fs-id1212347">There are several different types of RNA, each having different functions in the cell. The structure of RNA is similar to DNA with a few small exceptions. For one thing, unlike DNA, most types of RNA, including mRNA, are single-stranded and contain no complementary strand. Second, the ribose sugar in RNA contains an additional oxygen atom compared with DNA. Finally, instead of the base thymine, RNA contains the base uracil. This means that adenine will always pair up with uracil during the protein synthesis process.</para>
+<para id="fs-id1751681">Gene expression begins with the process called <term>transcription</term>, which is the synthesis of a strand of mRNA that is complementary to the gene of interest. This process is called transcription because the mRNA is like a transcript, or copy, of the gene’s DNA code. Transcription begins in a fashion somewhat like DNA replication, in that a region of DNA unwinds and the two strands separate, however, only that small portion of the DNA will be split apart. The triplets within the gene on this section of the DNA molecule are used as the template to transcribe the complementary strand of RNA (<link target-id="fig-ch03_04_02" document=""/>). A <term>codon</term> is a three-base sequence of mRNA, so-called because they directly encode amino acids. Like DNA replication, there are three stages to transcription: initiation, elongation, and termination.</para>
+<figure id="fig-ch03_04_02"><title>Transcription: from DNA to mRNA</title><media id="fs-id1932766" alt="In this diagram, RNA polymerase is shown transcribing a DNA template strand into its corresponding RNA transcript.">
+<image mime-type="image/jpg" src="../../media/0325_Transcription.jpg" width="550"/>
+</media>
+<caption>In the first of the two stages of making protein from DNA, a gene on the DNA molecule is transcribed into a complementary mRNA molecule.</caption></figure><para id="fs-id1864318"><emphasis effect="italics">Stage 1: Initiation.</emphasis> A region at the beginning of the gene called a <term>promoter</term>—a particular sequence of nucleotides—triggers the start of transcription.</para>
+<para id="fs-id2166515"><emphasis effect="italics">Stage 2: Elongation.</emphasis> Transcription starts when RNA polymerase unwinds the DNA segment. One strand, referred to as the coding strand, becomes the template with the genes to be coded. The polymerase then aligns the correct nucleic acid (A, C, G, or U) with its complementary base on the coding strand of DNA. <term>RNA polymerase</term> is an enzyme that adds new nucleotides to a growing strand of RNA. This process builds a strand of mRNA.</para>
+<para id="fs-id1513858"><emphasis effect="italics">Stage 3: Termination.</emphasis> At the end of the gene, a sequence of nucleotides called the terminator sequence causes the new RNA to fold up on itself. This fold causes the RNA to separate from the gene and from RNA polymerase, ending transcription.</para>
+<para id="fs-id320754">Before the mRNA molecule leaves the nucleus and proceeds to protein synthesis, it is modified in a number of ways. For this reason, it is often called a pre-mRNA at this stage. For example, your DNA, and thus complementary mRNA, contains long regions called non-coding regions that do not code for amino acids. Their function is still a mystery, but the process called <term>splicing</term> removes these non-coding regions from the pre-mRNA transcript (<link target-id="fig-ch03_04_03" document=""/>). A <term>spliceosome</term>—a structure composed of various proteins and other molecules—attaches to the mRNA and “splices” or cuts out the non-coding regions. The removed segment of the transcript is called an <term>intron</term>. The remaining exons are pasted together. An <term>exon</term> is a segment of RNA that remains after splicing. Interestingly, some introns that are removed from mRNA are not always non-coding. When different coding regions of mRNA are spliced out, different variations of the protein will eventually result, with differences in structure and function. This process results in a much larger variety of possible proteins and protein functions. When the mRNA transcript is ready, it travels out of the nucleus and into the cytoplasm.</para><figure id="fig-ch03_04_03"><title>Splicing DNA</title><media id="fs-id691448" alt="In this diagram, a pre-mRNA transcript is shown in the top of a flowchart. This pre-mRNA transcript contains introns and exons. In the next step, the intron is in a structure called the spliceosome. In the last step, the intron is shown separated from the spliced RNA.">
+<image mime-type="image/jpg" src="../../media/0326_Splicing.jpg" width="320"/>
+</media>
+<caption> In the nucleus, a structure called a spliceosome cuts out introns (noncoding regions) within a pre-mRNA transcript and reconnects the exons.</caption></figure></section>
+<section id="fs-id1527007">
+<title>From RNA to Protein: Translation</title>
+<para id="fs-id864610">Like translating a book from one language into another, the codons on a strand of mRNA must be translated into the amino acid alphabet of proteins. <term>Translation</term> is the process of synthesizing a chain of amino acids called a <term>polypeptide</term>. Translation requires two major aids: first, a “translator,” the molecule that will conduct the translation, and second, a substrate on which the mRNA strand is translated into a new protein, like the translator’s “desk.” Both of these requirements are fulfilled by other types of RNA. The substrate on which translation takes place is the ribosome.</para>
+<para id="fs-id1404772">Remember that many of a cell’s ribosomes are found associated with the rough ER, and carry out the synthesis of proteins destined for the Golgi apparatus. <term>Ribosomal RNA (rRNA)</term> is a type of RNA that, together with proteins, composes the structure of the ribosome. Ribosomes exist in the cytoplasm as two distinct components, a small and a large subunit. When an mRNA molecule is ready to be translated, the two subunits come together and attach to the mRNA. The ribosome provides a substrate for translation, bringing together and aligning the mRNA molecule with the molecular “translators” that must decipher its code.</para><para id="fs-id1205938">The other major requirement for protein synthesis is the translator molecules that physically “read” the mRNA codons. <term>Transfer RNA (tRNA)</term> is a type of RNA that ferries the appropriate corresponding amino acids to the ribosome, and attaches each new amino acid to the last, building the polypeptide chain one-by-one. Thus tRNA transfers specific amino acids from the cytoplasm to a growing polypeptide. The tRNA molecules must be able to recognize the codons on mRNA and match them with the correct amino acid. The tRNA is modified for this function. On one end of its structure is a binding site for a specific amino acid. On the other end is a base sequence that matches the codon specifying its particular amino acid. This sequence of three bases on the tRNA molecule is called an <term>anticodon</term>. For example, a tRNA responsible for shuttling the amino acid glycine contains a binding site for glycine on one end. On the other end it contains an anticodon that complements the glycine codon (GGA is a codon for glycine, and so the tRNAs anticodon would read CCU). Equipped with its particular cargo and matching anticodon, a tRNA molecule can read its recognized mRNA codon and bring the corresponding amino acid to the growing chain (<link target-id="fig-ch03_04_04" document=""/>).</para>
+<figure id="fig-ch03_04_04"><title>Translation from RNA to Protein</title><media id="fs-id1180376" alt="The top part of this figure shows a large ribosomal subunit coming into contact with the mRNA that already has the small ribosomal subunit attached. A tRNA and an anticodon are in proximity. In the second panel, the tRNA also binds to the same site as the ribosomal subunits. In the bottom panel, a polypeptide chain is shown emerging from the complex.">
+<image mime-type="image/jpg" src="../../media/0327_Translation.jpg" width="280"/>
+</media>
+<caption> During translation, the mRNA transcript is “read” by a functional complex consisting of the ribosome and tRNA molecules. tRNAs bring the appropriate amino acids in sequence to the growing polypeptide chain by matching their anti-codons with codons on the mRNA strand.</caption></figure><para id="fs-id1531123">Much like the processes of DNA replication and transcription, translation consists of three main stages: initiation, elongation, and termination. Initiation takes place with the binding of a ribosome to an mRNA transcript. The elongation stage involves the recognition of a tRNA anticodon with the next mRNA codon in the sequence. Once the anticodon and codon sequences are bound (remember, they are complementary base pairs), the tRNA presents its amino acid cargo and the growing polypeptide strand is attached to this next amino acid. This attachment takes place with the assistance of various enzymes and requires energy. The tRNA molecule then releases the mRNA strand, the mRNA strand shifts one codon over in the ribosome, and the next appropriate tRNA arrives with its matching anticodon. This process continues until the final codon on the mRNA is reached which provides a “stop” message that signals termination of translation and triggers the release of the complete, newly synthesized protein. Thus, a gene within the DNA molecule is transcribed into mRNA, which is then translated into a protein product (<link target-id="fig-ch03_04_05" document=""/>).</para>
+<figure id="fig-ch03_04_05"><title>From DNA to Protein: Transcription through Translation</title><media id="fs-id1641271" alt="This figure shows a schematic of a cell where transcription from DNA to mRNA takes place inside the nucleus and translation from mRNA to protein takes place in the cytoplasm.">
+<image mime-type="image/jpg" src="../../media/0328_Transcription-translation_Summary.jpg" width="280"/>
+</media>
+<caption> Transcription within the cell nucleus produces an mRNA molecule, which is modified and then sent into the cytoplasm for translation. The transcript is decoded into a protein with the help of a ribosome and tRNA molecules.</caption></figure><para id="fs-id813550">Commonly, an mRNA transcription will be translated simultaneously by several adjacent ribosomes. This increases the efficiency of protein synthesis. A single ribosome might translate an mRNA molecule in approximately one minute; so multiple ribosomes aboard a single transcript could produce multiple times the number of the same protein in the same minute. A <term>polyribosome</term> is a string of ribosomes translating a single mRNA strand.</para>
+<note id="fs-id1667456" class="anatomy interactive">
+<label/>
+<para id="fs-id1828603">Watch this <link url="http://openstax.org/l/ribosome">video</link> to learn about ribosomes. The ribosome binds to the mRNA molecule to start translation of its code into a protein. What happens to the small and large ribosomal subunits at the end of translation?</para></note>
+</section>
+<section id="fs-id1282000" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1534841">DNA stores the information necessary for instructing the cell to perform all of its functions. Cells use the genetic code stored within DNA to build proteins, which ultimately determine the structure and function of the cell. This genetic code lies in the particular sequence of nucleotides that make up each gene along the DNA molecule. To “read” this code, the cell must perform two sequential steps. In the first step, transcription, the DNA code is converted into an RNA code. A molecule of messenger RNA that is complementary to a specific gene is synthesized in a process similar to DNA replication. The molecule of mRNA provides the code to synthesize a protein. In the process of translation, the mRNA attaches to a ribosome. Next, tRNA molecules shuttle the appropriate amino acids to the ribosome, one-by-one, coded by sequential triplet codons on the mRNA, until the protein is fully synthesized. When completed, the mRNA detaches from the ribosome, and the protein is released. Typically, multiple ribosomes attach to a single mRNA molecule at once such that multiple proteins can be manufactured from the mRNA concurrently.</para></section>
+<section id="fs-id1466262" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id1241719"><problem id="fs-id1433531"><para id="fs-id1886144">Watch this <link url="http://openstax.org/l/ribosome">video</link> to learn about ribosomes. The ribosome binds to the mRNA molecule to start translation of its code into a protein. What happens to the small and large ribosomal subunits at the end of translation?</para></problem>
+<solution id="fs-id1137125">
+<label/>
+<para id="fs-id1174077">They separate and move and are free to join translation of other segments of mRNA.</para></solution>
+</exercise>
+</section>
+<section id="fs-id1184799" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1506288">
+<problem id="fs-id1506227"><para id="fs-id1531740">Which of the following is <emphasis effect="italics">not</emphasis> a difference between DNA and RNA?</para>
+<list id="fs-id1641261" list-type="enumerated" number-style="lower-alpha">
+<item>DNA contains thymine whereas RNA contains uracil</item>
+<item>DNA contains deoxyribose and RNA contains ribose</item>
+<item>DNA contains alternating sugar-phosphate molecules whereas RNA does not contain sugars</item>
+<item>RNA is single stranded and DNA is double stranded</item>
+</list>
+</problem>
+<solution id="fs-id1149225">
+<label/>
+<para id="fs-id1171212">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2433737">
+<problem id="fs-id1487645"><para id="fs-id1097582">Transcription and translation take place in the ________ and ________, respectively.</para>
+<list id="fs-id1107865" list-type="enumerated" number-style="lower-alpha">
+<item>nucleus; cytoplasm</item>
+<item>nucleolus; nucleus</item>
+<item>nucleolus; cytoplasm</item>
+<item>cytoplasm; nucleus</item>
+</list>
+</problem>
+<solution id="fs-id1570518">
+<label/>
+<para id="fs-id1523018">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id2256955">
+<problem id="fs-id704793"><para id="fs-id1859379">How many “letters” of an RNA molecule, in sequence, does it take to provide the code for a single amino acid?</para>
+<list id="fs-id1211455" list-type="enumerated" number-style="lower-alpha">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+</list>
+</problem>
+<solution id="fs-id2166115">
+<label/>
+<para id="fs-id1153354">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1087021">
+<problem id="fs-id1236189"><para id="fs-id1177728">Which of the following is <emphasis effect="italics">not</emphasis> made out of RNA?</para>
+<list id="fs-id1212218" list-type="enumerated" number-style="lower-alpha">
+<item>the carriers that shuffle amino acids to a growing polypeptide strand</item>
+<item>the ribosome</item>
+<item>the messenger molecule that provides the code for protein synthesis</item>
+<item>the intron</item>
+</list>
+</problem>
+<solution id="fs-id1209339">
+<label/>
+<para id="fs-id1542501">B</para></solution>
+</exercise>
+</section>
+<section id="fs-id2166100" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id955046">
+<problem id="fs-id1330322"><para id="fs-id1539157">Briefly explain the similarities between transcription and DNA replication.</para></problem>
+<solution id="fs-id865731"><label/>
+<para id="fs-id2152202">Transcription and DNA replication both involve the synthesis of nucleic acids. These processes share many common features—particularly, the similar processes of initiation, elongation, and termination. In both cases the DNA molecule must be untwisted and separated, and the coding (i.e., sense) strand will be used as a template. Also, polymerases serve to add nucleotides to the growing DNA or mRNA strand. Both processes are signaled to terminate when completed.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2542638">
+<problem id="fs-id1299938"><para id="fs-id1662150">Contrast transcription and translation. Name at least three differences between the two processes.</para></problem>
+<solution id="fs-id1154808"><label/>
+<para id="fs-id1598916">Transcription is really a “copy” process and translation is really an “interpretation” process, because transcription involves copying the DNA message into a very similar RNA message whereas translation involves converting the RNA message into the very different amino acid message. The two processes also differ in their location: transcription occurs in the nucleus and translation in the cytoplasm. The mechanisms by which the two processes are performed are also completely different: transcription utilizes polymerase enzymes to build mRNA whereas translation utilizes different kinds of RNA to build protein.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1076393"><term>anticodon</term> <meaning id="fs-id2152370">consecutive sequence of three nucleotides on a tRNA molecule that is complementary to a specific codon on an mRNA molecule</meaning></definition>
+<definition id="fs-id1511252"><term>codon</term> <meaning id="fs-id2542780">consecutive sequence of three nucleotides on an mRNA molecule that corresponds to a specific amino acid</meaning></definition>
+<definition id="fs-id1860099"><term>exon</term> <meaning id="fs-id1287072">one of the coding regions of an mRNA molecule that remain after splicing</meaning></definition>
+<definition id="fs-id1481378"><term>gene</term> <meaning id="fs-id1500962">functional length of DNA that provides the genetic information necessary to build a protein</meaning></definition>
+<definition id="fs-id1502083"><term>gene expression</term> <meaning id="fs-id1076026">active interpretation of the information coded in a gene to produce a functional gene product</meaning></definition>
+<definition id="fs-id669317"><term>intron</term> <meaning id="fs-id2168945">non-coding regions of a pre-mRNA transcript that may be removed during splicing</meaning></definition>
+<definition id="fs-id969372"><term>messenger RNA (mRNA)</term> <meaning id="fs-id1198448">nucleotide molecule that serves as an intermediate in the genetic code between DNA and protein</meaning></definition>
+<definition id="fs-id1484398"><term>polypeptide</term> <meaning id="fs-id2286150">chain of amino acids linked by peptide bonds</meaning></definition>
+<definition id="fs-id1500925"><term>polyribosome</term> <meaning id="fs-id1534737">simultaneous translation of a single mRNA transcript by multiple ribosomes</meaning></definition>
+<definition id="fs-id1099364"><term>promoter</term> <meaning id="fs-id1448707">region of DNA that signals transcription to begin at that site within the gene</meaning></definition>
+<definition id="fs-id1174724"><term>proteome</term> <meaning id="fs-id1287664">full complement of proteins produced by a cell (determined by the cell’s specific gene expression)</meaning></definition>
+<definition id="fs-id2192575"><term>ribosomal RNA (rRNA)</term> <meaning id="fs-id1434223">RNA that makes up the subunits of a ribosome</meaning></definition>
+<definition id="fs-id814233"><term>RNA polymerase</term> <meaning id="fs-id1448861">enzyme that unwinds DNA and then adds new nucleotides to a growing strand of RNA for the transcription phase of protein synthesis</meaning></definition>
+<definition id="fs-id1942720"><term>spliceosome</term> <meaning id="fs-id757045">complex of enzymes that serves to splice out the introns of a pre-mRNA transcript</meaning></definition>
+<definition id="fs-id1086570"><term>splicing</term> <meaning id="fs-id1059637">the process of modifying a pre-mRNA transcript by removing certain, typically non-coding, regions</meaning></definition>
+<definition id="fs-id1437298"><term>transcription</term> <meaning id="fs-id1097621">process of producing an mRNA molecule that is complementary to a particular gene of DNA</meaning></definition>
+<definition id="fs-id1160226"><term>transfer RNA (tRNA)</term> <meaning id="fs-id1187499">molecules of RNA that serve to bring amino acids to a growing polypeptide strand and properly place them into the sequence</meaning></definition>
+<definition id="fs-id999871"><term>translation</term> <meaning id="fs-id1523188">process of producing a protein from the nucleotide sequence code of an mRNA transcript</meaning></definition>
+<definition id="fs-id1461990"><term>triplet</term> <meaning id="fs-id1739716">consecutive sequence of three nucleotides on a DNA molecule that, when transcribed into an mRNA codon, corresponds to a particular amino acid</meaning></definition>
+</glossary>
+</document>

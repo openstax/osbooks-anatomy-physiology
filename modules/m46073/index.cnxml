@@ -1,0 +1,174 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Nucleus and DNA Replication </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46073</md:content-id>
+  <md:title>The Nucleus and DNA Replication </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the structure and features of the nuclear membrane</item>
+<item>List the contents of the nucleus</item>
+<item>Explain the organization of the DNA molecule within the nucleus</item>
+<item>Describe the process of DNA replication</item>
+</list></md:abstract>
+  <md:uuid>f53c4738-3dce-4a11-8560-526c87ab0938</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1955355">The nucleus is the largest and most prominent of a cell’s organelles (<link target-id="fig-ch03_03_01" document=""/>). The nucleus is generally considered the control center of the cell because it stores all of the genetic instructions for manufacturing proteins. Interestingly, some cells in the body, such as muscle cells, contain more than one nucleus (<link target-id="fig-ch03_03_02" document=""/>), which is known as multinucleated. Other cells, such as mammalian red blood cells (RBCs), do not contain nuclei at all. RBCs eject their nuclei as they mature, making space for the large numbers of hemoglobin molecules that carry oxygen throughout the body (<link target-id="fig-ch03_03_03" document=""/>). Without nuclei, the life span of RBCs is short, and so the body must produce new ones constantly.</para>
+<figure id="fig-ch03_03_01"><title>The Nucleus</title><media id="fs-id1264674" alt="This figure shows the structure of the nucleus. The nucleolus is inside the nucleus, surrounded by the chromatin and covered by the nuclear envelope.">
+<image mime-type="image/jpg" src="../../media/0318_Nucleus.jpg" width="380"/>
+</media>
+<caption> The nucleus is the control center of the cell. The nucleus of living cells contains the genetic material that determines the entire structure and function of that cell.</caption></figure><figure id="fig-ch03_03_02"><title>Multinucleate Muscle Cell</title><media id="fs-id1953788" alt="This micrograph shows a muscle cell with multiple nuclei.">
+<image mime-type="image/jpg" src="../../media/0319_Multinucleate_Muscle_Tissue_Micrograph.jpg" width="380"/>
+</media>
+<caption> Unlike cardiac muscle cells and smooth muscle cells, which have a single nucleus, a skeletal muscle cell contains many nuclei, and is referred to as “multinucleated.” These muscle cells are long and fibrous (often referred to as muscle fibers). During development, many smaller cells fuse to form a mature muscle fiber. The nuclei of the fused cells are conserved in the mature cell, thus imparting a multinucleate characteristic to mature muscle cells.  LM × 104.3. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption></figure><note id="fs-id1639619" class="anatomy interactive um">
+<label/>
+<para id="fs-id1300636">View the <link url="http://openstax.org/l/mnucleate">University of Michigan WebScope</link> to explore the tissue sample in greater detail.</para></note>
+<figure id="fig-ch03_03_03"><title>Red Blood Cell Extruding Its Nucleus</title><media id="fs-id2552695" alt="This set of micrographs shows a red blood cell extruding its nucleus. In the left panel, the nucleus is partially extruded from the red blood cell and in the right panel, the nucleus is completely extruded from the cell.">
+<image mime-type="image/jpg" src="../../media/0320_RBC_Extruding_Nucleus_Micrograph.jpg" width="480"/>
+</media>
+<caption> Mature red blood cells lack a nucleus. As they mature, erythroblasts extrude their nucleus, making room for more hemoglobin. The two panels here show an erythroblast before and after ejecting its nucleus, respectively. (credit: modification of micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption></figure><note id="fs-id2431983" class="anatomy interactive um"><label/>
+<para id="fs-id1331381">View the <link url="http://openstax.org/l/RBC">University of Michigan WebScope</link> to explore the tissue sample in greater detail.</para></note><para id="fs-id1715438">Inside the nucleus lies the blueprint that dictates everything a cell will do and all of the products it will make. This information is stored within DNA. The nucleus sends “commands” to the cell via molecular messengers that translate the information from DNA. Each cell in your body (with the exception of germ cells) contains the complete set of your DNA. When a cell divides, the DNA must be duplicated so that the each new cell receives a full complement of DNA. The following section will explore the structure of the nucleus and its contents, as well as the process of DNA replication.</para>
+<section id="fs-id1103264">
+<title>Organization of the Nucleus and Its DNA</title>
+<para id="fs-id1484999">Like most other cellular organelles, the nucleus is surrounded by a membrane called the <term>nuclear envelope</term>. This membranous covering consists of two adjacent lipid bilayers with a thin fluid space in between them. Spanning these two bilayers are nuclear pores. A <term>nuclear pore</term> is a tiny passageway for the passage of proteins, RNA, and solutes between the nucleus and the cytoplasm. Proteins called pore complexes lining the nuclear pores regulate the passage of materials into and out of the nucleus.</para>
+<para id="fs-id1988147">Inside the nuclear envelope is a gel-like nucleoplasm with solutes that include the building blocks of nucleic acids. There also can be a dark-staining mass often visible under a simple light microscope, called a <term>nucleolus</term> (plural = nucleoli). The nucleolus is a region of the nucleus that is responsible for manufacturing the RNA necessary for construction of ribosomes. Once synthesized, newly made ribosomal subunits exit the cell’s nucleus through the nuclear pores.</para><para id="fs-id1954259">The genetic instructions that are used to build and maintain an organism are arranged in an orderly manner in strands of DNA. Within the nucleus are threads of <term>chromatin</term> composed of DNA and associated proteins (<link target-id="fig-ch03_03_04" document=""/>). Along the chromatin threads, the DNA is wrapped around a set of <term>histone</term> proteins. A <term>nucleosome</term> is a single, wrapped DNA-histone complex. Multiple nucleosomes along the entire molecule of DNA appear like a beaded necklace, in which the string is the DNA and the beads are the associated histones. When a cell is in the process of division, the chromatin condenses into chromosomes, so that the DNA can be safely transported to the “daughter cells.” The <term>chromosome</term> is composed of DNA and proteins; it is the condensed form of chromatin. It is estimated that humans have almost 22,000 genes distributed on 46 chromosomes.</para>
+<figure id="fig-ch03_03_04"><title>DNA Macrostructure</title><media id="fs-id2259636" alt="This diagram shows the macrostructure of DNA. A chromosome and its component chromatin are shown to expand into nucleosomes with histones, which further unravel into a DNA helix and finally into a DNA ladder.">
+<image mime-type="image/jpg" src="../../media/0321_DNA_Macrostructure.jpg" width="420"/>
+</media>
+<caption> Strands of DNA are wrapped around supporting histones. These proteins are increasingly bundled and condensed into chromatin, which is packed tightly into chromosomes when the cell is ready to divide.</caption></figure></section>
+<section id="fs-id1512606">
+<title>DNA Replication</title>
+<para id="fs-id729868">In order for an organism to grow, develop, and maintain its health, cells must reproduce themselves by dividing to produce two new daughter cells, each with the full complement of DNA as found in the original cell. Billions of new cells are produced in an adult human every day. Only very few cell types in the body do not divide, including nerve cells, skeletal muscle fibers, and cardiac muscle cells. The division time of different cell types varies. Epithelial cells of the skin and gastrointestinal lining, for instance, divide very frequently to replace those that are constantly being rubbed off of the surface by friction.</para>
+<para id="fs-id1739073">A DNA molecule is made of two strands that “complement” each other in the sense that the molecules that compose the strands fit together and bind to each other, creating a double-stranded molecule that looks much like a long, twisted ladder. This double helix can be constructed easily because the two strands are antiparallel, meaning the two strands run in opposite directions. Each side rail of the DNA ladder is composed of alternating sugar and phosphate groups (<link target-id="fig-ch03_03_05" document=""/>). The two sides of the ladder are not identical, but are complementary. These two backbones are bonded to each other across pairs of protruding bases, each bonded pair forming one “rung,” or cross member. The four DNA bases are adenine (A), thymine (T), cytosine (C), and guanine (G). Because of their shape and charge, the two bases that compose a pair always bond together. Adenine always binds with thymine, and cytosine always binds with guanine. The particular sequence of bases along the DNA molecule determines the genetic code. Therefore, if the two complementary strands of DNA were pulled apart, you could infer the order of the bases in one strand from the bases in the other, complementary strand. For example, if one strand has a region with the sequence AGTGCCT, then the sequence of the complementary strand would be TCACGGA.</para><figure id="fig-ch03_03_05"><title>Molecular Structure of DNA</title><media id="fs-id1271559" alt="This figure shows the DNA double helix on the top left panel. The different nucleotides are color-coded. In the top right panel, the interaction between the nucleotides through the hydrogen bonds and the location of the sugar-phosphate backbone is shown. In the bottom panel, the structure of a nucleotide is described in detail.">
+<image mime-type="image/jpg" src="../../media/0322_DNA_Nucleotides.jpg" width="450"/>
+</media>
+<caption> The DNA double helix is composed of two complementary strands. The strands are bonded together via their nitrogenous base pairs using hydrogen bonds.</caption></figure><para id="fs-id1828664"><term>DNA replication</term> is the copying of DNA that occurs before cell division can take place. After a great deal of debate and experimentation, the general method of DNA replication was deduced in 1958 by two scientists in California, Matthew Meselson and Franklin Stahl. This method is illustrated in <link target-id="fig-ch03_03_06" document=""/> and described below.</para>
+<figure id="fig-ch03_03_06"><title>DNA Replication</title><media id="fs-id1173842" alt="This image shows the process of DNA replication. A chromosome is shown expanding into the original template DNA and unwinding at the replication fork. The helicase is present at the replication fork. DNA polymerases are shown adding nucleotides to the leading and lagging strands.">
+<image mime-type="image/jpg" src="../../media/0323_DNA_Replication.jpg" width="480"/>
+</media>
+<caption> DNA replication faithfully duplicates the entire genome of the cell. During DNA replication, a number of different enzymes work together to pull apart the two strands so each strand can be used as a template to synthesize new complementary strands. The two new daughter DNA molecules each contain one pre-existing strand and one newly synthesized strand. Thus, DNA replication is said to be “semiconservative.”</caption></figure><para id="fs-id1436027"><emphasis effect="italics">Stage 1: Initiation.</emphasis> The two complementary strands are separated, much like unzipping a zipper. Special enzymes, including <term>helicase</term>, untwist and separate the two strands of DNA.</para>
+<para id="fs-id1448707"><emphasis effect="italics">Stage 2: Elongation.</emphasis> Each strand becomes a template along which a new complementary strand is built. <term>DNA polymerase</term> brings in the correct bases to complement the template strand, synthesizing a new strand base by base. A DNA polymerase is an enzyme that adds free nucleotides to the end of a chain of DNA, making a new double strand. This growing strand continues to be built until it has fully complemented the template strand.</para>
+<para id="fs-id1486055"><emphasis effect="italics">Stage 3: Termination.</emphasis> Once the two original strands are bound to their own, finished, complementary strands, DNA replication is stopped and the two new identical DNA molecules are complete.</para>
+<para id="fs-id1471472">Each new DNA molecule contains one strand from the original molecule and one newly synthesized strand. The term for this mode of replication is “semiconservative,” because half of the original DNA molecule is conserved in each new DNA molecule. This process continues until the cell’s entire <term>genome</term>, the entire complement of an organism’s DNA, is replicated. As you might imagine, it is very important that DNA replication take place precisely so that new cells in the body contain the exact same genetic material as their parent cells. Mistakes made during DNA replication, such as the accidental addition of an inappropriate nucleotide, have the potential to render a gene dysfunctional or useless. Fortunately, there are mechanisms in place to minimize such mistakes. A DNA proofreading process enlists the help of special enzymes that scan the newly synthesized molecule for mistakes and corrects them. Once the process of DNA replication is complete, the cell is ready to divide. You will explore the process of cell division later in the chapter.</para>
+<note id="fs-id1485694" class="anatomy interactive"><label/>
+<para id="fs-id1059419">Watch this <link url="http://openstax.org/l/DNArep">video</link> to learn about DNA replication. DNA replication proceeds simultaneously at several sites on the same molecule. What separates the base pair at the start of DNA replication?</para>
+</note></section>
+<section id="fs-id1503522" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1475912">The nucleus is the command center of the cell, containing the genetic instructions for all of the materials a cell will make (and thus all of its functions it can perform). The nucleus is encased within a membrane of two interconnected lipid bilayers, side-by-side. This nuclear envelope is studded with protein-lined pores that allow materials to be trafficked into and out of the nucleus. The nucleus contains one or more nucleoli, which serve as sites for ribosome synthesis. The nucleus houses the genetic material of the cell: DNA. DNA is normally found as a loosely contained structure called chromatin within the nucleus, where it is wound up and associated with a variety of histone proteins. When a cell is about to divide, the chromatin coils tightly and condenses to form chromosomes.</para>
+<para id="fs-id1967418">There is a pool of cells constantly dividing within your body. The result is billions of new cells being created each day. Before any cell is ready to divide, it must replicate its DNA so that each new daughter cell will receive an exact copy of the organism’s genome. A variety of enzymes are enlisted during DNA replication. These enzymes unwind the DNA molecule, separate the two strands, and assist with the building of complementary strands along each parent strand. The original DNA strands serve as templates from which the nucleotide sequence of the new strands are determined and synthesized. When replication is completed, two identical DNA molecules exist. Each one contains one original strand and one newly synthesized complementary strand.</para>
+</section>
+<section id="fs-id1139303" class="interactive-exercise"><title>Interactive Link Questions</title><exercise id="eip-id1165447767701">
+<problem id="eip-id1165447771174">
+<para id="fs-id1513890">Watch this <link url="http://openstax.org/l/DNArep">video</link> to learn about DNA replication. DNA replication proceeds simultaneously at several sites on the same molecule. What separates the base pair at the start of DNA replication?</para>
+</problem>
+<solution id="eip-id1165447769720">
+<label/>
+<para id="fs-id1037880">an enzyme</para>
+</solution>
+</exercise>
+</section><section id="fs-id1532957" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1613843">
+<problem id="fs-id1492577"><para id="fs-id1059637">The nucleus and mitochondria share which of the following features?</para>
+<list id="fs-id1594340" list-type="enumerated" number-style="lower-alpha">
+<item>protein-lined membrane pores</item>
+<item>a double cell membrane</item>
+<item>the synthesis of ribosomes</item>
+<item>the production of cellular energy</item>
+</list>
+</problem>
+<solution id="fs-id1302391">
+<label/>
+<para id="fs-id839392">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1966803">
+<problem id="fs-id692550"><para id="fs-id1488159">Which of the following structures could be found within the nucleolus?</para>
+<list id="fs-id1468079" list-type="enumerated" number-style="lower-alpha">
+<item>chromatin</item>
+<item>histones</item>
+<item>ribosomes</item>
+<item>nucleosomes</item>
+</list>
+</problem>
+<solution id="fs-id1472511">
+<label/>
+<para id="fs-id1198448">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1439844">
+<problem id="fs-id1324786"><para id="fs-id963410">Which of the following sequences on a DNA molecule would be complementary to GCTTATAT?</para>
+<list id="fs-id444000" list-type="enumerated" number-style="lower-alpha">
+<item>TAGGCGCG</item>
+<item>ATCCGCGC</item>
+<item>CGAATATA</item>
+<item>TGCCTCTC</item>
+</list>
+</problem>
+<solution id="fs-id1160091">
+<label/>
+<para id="fs-id657034">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1070949">
+<problem id="fs-id1485618"><para id="fs-id1282943">Place the following structures in order from least to most complex organization: chromatin, nucleosome, DNA, chromosome</para>
+<list id="fs-id1075297" list-type="enumerated" number-style="lower-alpha">
+<item>DNA, nucleosome, chromatin, chromosome</item>
+<item>nucleosome, DNA, chromosome, chromatin</item>
+<item>DNA, chromatin, nucleosome, chromosome</item>
+<item>nucleosome, chromatin, DNA, chromosome</item>
+</list>
+</problem>
+<solution id="fs-id1149007">
+<label/>
+<para id="fs-id1517970">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1259347">
+<problem id="fs-id1128366"><para id="fs-id1321580">Which of the following is part of the elongation step of DNA synthesis?</para>
+<list id="fs-id1120911" list-type="enumerated" number-style="lower-alpha">
+<item>pulling apart the two DNA strands</item>
+<item>attaching complementary nucleotides to the template strand</item>
+<item>untwisting the DNA helix</item>
+<item>none of the above</item>
+</list>
+</problem>
+<solution id="fs-id1086570">
+<label/>
+<para id="fs-id1085968">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2178070" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1863004">
+<problem id="fs-id1569633"><para id="fs-id1667047">Explain in your own words why DNA replication is said to be “semiconservative”?</para></problem>
+<solution id="fs-id1526343"><label/>
+<para id="fs-id1495859">DNA replication is said to be semiconservative because, after replication is complete, one of the two parent DNA strands makes up half of each new DNA molecule. The other half is a newly synthesized strand. Therefore, half (“semi”) of each daughter DNA molecule is from the parent molecule and half is a new molecule.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1805294">
+<problem id="fs-id1083184"><para id="fs-id1541749">Why is it important that DNA replication take place before cell division? What would happen if cell division of a body cell took place without DNA replication, or when DNA replication was incomplete?</para></problem>
+<solution id="fs-id920234"><label/>
+<para id="fs-id2073060">During cell division, one cell divides to produce two new cells. In order for all of the cells in your body to maintain a full genome, each cell must replicate its DNA before it divides so that a full genome can be allotted to each of its offspring cells. If DNA replication did not take place fully, or at all, the offspring cells would be missing some or all of the genome. This could be disastrous if a cell was missing genes necessary for its function and health.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2338188"><term>chromatin</term> <meaning id="fs-id1230068">substance consisting of DNA and associated proteins</meaning></definition>
+<definition id="fs-id1092499"><term>chromosome</term> <meaning id="fs-id1540383">condensed version of chromatin</meaning></definition>
+<definition id="fs-id1188256"><term>DNA polymerase</term> <meaning id="fs-id1301044">enzyme that functions in adding new nucleotides to a growing strand of DNA during DNA replication</meaning></definition>
+<definition id="fs-id1805124"><term>DNA replication</term> <meaning id="fs-id721912">process of duplicating a molecule of DNA</meaning></definition>
+<definition id="fs-id756448"><term>genome</term> <meaning id="fs-id1496523">entire complement of an organism’s DNA; found within virtually every cell</meaning></definition>
+<definition id="fs-id1298153"><term>helicase</term> <meaning id="fs-id1273712">enzyme that functions to separate the two DNA strands of a double helix during DNA replication</meaning></definition>
+<definition id="fs-id1512049"><term>histone</term> <meaning id="fs-id1863594">family of proteins that associate with DNA in the nucleus to form chromatin</meaning></definition>
+<definition id="fs-id1952643"><term>nuclear envelope</term> <meaning id="fs-id1739430">membrane that surrounds the nucleus; consisting of a double lipid-bilayer</meaning></definition>
+<definition id="fs-id1543270"><term>nuclear pore</term> <meaning id="fs-id2166115">one of the small, protein-lined openings found scattered throughout the nuclear envelope</meaning></definition>
+<definition id="fs-id1523411"><term>nucleolus</term> <meaning id="fs-id1448726">small region of the nucleus that functions in ribosome synthesis</meaning></definition>
+<definition id="fs-id1526263"><term>nucleosome</term> <meaning id="fs-id1885284">unit of chromatin consisting of a DNA strand wrapped around histone proteins</meaning></definition>
+</glossary>
+</document>

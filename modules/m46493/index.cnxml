@@ -1,0 +1,124 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Protein Metabolism </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46493</md:content-id>
+  <md:title>Protein Metabolism </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe how the body digests proteins</item>
+<item>Explain how the urea cycle prevents toxic concentrations of nitrogen</item>
+<item>Differentiate between glucogenic and ketogenic amino acids</item>
+<item>Explain how protein can be used for energy</item>
+</list></md:abstract>
+  <md:uuid>cff35d86-b2aa-42f1-afd5-bcad803a6ade</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1617940">Much of the body is made of protein, and these proteins take on a myriad of forms. They represent cell signaling receptors, signaling molecules, structural members, enzymes, intracellular trafficking components, extracellular matrix scaffolds, ion pumps, ion channels, oxygen and CO<sub>2</sub> transporters (hemoglobin). That is not even the complete list! There is protein in bones (collagen), muscles, and tendons; the hemoglobin that transports oxygen; and enzymes that catalyze all biochemical reactions. Protein is also used for growth and repair. Amid all these necessary functions, proteins also hold the potential to serve as a metabolic fuel source. Proteins are not stored for later use, so excess proteins must be converted into glucose or triglycerides, and used to supply energy or build energy reserves. Although the body can synthesize proteins from amino acids, food is an important source of those amino acids, especially because humans cannot synthesize all of the 20 amino acids used to build proteins.</para>
+<para id="fs-id2864299">The digestion of proteins begins in the stomach. When protein-rich foods enter the stomach, they are greeted by a mixture of the enzyme <term>pepsin</term> and hydrochloric acid (HCl; 0.5 percent). The latter produces an environmental pH of 1.5–3.5 that denatures proteins within food. Pepsin cuts proteins into smaller polypeptides and their constituent amino acids. When the food-gastric juice mixture (chyme) enters the small intestine, the pancreas releases <term>sodium bicarbonate</term> to neutralize the HCl. This helps to protect the lining of the intestine. The small intestine also releases digestive hormones, including <term>secretin</term> and CCK, which stimulate digestive processes to break down the proteins further. Secretin also stimulates the pancreas to release sodium bicarbonate. The pancreas releases most of the digestive enzymes, including the proteases trypsin, chymotrypsin, and <term>elastase</term>, which aid protein digestion. Together, all of these enzymes break complex proteins into smaller individual amino acids (<link target-id="fig-ch25_04_01" document=""/>), which are then transported across the intestinal mucosa to be used to create new proteins, or to be converted into fats or acetyl CoA and used in the Krebs cycle.</para>
+<figure id="fig-ch25_04_01"><title>Digestive Enzymes and Hormones </title><media id="fs-id2511820" alt="The left panel shows the main organs of the digestive system, and the right panel shows a magnified view of the intestine. Text callouts indicate the different protein digesting enzymes produced in different organs.">
+<image mime-type="image/jpg" src="../../media/2517_Protein-Digesting_EnzymesN.jpg" width="500"/>
+</media>
+<caption>Enzymes in the stomach and small intestine break down proteins into amino acids. HCl in the stomach aids in proteolysis, and hormones secreted by intestinal cells direct the digestive processes.</caption></figure><para id="fs-id1265347">In order to avoid breaking down the proteins that make up the pancreas and small intestine, pancreatic enzymes are released as <term>inactive proenzymes</term> that are only activated in the small intestine. In the pancreas, vesicles store <term>trypsin</term> and <term>chymotrypsin</term> as <term>trypsinogen</term> and <term>chymotrypsinogen</term>. Once released into the small intestine, an enzyme found in the wall of the small intestine, called <term>enterokinase</term>, binds to trypsinogen and converts it into its active form, trypsin. Trypsin then binds to chymotrypsinogen to convert it into the active chymotrypsin. Trypsin and chymotrypsin break down large proteins into smaller peptides, a process called <term>proteolysis</term>. These smaller peptides are catabolized into their constituent amino acids, which are transported across the apical surface of the intestinal mucosa in a process that is mediated by sodium-amino acid transporters. These transporters bind sodium and then bind the amino acid to transport it across the membrane. At the basal surface of the mucosal cells, the sodium and amino acid are released. The sodium can be reused in the transporter, whereas the amino acids are transferred into the bloodstream to be transported to the liver and cells throughout the body for protein synthesis.</para>
+<para id="fs-id2508882">Freely available amino acids are used to create proteins. If amino acids exist in excess, the body has no capacity or mechanism for their storage; thus, they are converted into glucose or ketones, or they are decomposed. Amino acid decomposition results in hydrocarbons and nitrogenous waste. However, high concentrations of nitrogenous byproducts are toxic. The urea cycle processes nitrogen and facilitates its excretion from the body.</para>
+<section id="fs-id1527929">
+<title>Urea Cycle</title>
+<para id="fs-id2189300">The <term>urea cycle</term> is a set of biochemical reactions that produces urea from ammonium ions in order to prevent a toxic level of ammonium in the body. It occurs primarily in the liver and, to a lesser extent, in the kidney. Prior to the urea cycle, ammonium ions are produced from the breakdown of amino acids. In these reactions, an amine group, or ammonium ion, from the amino acid is exchanged with a keto group on another molecule. This <term>transamination</term> event creates a molecule that is necessary for the Krebs cycle and an ammonium ion that enters into the urea cycle to be eliminated.</para><para id="fs-id2674976">In the urea cycle, ammonium is combined with CO<sub>2</sub>, resulting in urea and water. The urea is eliminated through the kidneys in the urine (<link target-id="fig-ch25_04_02" document=""/>).</para>
+<figure id="fig-ch25_04_02"><title>Urea Cycle </title><media id="fs-id2726180" alt="This image shows the reactions of the urea cycle and the organelles in which they take place.">
+<image mime-type="image/jpg" src="../../media/2518_Urea_Cycle.jpg" width="520"/>
+</media>
+<caption>Nitrogen is transaminated, creating ammonia and intermediates of the Krebs cycle. Ammonia is processed in the urea cycle to produce urea that is eliminated through the kidneys.</caption></figure><para id="fs-id3342803">Amino acids can also be used as a source of energy, especially in times of starvation. Because the processing of amino acids results in the creation of metabolic intermediates, including pyruvate, acetyl CoA, acetoacyl CoA, oxaloacetate, and α-ketoglutarate, amino acids can serve as a source of energy production through the Krebs cycle (<link target-id="fig-ch25_04_03" document=""/>). <link target-id="fig-ch25_04_04" document=""/> summarizes the pathways of catabolism and anabolism for carbohydrates, lipids, and proteins.</para>
+<figure id="fig-ch25_04_03"><title>Energy from Amino Acids </title><media id="fs-id2476278" alt="This figure  shows the different reactions in which products of carbohydrate breakdown are converted into different amino acids.">
+<image mime-type="image/jpg" src="../../media/2519_Energy_From_Amino_Acids.jpg" width="550"/>
+</media>
+<caption>Amino acids can be broken down into precursors for glycolysis or the Krebs cycle. Amino acids (in bold) can enter the cycle through more than one pathway.</caption></figure><figure id="fig-ch25_04_04"><title>Catabolic and Anabolic Pathways </title><media id="fs-id1511188" alt="This diagram shows the different metabolic pathways, and how they are connected.">
+<image mime-type="image/jpg" src="../../media/2520_Catabolic_and_Anabolic_Pathways.jpg" width="560"/>
+</media>
+<caption>Nutrients follow a complex pathway from ingestion through anabolism and catabolism to energy production.</caption></figure><note id="fs-id1930160" class="anatomy disorders">
+<title>Metabolism: Pyruvate Dehydrogenase Complex Deficiency and Phenylketonuria</title>
+<para id="fs-id1933763">
+Pyruvate dehydrogenase complex deficiency (PDCD) and phenylketonuria (PKU) are genetic disorders. Pyruvate dehydrogenase is the enzyme that converts pyruvate into acetyl CoA, the molecule necessary to begin the Krebs cycle to produce ATP. With low levels of the pyruvate dehydrogenase complex (PDC), the rate of cycling through the Krebs cycle is dramatically reduced. This results in a decrease in the total amount of energy that is produced by the cells of the body. PDC deficiency results in a neurodegenerative disease that ranges in severity, depending on the levels of the PDC enzyme. It may cause developmental defects, muscle spasms, and death. Treatments can include diet modification, vitamin supplementation, and gene therapy; however, damage to the central nervous system usually cannot be reversed.</para>
+<para id="fs-id1269891">PKU affects about 1 in every 15,000 births in the United States. People afflicted with PKU lack sufficient activity of the enzyme phenylalanine hydroxylase and are therefore unable to break down phenylalanine into tyrosine adequately. Because of this, levels of phenylalanine rise to toxic levels in the body, which results in damage to the central nervous system and brain. Symptoms include delayed neurological development, hyperactivity, intellectual disability, seizures, rash, tremors, and uncontrolled movements of the arms and legs. Pregnant women with PKU are at a high risk for exposing the fetus to too much phenylalanine, which can cross the placenta and affect fetal development. Babies exposed to excess phenylalanine in utero may present with heart defects, physical and/or intellectual disability, and microcephaly. Every infant in the United States and Canada is tested at birth to determine whether PKU is present. The earlier a modified diet is begun, the less severe the symptoms will be. The person must closely follow a strict diet that is low in phenylalanine to avoid symptoms and damage. Phenylalanine is found in high concentrations in artificial sweeteners, including aspartame. Therefore, these sweeteners must be avoided. Some animal products and certain starches are also high in phenylalanine, and intake of these foods should be carefully monitored.</para></note>
+</section>
+<section id="fs-id2123231" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2213334">Digestion of proteins begins in the stomach, where HCl and pepsin begin the process of breaking down proteins into their constituent amino acids. As the chyme enters the small intestine, it mixes with bicarbonate and digestive enzymes. The bicarbonate neutralizes the acidic HCl, and the digestive enzymes break down the proteins into smaller peptides and amino acids. Digestive hormones secretin and CCK are released from the small intestine to aid in digestive processes, and digestive proenzymes are released from the pancreas (trypsinogen and chymotrypsinogen). Enterokinase, an enzyme located in the wall of the small intestine, activates trypsin, which in turn activates chymotrypsin. These enzymes liberate the individual amino acids that are then transported via sodium-amino acid transporters across the intestinal wall into the cell. The amino acids are then transported into the bloodstream for dispersal to the liver and cells throughout the body to be used to create new proteins. When in excess, the amino acids are processed and stored as glucose or ketones. The nitrogen waste that is liberated in this process is converted to urea in the urea acid cycle and eliminated in the urine. In times of starvation, amino acids can be used as an energy source and processed through the Krebs cycle.</para>
+</section>
+<section id="fs-id2320580" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2041938">
+<problem id="fs-id1997947"><para id="fs-id1438518">Digestion of proteins begins in the ________ where ________ and ________ mix with food to break down protein into ________.</para>
+<list id="fs-id2162812" list-type="enumerated" number-style="lower-alpha">
+<item>stomach; amylase; HCl; amino acids</item>
+<item>mouth; pepsin; HCl; fatty acids</item>
+<item>stomach; lipase; HCl; amino acids</item>
+<item>stomach; pepsin; HCl; amino acids</item>
+</list>
+</problem>
+<solution id="fs-id1716420">
+<label/>
+<para id="fs-id2506391">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2058342">
+<problem id="fs-id1626773"><para id="fs-id1492841">Amino acids are needed to ________.</para>
+<list id="fs-id2467594" list-type="enumerated" number-style="lower-alpha">
+<item>build new proteins</item>
+<item>serve as fat stores</item>
+<item>supply energy for the cell</item>
+<item>create red blood cells</item>
+</list>
+</problem>
+<solution id="fs-id1976853">
+<label/>
+<para id="fs-id2059503">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1863134">
+<problem id="fs-id2391971"><para id="fs-id3335704">If an amino acid is not used to create new proteins, it can be ________.</para>
+<list id="fs-id2068669" list-type="enumerated" number-style="lower-alpha">
+<item>converted to acetyl CoA</item>
+<item>converted to glucose or ketones</item>
+<item>converted to nitrogen</item>
+<item>stored to be used later</item>
+</list>
+</problem>
+<solution id="fs-id1332013">
+<label/>
+<para id="fs-id1615111">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1611243" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2469597">
+<problem id="fs-id1750106"><para id="fs-id1720020">Amino acids are not stored in the body. Describe how excess amino acids are processed in the cell.</para></problem>
+<solution id="fs-id1387774"><label/>
+<para id="fs-id1983729">Amino acids are not stored in the body. The individual amino acids are broken down into pyruvate, acetyl CoA, or intermediates of the Krebs cycle, and used for energy or for lipogenesis reactions to be stored as fats.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2181977">
+<problem id="fs-id858356"><para id="fs-id1815886">Release of trypsin and chymotrypsin in their active form can result in the digestion of the pancreas or small intestine itself. What mechanism does the body employ to prevent its self-destruction?</para></problem>
+<solution id="fs-id1479835"><label/>
+<para id="fs-id3049727">Trypsin and chymotrypsin are released as inactive proenzymes. They are only activated in the small intestine, where they act upon ingested proteins in the food. This helps avoid unintended breakdown of the pancreas or small intestine.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1580065"><term>chymotrypsin</term> <meaning id="fs-id1545998">pancreatic enzyme that digests protein</meaning></definition>
+<definition id="fs-id3330537"><term>chymotrypsinogen</term> <meaning id="fs-id2346947">proenzyme that is activated by trypsin into chymotrypsin</meaning></definition>
+<definition id="fs-id2101080"><term>elastase</term> <meaning id="fs-id2796646">pancreatic enzyme that digests protein</meaning></definition>
+<definition id="fs-id2044397"><term>enterokinase</term> <meaning id="fs-id1957834">enzyme located in the wall of the small intestine that activates trypsin</meaning></definition>
+<definition id="fs-id1990581"><term>inactive proenzymes</term> <meaning id="fs-id1752403">forms in which proteases are stored and released to prevent the inappropriate digestion of the native proteins of the stomach, pancreas, and small intestine</meaning></definition>
+<definition id="fs-id2042356"><term>pepsin</term> <meaning id="fs-id3330526">enzyme that begins to break down proteins in the stomach</meaning></definition>
+<definition id="fs-id1642905"><term>proteolysis</term> <meaning id="fs-id1312452">process of breaking proteins into smaller peptides</meaning></definition>
+<definition id="fs-id2459174"><term>secretin</term> <meaning id="fs-id1988276">hormone released in the small intestine to aid in digestion</meaning></definition>
+<definition id="fs-id1551579"><term>sodium bicarbonate</term> <meaning id="fs-id1958496">anion released into the small intestine to neutralize the pH of the food from the stomach</meaning></definition>
+<definition id="fs-id2183504"><term>transamination</term> <meaning id="fs-id1302288">transfer of an amine group from one molecule to another as a way to turn nitrogen waste into ammonia so that it can enter the urea cycle</meaning></definition>
+<definition id="fs-id1740445"><term>trypsin</term> <meaning id="fs-id1247449">pancreatic enzyme that activates chymotrypsin and digests protein</meaning></definition>
+<definition id="fs-id2493556"><term>trypsinogen</term> <meaning id="fs-id1369602">proenzyme form of trypsin</meaning></definition>
+<definition id="fs-id2152338"><term>urea cycle</term> <meaning id="fs-id1813480">process that converts potentially toxic nitrogen waste into urea that can be eliminated through the kidneys</meaning></definition>
+</glossary>
+</document>

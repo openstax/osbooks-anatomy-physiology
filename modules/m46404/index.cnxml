@@ -1,0 +1,83 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Cardiac Muscle Tissue </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46404</md:content-id>
+  <md:title>Cardiac Muscle Tissue </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe intercalated discs and gap junctions</item>
+<item>Describe a desmosome</item>
+</list></md:abstract>
+  <md:uuid>8109c458-4598-464f-b393-506247dfe81d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1978114">Cardiac muscle tissue is only found in the heart. Highly coordinated contractions of cardiac muscle pump blood into the vessels of the circulatory system. Similar to skeletal muscle, cardiac muscle is striated and organized into sarcomeres, possessing the same banding organization as skeletal muscle (<link target-id="fig-ch10_07_01" document=""/>). However, cardiac muscle fibers are shorter than skeletal muscle fibers and usually contain only one nucleus, which is located in the central region of the cell. Cardiac muscle fibers also possess many mitochondria and myoglobin, as ATP is produced primarily through aerobic metabolism. Cardiac muscle fibers cells also are extensively branched and are connected to one another at their ends by intercalated discs. An <term>intercalated disc</term> allows the cardiac muscle cells to contract in a wave-like pattern so that the heart can work as a pump.</para>
+<figure id="fig-ch10_07_01"><title>Cardiac Muscle Tissue </title><media id="fs-id1401365" alt="This image is a micrograph of cardiac muscle cells.">
+<image mime-type="image/jpg" src="../../media/414c_Cardiacmuscle.jpg" width="380"/>
+</media>
+<caption>Cardiac muscle tissue is only found in the heart. LM × 1600. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption></figure><note id="fs-id2327137" class="anatomy interactive um"><label/>
+<para id="fs-id1424369">View the <link url="http://openstax.org/l/cardmuscleMG"> University of Michigan WebScope</link> to explore the tissue sample in greater detail.</para></note><para id="fs-id1389642">Intercalated discs are part of the sarcolemma and contain two structures important in cardiac muscle contraction: gap junctions and desmosomes. A gap junction forms channels between adjacent cardiac muscle fibers that allow the depolarizing current produced by cations to flow from one cardiac muscle cell to the next. This joining is called electric coupling, and in cardiac muscle it allows the quick transmission of action potentials and the coordinated contraction of the entire heart. This network of electrically connected cardiac muscle cells creates a functional unit of contraction called a syncytium. The remainder of the intercalated disc is composed of desmosomes. A <term>desmosome</term> is a cell structure that anchors the ends of cardiac muscle fibers together so the cells do not pull apart during the stress of individual fibers contracting (<link target-id="fig-ch10_07_02" document=""/>).</para><figure id="fig-ch10_07_02"><title>Cardiac Muscle </title><media id="fs-id2344132" alt="This image shows the structure of the cardiac muscle. A small image of the heart is shown on the top left of the figure and then a magnified view of the cardiac muscle is shown, with the nucleus and the cardiac muscle fiber labeled. A further magnification shows the structure of the intercalated discs with the desmosome and gap junction.">
+<image mime-type="image/jpg" src="../../media/1020_Cardiac_Muscle.jpg" width="480"/>
+</media>
+<caption>Intercalated discs are part of the cardiac muscle sarcolemma and they contain gap junctions and desmosomes.</caption></figure><para id="fs-id1853723">Contractions of the heart (heartbeats) are controlled by specialized cardiac muscle cells called pacemaker cells that directly control heart rate. Although cardiac muscle cannot be consciously controlled, the pacemaker cells respond to signals from the autonomic nervous system (ANS) to speed up or slow down the heart rate. The pacemaker cells can also respond to various hormones that modulate heart rate to control blood pressure.</para>
+<para id="fs-id2254456">The wave of contraction that allows the heart to work as a unit, called a functional syncytium, begins with the pacemaker cells. This group of cells is self-excitable and able to depolarize to threshold and fire action potentials on their own, a feature called <term>autorhythmicity</term>; they do this at set intervals which determine heart rate. Because they are connected with gap junctions to surrounding muscle fibers and the specialized fibers of the heart’s conduction system, the pacemaker cells are able to transfer the depolarization to the other cardiac muscle fibers in a manner that allows the heart to contract in a coordinated manner.</para>
+<para id="fs-id1285162">Another feature of cardiac muscle is its relatively long action potentials in its fibers, having a sustained depolarization “plateau.” The plateau is produced by Ca<sup>++</sup> entry though voltage-gated calcium channels in the sarcolemma of cardiac muscle fibers. This sustained depolarization (and Ca<sup>++</sup> entry) provides for a longer contraction than is produced by an action potential in skeletal muscle. Unlike skeletal muscle, a large percentage of the Ca<sup>++</sup> that initiates contraction in cardiac muscles comes from outside the cell rather than from the SR.</para>
+<section id="fs-id1421594" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2071590">Cardiac muscle is striated muscle that is present only in the heart. Cardiac muscle fibers have a single nucleus, are branched, and joined to one another by intercalated discs that contain gap junctions for depolarization between cells and desmosomes to hold the fibers together when the heart contracts. Contraction in each cardiac muscle fiber is triggered by Ca<sup>++</sup> ions in a similar manner as skeletal muscle, but here the Ca<sup>++</sup> ions come from SR and through voltage-gated calcium channels in the sarcolemma. Pacemaker cells stimulate the spontaneous contraction of cardiac muscle as a functional unit, called a syncytium.</para>
+</section>
+<section id="fs-id2041617" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2020356">
+<problem id="fs-id1616427"><para id="fs-id2271264">Cardiac muscles differ from skeletal muscles in that they ________.</para>
+<list id="fs-id2023494" list-type="enumerated" number-style="lower-alpha">
+<item>are striated</item>
+<item>utilize aerobic metabolism</item>
+<item>contain myofibrils</item>
+<item>contain intercalated discs</item>
+</list>
+</problem>
+<solution id="fs-id1424748">
+<label/>
+<para id="fs-id1720553">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1432203">
+<problem id="fs-id1845287"><para id="fs-id1971404">If cardiac muscle cells were prevented from undergoing aerobic metabolism, they ultimately would ________.</para>
+<list id="fs-id1374666" list-type="enumerated" number-style="lower-alpha">
+<item>undergo glycolysis</item>
+<item>synthesize ATP</item>
+<item>stop contracting</item>
+<item>start contracting</item>
+</list>
+</problem>
+<solution id="fs-id1752497">
+<label/>
+<para id="fs-id1236287">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1899397" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1890801">
+<problem id="fs-id1582849"><para id="fs-id1978433">What would be the drawback of cardiac contractions being the same duration as skeletal muscle contractions?</para></problem>
+<solution id="fs-id2338234"><label/>
+<para id="fs-id1493390">An action potential could reach a cardiac muscle cell before it has entered the relaxation phase, resulting in the sustained contractions of tetanus. If this happened, the heart would not beat regularly.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1639931">
+<problem id="fs-id1725457"><para id="fs-id2202642">How are cardiac muscle cells similar to and different from skeletal muscle cells?</para></problem>
+<solution id="fs-id2336490"><label/>
+<para id="fs-id1207270">Cardiac and skeletal muscle cells both contain ordered myofibrils and are striated. Cardiac muscle cells are branched and contain intercalated discs, which skeletal muscles do not have.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1433438"><term>autorhythmicity</term> <meaning id="fs-id1351757">heart’s ability to control its own contractions</meaning></definition>
+<definition id="fs-id2311104"><term>desmosome</term> <meaning id="fs-id1349986">cell structure that anchors the ends of cardiac muscle fibers to allow contraction to occur</meaning></definition>
+<definition id="fs-id2302827"><term>intercalated disc</term> <meaning id="fs-id1989406">part of the sarcolemma that connects cardiac tissue, and contains gap junctions and desmosomes</meaning></definition>
+</glossary>
+</document>

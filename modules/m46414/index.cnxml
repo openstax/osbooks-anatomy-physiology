@@ -1,0 +1,441 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Electrolyte Balance </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46414</md:content-id>
+  <md:title>Electrolyte Balance </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>List the role of the six most important electrolytes in the body</item>
+<item>Name the disorders associated with abnormally high and low levels of the six electrolytes</item>
+<item>Identify the predominant extracellular anion</item>
+<item>Describe the role of aldosterone on the level of water in the body</item>
+</list></md:abstract>
+  <md:uuid>ca0c80ce-7586-419b-a890-6bdad12ec809</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1932370">The body contains a large variety of ions, or electrolytes, which perform a variety of functions. Some ions assist in the transmission of electrical impulses along cell membranes in neurons and muscles. Other ions help to stabilize protein structures in enzymes. Still others aid in releasing hormones from endocrine glands. All of the ions in plasma contribute to the osmotic balance that controls the movement of water between cells and their environment.</para>
+<para id="fs-id1386356">Electrolytes in living systems include sodium, potassium, chloride, bicarbonate, calcium, phosphate, magnesium, copper, zinc, iron, manganese, molybdenum, copper, and chromium. In terms of body functioning, six electrolytes are most important: sodium, potassium, chloride, bicarbonate, calcium, and phosphate.</para>
+<section id="fs-id1747323">
+<title>Roles of Electrolytes</title>
+<para id="fs-id1616324">These six ions aid in nerve excitability, endocrine secretion, membrane permeability, buffering body fluids, and controlling the movement of fluids between compartments. These ions enter the body through the digestive tract. More than 90 percent of the calcium and phosphate that enters the body is incorporated into bones and teeth, with bone serving as a mineral reserve for these ions. In the event that calcium and phosphate are needed for other functions, bone tissue can be broken down to supply the blood and other tissues with these minerals. Phosphate is a normal constituent of nucleic acids; hence, blood levels of phosphate will increase whenever nucleic acids are broken down.</para><para id="fs-id2005214">Excretion of ions occurs mainly through the kidneys, with lesser amounts lost in sweat and in feces. Excessive sweating may cause a significant loss, especially of sodium and chloride. Severe vomiting or diarrhea will cause a loss of chloride and bicarbonate ions. Adjustments in respiratory and renal functions allow the body to regulate the levels of these ions in the ECF.</para>
+<para id="fs-id2024105"><link target-id="tbl-ch27_01" document=""/> lists the reference values for blood plasma, cerebrospinal fluid (CSF), and urine for the six ions addressed in this section. In a clinical setting, sodium, potassium, and chloride are typically analyzed in a routine urine sample. In contrast, calcium and phosphate analysis requires a collection of urine across a 24-hour period, because the output of these ions can vary considerably over the course of a day. Urine values reflect the rates of excretion of these ions. Bicarbonate is the one ion that is not normally excreted in urine; instead, it is conserved by the kidneys for use in the body’s buffering systems.</para>
+
+<table class="top-titled" id="tbl-ch27_01" summary="">
+<tgroup cols="5" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5">Electrolyte and Ion Reference Values</entry>
+</row>
+<row>
+<entry>Name</entry>
+<entry>Chemical symbol</entry>
+<entry>Plasma</entry>
+<entry>CSF</entry>
+<entry>Urine</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Sodium</entry>
+<entry>Na<sup>+</sup></entry>
+<entry>136.00–146.00 (mM)</entry>
+<entry>138.00–150.00 (mM)</entry>
+<entry>40.00–220.00 (mM)</entry>
+</row>
+<row>
+<entry>Potassium</entry>
+<entry>K<sup>+</sup></entry>
+<entry>3.50–5.00 (mM)</entry>
+<entry>0.35–3.5 (mM)</entry>
+<entry>25.00–125.00 (mM)</entry>
+</row>
+<row>
+<entry>Chloride</entry>
+<entry>Cl<sup>-</sup></entry>
+<entry>98.00–107.00 (mM)</entry>
+<entry>118.00–132.00 (mM)</entry>
+<entry>110.00–250.00 (mM)</entry>
+</row>
+<row>
+<entry>Bicarbonate</entry>
+<entry>HCO<sub>3</sub><sup>-</sup></entry>
+<entry>22.00–29.00 (mM)</entry>
+<entry>------</entry>
+<entry>------</entry>
+</row>
+<row><entry>Calcium</entry>
+<entry>Ca<sup>++</sup></entry>
+<entry>2.15–2.55 (mmol/day)</entry>
+<entry>------</entry>
+<entry>Up to 7.49 (mmol/day)</entry></row>
+<row>
+<entry>Phosphate</entry>
+<entry><m:math display="left">
+ <m:mrow>
+  <m:msubsup>
+   <m:mrow>
+    <m:mtext>HPO</m:mtext>
+   </m:mrow>
+   <m:mn>4</m:mn>
+   <m:mrow>
+    <m:mn>2</m:mn><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msubsup>
+
+ </m:mrow>
+</m:math></entry>
+<entry>0.81–1.45 (mmol/day)</entry>
+<entry>------</entry>
+<entry>12.90–42.00 (mmol/day)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section id="fs-id1412836">
+<title>Sodium</title>
+<para id="fs-id1926607">Sodium is the major cation of the extracellular fluid. It is responsible for one-half of the osmotic pressure gradient that exists between the interior of cells and their surrounding environment. People eating a typical Western diet, which is very high in NaCl, routinely take in 130 to 160 mmol/day of sodium, but humans require only 1 to 2 mmol/day. This excess sodium appears to be a major factor in hypertension (high blood pressure) in some people. Excretion of sodium is accomplished primarily by the kidneys. Sodium is freely filtered through the glomerular capillaries of the kidneys, and although much of the filtered sodium is reabsorbed in the proximal convoluted tubule, some remains in the filtrate and urine, and is normally excreted.</para>
+<para id="fs-id1373472"><term>Hyponatremia</term> is a lower-than-normal concentration of sodium, usually associated with excess water accumulation in the body, which dilutes the sodium. An absolute loss of sodium may be due to a decreased intake of the ion coupled with its continual excretion in the urine. An abnormal loss of sodium from the body can result from several conditions, including excessive sweating, vomiting, or diarrhea; the use of diuretics; excessive production of urine, which can occur in diabetes; and acidosis, either metabolic acidosis or diabetic ketoacidosis.</para>
+<para id="fs-id1905815">A relative decrease in blood sodium can occur because of an imbalance of sodium in one of the body’s other fluid compartments, like IF, or from a dilution of sodium due to water retention related to edema or congestive heart failure. At the cellular level, hyponatremia results in increased entry of water into cells by osmosis, because the concentration of solutes within the cell exceeds the concentration of solutes in the now-diluted ECF. The excess water causes swelling of the cells; the swelling of red blood cells—decreasing their oxygen-carrying efficiency and making them potentially too large to fit through capillaries—along with the swelling of neurons in the brain can result in brain damage or even death.</para>
+<para id="fs-id1928598"><term>Hypernatremia</term> is an abnormal increase of blood sodium. It can result from water loss from the blood, resulting in the hemoconcentration of all blood constituents. Hormonal imbalances involving ADH and aldosterone may also result in higher-than-normal sodium values.</para>
+</section>
+<section id="fs-id1885998">
+<title>Potassium</title>
+<para id="fs-id2020926">Potassium is the major intracellular cation. It helps establish the resting membrane potential in neurons and muscle fibers after membrane depolarization and action potentials. In contrast to sodium, potassium has very little effect on osmotic pressure. The low levels of potassium in blood and CSF are due to the sodium-potassium pumps in cell membranes, which maintain the normal potassium concentration gradients between the ICF and ECF. The recommendation for daily intake/consumption of potassium is 4700 mg. Potassium is excreted, both actively and passively, through the renal tubules, especially the distal convoluted tubule and collecting ducts. Potassium participates in the exchange with sodium in the renal tubules under the influence of aldosterone, which also relies on basolateral sodium-potassium pumps.</para>
+<para id="fs-id1254689"><term>Hypokalemia</term> is an abnormally low potassium blood level. Similar to the situation with hyponatremia, hypokalemia can occur because of either an absolute reduction of potassium in the body or a relative reduction of potassium in the blood due to the redistribution of potassium. An absolute loss of potassium can arise from decreased intake, frequently related to starvation. It can also come about from vomiting, diarrhea, or alkalosis.</para>
+<para id="fs-id2017563">Some insulin-dependent diabetic patients experience a relative reduction of potassium in the blood from the redistribution of potassium. When insulin is administered and glucose is taken up by cells, potassium passes through the cell membrane along with glucose, decreasing the amount of potassium in the blood and IF, which can cause hyperpolarization of the cell membranes of neurons, reducing their responses to stimuli.</para>
+<para id="fs-id1355539"><term>Hyperkalemia</term>, an elevated potassium blood level, also can impair the function of skeletal muscles, the nervous system, and the heart. Hyperkalemia can result from increased dietary intake of potassium. In such a situation, potassium from the blood ends up in the ECF in abnormally high concentrations. This can result in a partial depolarization (excitation) of the plasma membrane of skeletal muscle fibers, neurons, and cardiac cells of the heart, and can also lead to an inability of cells to repolarize. For the heart, this means that it won’t relax after a contraction, and will effectively “seize” and stop pumping blood, which is fatal within minutes. Because of such effects on the nervous system, a person with hyperkalemia may also exhibit mental confusion, numbness, and weakened respiratory muscles.</para>
+</section>
+<section id="fs-id1882963">
+<title>Chloride</title>
+<para id="fs-id1378888">Chloride is the predominant extracellular anion. Chloride is a major contributor to the osmotic pressure gradient between the ICF and ECF, and plays an important role in maintaining proper hydration. Chloride functions to balance cations in the ECF, maintaining the electrical neutrality of this fluid. The paths of secretion and reabsorption of chloride ions in the renal system follow the paths of sodium ions.</para>
+<para id="fs-id1765737"><term>Hypochloremia</term>, or lower-than-normal blood chloride levels, can occur because of defective renal tubular absorption. Vomiting, diarrhea, and metabolic acidosis can also lead to hypochloremia. <term>Hyperchloremia</term>, or higher-than-normal blood chloride levels, can occur due to dehydration, excessive intake of dietary salt (NaCl) or swallowing of sea water, aspirin intoxication, congestive heart failure, and the hereditary, chronic lung disease, cystic fibrosis. In people who have cystic fibrosis, chloride levels in sweat are two to five times those of normal levels, and analysis of sweat is often used in the diagnosis of the disease.</para>
+<note id="fs-id1984009" class="anatomy interactive">
+<label/>
+<para id="fs-id1979482">Read this <link url="http://openstax.org/l/saltwater">article</link> for an explanation of the effect of seawater on humans. What effect does drinking seawater have on the body?</para></note>
+</section>
+<section id="fs-id1476201">
+<title>Bicarbonate</title>
+<para id="fs-id1968819">Bicarbonate is the second most abundant anion in the blood. Its principal function is to maintain your body’s acid-base balance by being part of buffer systems. This role will be discussed in a different section.</para>
+<para id="fs-id1721298">Bicarbonate ions result from a chemical reaction that starts with carbon dioxide (CO<sub>2</sub>) and water, two molecules that are produced at the end of aerobic metabolism. Only a small amount of CO<sub>2</sub> can be dissolved in body fluids. Thus, over 90 percent of the CO<sub>2</sub> is converted into bicarbonate ions, HCO<sub>3</sub><sup>–</sup>, through the following reactions:</para>
+
+<equation id="eip-287"><m:math display="block">
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext> + H</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>O</m:mtext>
+<m:mrow><m:mo stretchy="false">↔</m:mo></m:mrow>
+<m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mtext>3</m:mtext>
+  </m:msub>
+<m:mrow><m:mo stretchy="false">↔</m:mo></m:mrow>
+<m:msup>
+<m:mrow>
+   <m:mtext>H</m:mtext>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>3</m:mtext>
+   </m:mrow>
+  </m:msub>
+</m:mrow>
+<m:mrow>
+  <m:mo>–</m:mo>
+</m:mrow>
+</m:msup>
+
+
+  <m:msup>
+   <m:mrow>
+    <m:mtext> + H</m:mtext>
+   </m:mrow>
+   <m:mtext>+</m:mtext>
+  </m:msup>
+ </m:mrow>
+</m:math></equation><para id="fs-id1699228">The bidirectional arrows indicate that the reactions can go in either direction, depending on the concentrations of the reactants and products. Carbon dioxide is produced in large amounts in tissues that have a high metabolic rate. Carbon dioxide is converted into bicarbonate in the cytoplasm of red blood cells through the action of an enzyme called carbonic anhydrase. Bicarbonate is transported in the blood. Once in the lungs, the reactions reverse direction, and CO<sub>2</sub> is regenerated from bicarbonate to be exhaled as metabolic waste.</para>
+</section>
+<section id="fs-id1473033">
+<title>Calcium</title>
+<para id="fs-id2003025">About two pounds of calcium in your body are bound up in bone, which provides hardness to the bone and serves as a mineral reserve for calcium and its salts for the rest of the tissues. Teeth also have a high concentration of calcium within them. A little more than one-half of blood calcium is bound to proteins, leaving the rest in its ionized form. Calcium ions, Ca<sup>2+</sup>, are necessary for muscle contraction, enzyme activity, and blood coagulation. In addition, calcium helps to stabilize cell membranes and is essential for the release of neurotransmitters from neurons and of hormones from endocrine glands.</para>
+<para id="fs-id1540967">Calcium is absorbed through the intestines under the influence of activated vitamin D. A deficiency of vitamin D leads to a decrease in absorbed calcium and, eventually, a depletion of calcium stores from the skeletal system, potentially leading to rickets in children and osteomalacia in adults, contributing to osteoporosis.</para>
+<para id="fs-id1891427"><term>Hypocalcemia</term>, or abnormally low calcium blood levels, is seen in hypoparathyroidism, which may follow the removal of the thyroid gland, because the four nodules of the parathyroid gland are embedded in it. <term>Hypercalcemia</term>, or abnormally high calcium blood levels, is seen in primary hyperparathyroidism. Some malignancies may also result in hypercalcemia.</para>
+</section>
+<section id="fs-id1895763">
+<title>Phosphate</title>
+<para id="fs-id1938090">Phosphate is present in the body in three ionic forms: <m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mn>2</m:mn>
+  </m:msub>
+
+  <m:msub>
+
+<m:msub>
+  <m:mrow>
+    <m:mtext>PO</m:mtext>
+  </m:mrow>
+   <m:mrow>
+    <m:mn>4</m:mn>
+ </m:mrow>
+</m:msub>
+
+  </m:msub>
+ </m:mrow>
+</m:math>, <m:math>
+ <m:mrow>
+  <m:msubsup>
+   <m:mrow>
+    <m:mtext>HPO</m:mtext>
+   </m:mrow>
+   <m:mn>4</m:mn>
+   <m:mrow>
+    <m:mn>2</m:mn><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msubsup>
+ </m:mrow>
+</m:math>, and <m:math>
+ <m:mrow>
+  <m:msubsup>
+   <m:mrow>
+    <m:mtext>PO</m:mtext>
+   </m:mrow>
+   <m:mn>4</m:mn>
+   <m:mrow>
+    <m:mn>3</m:mn><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msubsup>
+ </m:mrow>
+</m:math>. The most common form is <m:math>
+ <m:mrow>
+  <m:msubsup>
+   <m:mrow>
+    <m:mtext>HPO</m:mtext>
+   </m:mrow>
+   <m:mn>4</m:mn>
+   <m:mrow>
+    <m:mn>2</m:mn><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msubsup>
+ </m:mrow>
+</m:math>. Bone and teeth bind up 85 percent of the body’s phosphate as part of calcium-phosphate salts. Phosphate is found in phospholipids, such as those that make up the cell membrane, and in ATP, nucleotides, and buffers.</para><para id="fs-id1841509"><term>Hypophosphatemia</term>, or abnormally low phosphate blood levels, occurs with heavy use of antacids, during alcohol withdrawal, and during malnourishment. In the face of phosphate depletion, the kidneys usually conserve phosphate, but during starvation, this conservation is impaired greatly. <term>Hyperphosphatemia</term>, or abnormally increased levels of phosphates in the blood, occurs if there is decreased renal function or in cases of acute lymphocytic leukemia. Additionally, because phosphate is a major constituent of the ICF, any significant destruction of cells can result in dumping of phosphate into the ECF.</para>
+</section>
+</section>
+<section id="fs-id1898239">
+<title>Regulation of Sodium and Potassium</title>
+<para id="fs-id1883272">Sodium is reabsorbed from the renal filtrate, and potassium is excreted into the filtrate in the renal collecting tubule. The control of this exchange is governed principally by two hormones—aldosterone and angiotensin II.</para><section id="fs-id1760759">
+<title>Aldosterone</title>
+<para id="fs-id1896420">Recall that aldosterone increases the excretion of potassium and the reabsorption of sodium in the distal tubule. Aldosterone is released if blood levels of potassium increase, if blood levels of sodium severely decrease, or if blood pressure decreases. Its net effect is to conserve and increase water levels in the plasma by reducing the excretion of sodium, and thus water, from the kidneys. In a negative feedback loop, increased osmolality of the ECF (which follows aldosterone-stimulated sodium absorption) inhibits the release of the hormone (<link target-id="fig-ch27_03_01" document=""/>).</para>
+<figure id="fig-ch27_03_01"><title>The Aldosterone Feedback Loop </title><media id="fs-id1410874" alt="This flow chart shows how potassium and sodium ion concentrations in the blood are regulated by aldosterone. Rising K plus and falling NA plus levels in the blood trigger aldosterone release from the adrenal cortex. Aldosterone targets the kidneys, causing a decrease in K plus release from the kidneys, which reduces the amount of K plus in the blood back to homeostatic levels. Aldosterone also increases sodium reabsorption by the kidneys, which increases the amount of NA plus in the blood back to homeostatic levels.">
+<image mime-type="image/jpeg" src="../../media/2711_Aldosterone_Feedback_Loop-01.jpg" width="250"/>
+</media>
+
+<caption>Aldosterone, which is released by the adrenal gland, facilitates reabsorption of Na<sup>+</sup> and thus the reabsorption of water.</caption></figure></section>
+<section id="fs-id1720583">
+<title>Angiotensin II</title>
+<para id="fs-id1645617">Angiotensin II causes vasoconstriction and an increase in systemic blood pressure. This action increases the glomerular filtration rate, resulting in more material filtered out of the glomerular capillaries and into Bowman’s capsule. Angiotensin II also signals an increase in the release of aldosterone from the adrenal cortex.</para>
+<para id="fs-id1652355">In the distal convoluted tubules and collecting ducts of the kidneys, aldosterone stimulates the synthesis and activation of the sodium-potassium pump (<link target-id="fig-ch27_03_02" document=""/>). Sodium passes from the filtrate, into and through the cells of the tubules and ducts, into the ECF and then into capillaries. Water follows the sodium due to osmosis. Thus, aldosterone causes an increase in blood sodium levels and blood volume. Aldosterone’s effect on potassium is the reverse of that of sodium; under its influence, excess potassium is pumped into the renal filtrate for excretion from the body.</para>
+
+<figure id="fig-ch27_03_02"><title>The Renin-Angiotensin System </title><media id="fs-id1836522" alt="This figure shows the hormone cascade that that increases kidney reabsorption of NA plus and water. In the first step, the kidneys release renin into the blood stream. The blood stream is depicted with a red arrow pointing from left to right. At the same time, the liver releases angiotensinogen into the blood, which combines with the renin, yielding angiotensin one. The blood flow then leads to the lungs. Within the pulmonary blood, angiotensin-converting enzyme (ACE) converts angiotensin one to angiotensin two. The blood then flows to the adrenal cortex, where angiotensin two stimulates the adrenal cortex to secrete aldosterone. Aldosterone causes the kidney tubules to increase reabsorption of NA plus and water into the blood.">
+<image mime-type="image/jpg" src="../../media/2712_Renin_Angiotensin_System-01.jpg" width="550"/>
+</media>
+<caption>Angiotensin II stimulates the release of aldosterone from the adrenal cortex.</caption></figure></section>
+</section>
+<section id="fs-id2024032">
+<title>Regulation of Calcium and Phosphate</title>
+<para id="fs-id1879782">Calcium and phosphate are both regulated through the actions of three hormones: parathyroid hormone (PTH), dihydroxyvitamin D (calcitriol), and calcitonin. All three are released or synthesized in response to the blood levels of calcium.</para><para id="fs-id1886730">PTH is released from the parathyroid gland in response to a decrease in the concentration of blood calcium. The hormone activates osteoclasts to break down bone matrix and release inorganic calcium-phosphate salts. PTH also increases the gastrointestinal absorption of dietary calcium by converting vitamin D into <term>dihydroxyvitamin D</term> (calcitriol), an active form of vitamin D that intestinal epithelial cells require to absorb calcium.</para><para id="fs-id1632421">PTH raises blood calcium levels by inhibiting the loss of calcium through the kidneys. PTH also increases the loss of phosphate through the kidneys.</para><para id="fs-id1471077">Calcitonin is released from the thyroid gland in response to elevated blood levels of calcium. The hormone increases the activity of osteoblasts, which remove calcium from the blood and incorporate calcium into the bony matrix.</para>
+</section>
+<section id="fs-id1896786" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1376302">Electrolytes serve various purposes, such as helping to conduct electrical impulses along cell membranes in neurons and muscles, stabilizing enzyme structures, and releasing hormones from endocrine glands. The ions in plasma also contribute to the osmotic balance that controls the movement of water between cells and their environment. Imbalances of these ions can result in various problems in the body, and their concentrations are tightly regulated. Aldosterone and angiotensin II control the exchange of sodium and potassium between the renal filtrate and the renal collecting tubule. Calcium and phosphate are regulated by PTH, calcitriol, and calcitonin.</para></section>
+<section id="fs-id1637962" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id1493546">
+<problem id="fs-id1399449"><para id="fs-id1639509">Read this <link url="http://openstax.org/l/saltwater">article</link> for an explanation of the effect of seawater on humans. What effect does drinking seawater have on the body?</para></problem>
+<solution id="fs-id1262946">
+<label/>
+<para id="fs-id1850598">Drinking seawater dehydrates the body as the body must pass sodium through the kidneys, and water follows.</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1972545" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1297197">
+<problem id="fs-id1837815"><para id="fs-id1881971">Bone serves as a mineral reserve for which two ions?</para>
+<list id="fs-id1967257" list-type="enumerated" number-style="lower-alpha">
+<item>sodium and potassium</item>
+<item>calcium and phosphate</item>
+<item>chloride and bicarbonate</item>
+<item>calcium and bicarbonate</item>
+</list>
+</problem>
+<solution id="fs-id1765444">
+<label/>
+<para id="fs-id1541112">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1966424"><problem id="fs-id1420550"><para id="fs-id2029744">Electrolytes are lost mostly through ________.</para>
+<list id="fs-id1907525" list-type="enumerated" number-style="lower-alpha">
+<item>renal function</item>
+<item>sweating</item>
+<item>feces</item>
+<item>respiration</item>
+</list>
+</problem>
+<solution id="fs-id1391182">
+<label/>
+<para id="fs-id1385960">A</para>
+</solution>
+</exercise><exercise id="fs-id1765907">
+<problem id="fs-id1636297"><para id="fs-id1720124">The major cation in extracellular fluid is ________.</para>
+<list id="fs-id1926705" list-type="enumerated" number-style="lower-alpha">
+<item>sodium</item>
+<item>potassium</item>
+<item>chloride</item>
+<item>bicarbonate</item>
+</list>
+</problem>
+<solution id="fs-id2030701">
+<label/>
+<para id="fs-id1864868">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1751665">
+<problem id="fs-id1547493"><para id="fs-id1489133">The major cation in intracellular fluid is ________.</para>
+<list id="fs-id1541372" list-type="enumerated" number-style="lower-alpha">
+<item>sodium</item>
+<item>potassium</item>
+<item>chloride</item>
+<item>bicarbonate</item>
+</list>
+</problem>
+<solution id="fs-id1890887">
+<label/>
+<para id="fs-id1433316">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1865704">
+<problem id="fs-id1990173"><para id="fs-id1701125">The major anion in extracellular fluid is ________.</para>
+<list id="fs-id1383650" list-type="enumerated" number-style="lower-alpha">
+<item>sodium</item>
+<item>potassium</item>
+<item>chloride</item>
+<item>bicarbonate</item>
+</list>
+</problem>
+<solution id="fs-id1353218">
+<label/>
+<para id="fs-id1478312">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1368921">
+<problem id="fs-id1417408"><para id="fs-id1175713">Most of the body’s calcium is found in ________.</para>
+<list id="fs-id1886884" list-type="enumerated" number-style="lower-alpha">
+<item>teeth</item>
+<item>bone</item>
+<item>plasma</item>
+<item>extracellular fluids</item>
+</list>
+</problem>
+<solution id="fs-id1640025">
+<label/>
+<para id="fs-id1399844">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id615370">
+<problem id="fs-id1698947"><para id="fs-id1887257">Abnormally increased blood levels of sodium are termed ________.</para>
+<list id="fs-id1290495" list-type="enumerated" number-style="lower-alpha">
+<item>hyperkalemia</item>
+<item>hyperchloremia</item>
+<item>hypernatremia</item>
+<item>hypercalcemia</item>
+</list>
+</problem>
+<solution id="fs-id1291569">
+<label/>
+<para id="fs-id1752351">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1892939">
+<problem id="fs-id1482668"><para id="fs-id1899628">The ion with the lowest blood level is ________.</para>
+<list id="fs-id1605021" list-type="enumerated" number-style="lower-alpha">
+<item>sodium</item>
+<item>potassium</item>
+<item>chloride</item>
+<item>bicarbonate</item>
+</list>
+</problem>
+<solution id="fs-id1399249">
+<label/>
+<para id="fs-id1416491">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1753178">
+<problem id="fs-id1262397"><para id="fs-id1277782">Which two ions are most affected by aldosterone?</para>
+<list id="fs-id1844889" list-type="enumerated" number-style="lower-alpha">
+<item>sodium and potassium</item>
+<item>chloride and bicarbonate</item>
+<item>calcium and phosphate</item>
+<item>sodium and phosphate</item>
+</list>
+</problem>
+<solution id="fs-id1471048">
+<label/>
+<para id="fs-id1882162">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1356576" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1352107">
+<problem id="fs-id1227408"><para id="fs-id1417979">Explain how the CO<sub>2</sub> generated by cells and exhaled in the lungs is carried as bicarbonate in the blood.</para></problem>
+<solution id="fs-id1885968"><label/>
+<para id="fs-id1897159">Very little of the carbon dioxide in the blood is carried dissolved in the plasma. It is transformed into carbonic acid and then into bicarbonate in order to mix in plasma for transportation to the lungs, where it reverts back to its gaseous form.</para></solution>
+</exercise>
+<exercise id="fs-id1297812">
+<problem id="fs-id1978560"><para id="fs-id1361021">How can one have an imbalance in a substance, but not actually have elevated or deficient levels of that substance in the body?</para></problem>
+<solution id="fs-id1574141"><label/>
+<para id="fs-id1382620">Without having an absolute excess or deficiency of a substance, one can have too much or too little of that substance in a given compartment. Such a relative increase or decrease is due to a redistribution of water or the ion in the body’s compartments. This may be due to the loss of water in the blood, leading to a hemoconcentration or dilution of the ion in tissues due to edema.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1321960"><term>dihydroxyvitamin D</term> <meaning id="fs-id1927330">active form of vitamin D required by the intestinal epithelial cells for the absorption of calcium</meaning></definition>
+<definition id="fs-id1984098"><term>hypercalcemia</term> <meaning id="fs-id1836892">abnormally increased blood levels of calcium</meaning></definition>
+<definition id="fs-id1967889"><term>hyperchloremia</term> <meaning id="fs-id1218660">higher-than-normal blood chloride levels</meaning></definition>
+<definition id="fs-id1653449"><term>hyperkalemia</term> <meaning id="fs-id1210517">higher-than-normal blood potassium levels</meaning></definition>
+<definition id="fs-id1235056"><term>hypernatremia</term> <meaning id="fs-id1288547">abnormal increase in blood sodium levels</meaning></definition>
+<definition id="fs-id1489721"><term>hyperphosphatemia</term> <meaning id="fs-id1882749">abnormally increased blood phosphate levels</meaning></definition>
+<definition id="fs-id1248787"><term>hypocalcemia</term> <meaning id="fs-id849321">abnormally low blood levels of calcium</meaning></definition>
+<definition id="fs-id1984426"><term>hypochloremia</term> <meaning id="fs-id809931">lower-than-normal blood chloride levels</meaning></definition>
+<definition id="fs-id1967570"><term>hypokalemia</term> <meaning id="fs-id1391420">abnormally decreased blood levels of potassium</meaning></definition>
+<definition id="fs-id1434558"><term>hyponatremia</term> <meaning id="fs-id1638981">lower-than-normal levels of sodium in the blood</meaning></definition>
+<definition id="fs-id1747754"><term>hypophosphatemia</term> <meaning id="fs-id1751307">abnormally low blood phosphate levels</meaning></definition>
+</glossary>
+</document>

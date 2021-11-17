@@ -1,0 +1,142 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Regulation of Renal Blood Flow </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46435</md:content-id>
+  <md:title>Regulation of Renal Blood Flow </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the myogenic and tubuloglomerular feedback mechanisms and explain how they affect urine volume and composition</item>
+<item>Describe the function of the juxtaglomerular apparatus</item>
+</list></md:abstract>
+  <md:uuid>b8ebb2e5-7a01-46d3-9c16-f258683cd8ed</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2181912">It is vital that the flow of blood through the kidney be at a suitable rate to allow for filtration. This rate determines how much solute is retained or discarded, how much water is retained or discarded, and ultimately, the osmolarity of blood and the blood pressure of the body.</para>
+<section id="fs-id2154206">
+<title>Sympathetic Nerves</title>
+<para id="fs-id2251536">The kidneys are innervated by the sympathetic neurons of the autonomic nervous system via the celiac plexus and splanchnic nerves. Reduction of sympathetic stimulation results in vasodilation and increased blood flow through the kidneys during resting conditions. When the frequency of action potentials increases, the arteriolar smooth muscle constricts (vasoconstriction), resulting in diminished glomerular flow, so less filtration occurs. Under conditions of stress, sympathetic nervous activity increases, resulting in the direct vasoconstriction of afferent arterioles (norepinephrine effect) as well as stimulation of the adrenal medulla. The adrenal medulla, in turn, produces a generalized vasoconstriction through the release of epinephrine. This includes vasoconstriction of the afferent arterioles, further reducing the volume of blood flowing through the kidneys. This process redirects blood to other organs with more immediate needs. If blood pressure falls, the sympathetic nerves will also stimulate the release of renin. Additional renin increases production of the powerful vasoconstrictor angiotensin II. Angiotensin II, as discussed above, will also stimulate aldosterone production to augment blood volume through retention of more Na<sup>+</sup> and water. Only a 10 mm Hg pressure differential across the glomerulus is required for normal GFR, so very small changes in afferent arterial pressure significantly increase or decrease GFR.</para>
+</section>
+<section id="fs-id1977662">
+<title>Autoregulation</title>
+<para id="fs-id2328808">The kidneys are very effective at regulating the rate of blood flow over a wide range of blood pressures. Your blood pressure will decrease when you are relaxed or sleeping. It will increase when exercising. Yet, despite these changes, the filtration rate through the kidney will change very little. This is due to two internal autoregulatory mechanisms that operate without outside influence: the myogenic mechanism and the tubuloglomerular feedback mechanism.</para>
+<section id="fs-id2058682">
+<title>Arteriole Myogenic Mechanism</title>
+<para id="fs-id2470385">The <term>myogenic mechanism</term> regulating blood flow within the kidney depends upon a characteristic shared by most smooth muscle cells of the body. When you stretch a smooth muscle cell, it contracts; when you stop, it relaxes, restoring its resting length. This mechanism works in the afferent arteriole that supplies the glomerulus. When blood pressure increases, smooth muscle cells in the wall of the arteriole are stretched and respond by contracting to resist the pressure, resulting in little change in flow. When blood pressure drops, the same smooth muscle cells relax to lower resistance, allowing a continued even flow of blood.</para>
+</section>
+<section id="fs-id2328542">
+<title>Tubuloglomerular Feedback</title>
+<para id="fs-id2579863">The <term>tubuloglomerular feedback</term> mechanism involves the JGA and a paracrine signaling mechanism utilizing ATP, adenosine, and nitric oxide (NO). This mechanism stimulates either contraction or relaxation of afferent arteriolar smooth muscle cells (<link target-id="tbl-ch26_08" document=""/>). Recall that the DCT is in intimate contact with the afferent and efferent arterioles of the glomerulus. Specialized macula densa cells in this segment of the tubule respond to changes in the fluid flow rate and Na<sup>+</sup> concentration. As GFR increases, there is less time for NaCl to be reabsorbed in the PCT, resulting in higher osmolarity in the filtrate. The increased fluid movement more strongly deflects single nonmotile cilia on macula densa cells. This increased osmolarity of the forming urine, and the greater flow rate within the DCT, activates macula densa cells to respond by releasing ATP and adenosine (a metabolite of ATP). ATP and adenosine act locally as paracrine factors to stimulate the myogenic juxtaglomerular cells of the afferent arteriole to constrict, slowing blood flow and reducing GFR. Conversely, when GFR decreases, less Na<sup>+</sup> is in the forming urine, and most will be reabsorbed before reaching the macula densa, which will result in decreased ATP and adenosine, allowing the afferent arteriole to dilate and increase GFR. NO has the opposite effect, relaxing the afferent arteriole at the same time ATP and adenosine are stimulating it to contract. Thus, NO fine-tunes the effects of adenosine and ATP on GFR.</para>
+<table class="top-titled" id="tbl-ch26_08" summary="">
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4">Paracrine Mechanisms Controlling Glomerular Filtration Rate</entry>
+</row>
+<row>
+<entry align="center">Change in GFR</entry>
+<entry align="center">NaCl Absorption</entry>
+<entry align="center">Role of ATP and adenosine/Role of NO</entry>
+<entry align="center">Effect on GFR</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Increased GFR</entry>
+<entry>Tubular NaCl increases</entry>
+<entry>ATP and adenosine increase, causing vasoconstriction</entry>
+<entry>Vasoconstriction slows GFR</entry>
+</row>
+<row>
+<entry>Decreased GFR</entry>
+<entry>Tubular NaCl decreases</entry>
+<entry>ATP and adenosine decrease, causing vasodilation</entry>
+<entry>Vasodilation increases GFR</entry>
+</row>
+<row>
+<entry>Increased GFR</entry>
+<entry>Tubular NaCl increases</entry>
+<entry>NO increases, causing vasodilation</entry>
+<entry>Vasodilation increases GFR</entry>
+</row>
+<row>
+<entry>Decreased GFR</entry>
+<entry>Tubular NaCl decreases</entry> 
+<entry>NO decreases, causing vasoconstricton</entry>
+<entry>Vasoconstriction decreases GFR</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section>
+</section>
+<section id="fs-id1857274" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1380670">The kidneys are innervated by sympathetic nerves of the autonomic nervous system. Sympathetic nervous activity decreases blood flow to the kidney, making more blood available to other areas of the body during times of stress. The arteriolar myogenic mechanism maintains a steady blood flow by causing arteriolar smooth muscle to contract when blood pressure increases and causing it to relax when blood pressure decreases. Tubuloglomerular feedback involves paracrine signaling at the JGA to cause vasoconstriction or vasodilation to maintain a steady rate of blood flow.</para>
+</section>
+<section id="fs-id2364013" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2528617">
+<problem id="fs-id2368544"><para id="fs-id2634203">Vasodilation of blood vessels to the kidneys is due to ________.</para>
+<list id="fs-id2517268" list-type="enumerated" number-style="lower-alpha">
+<item>more frequent action potentials</item>
+<item>less frequent action potentials</item>
+</list>
+</problem>
+<solution id="fs-id1321499">
+<label/>
+<para id="fs-id2288036">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2340300">
+<problem id="fs-id2131871"><para id="fs-id2515987">When blood pressure increases, blood vessels supplying the kidney will ________ to mount a steady rate of filtration.</para>
+<list id="fs-id2576559" list-type="enumerated" number-style="lower-alpha">
+<item>contract</item>
+<item>relax</item>
+</list>
+</problem>
+<solution id="fs-id1987971">
+<label/>
+<para id="fs-id2115526">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1848165">
+<problem id="fs-id2669343"><para id="fs-id1574261">Which of these three paracrine chemicals cause vasodilation?</para>
+<list id="fs-id1431934" list-type="enumerated" number-style="lower-alpha">
+<item>ATP</item>
+<item>adenosine</item>
+<item>nitric oxide</item>
+</list>
+</problem>
+<solution id="fs-id2484096">
+<label/>
+<para id="fs-id2135151">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2212351" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2349123">
+<problem id="fs-id2413241"><para id="fs-id2016531">Explain what happens to Na<sup>+</sup> concentration in the nephron when GFR increases.</para></problem>
+<solution id="fs-id1482059"><label/>
+<para id="fs-id2853934">Sodium concentration in the filtrate increases when GFR increases; it will decrease when GFR decreases.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1644341">
+<problem id="fs-id2344681"><para id="fs-id1921296">If you want the kidney to excrete more Na<sup>+</sup> in the urine, what do you want the blood flow to do?</para></problem>
+<solution id="fs-id1587193"><label/>
+<para id="fs-id2472434">To excrete more Na<sup>+</sup> in the urine, increase the flow rate.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2057352"><term>myogenic mechanism</term> <meaning id="fs-id2256441">mechanism by which smooth muscle responds to stretch by contracting; an increase in blood pressure causes vasoconstriction and a decrease in blood pressure causes vasodilation so that blood flow downstream remains steady</meaning></definition>
+<definition id="fs-id2622744"><term>tubuloglomerular feedback</term> <meaning id="fs-id2141686">feedback mechanism involving the JGA; macula densa cells monitor Na<sup>+</sup> concentration in the terminal portion of the ascending loop of Henle and act to cause vasoconstriction or vasodilation of afferent and efferent arterioles to alter GFR</meaning></definition>
+</glossary>
+</document>

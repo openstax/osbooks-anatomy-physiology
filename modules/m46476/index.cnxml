@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Skeletal Muscle </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46476</md:content-id>
+  <md:title>Skeletal Muscle </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the layers of connective tissues packaging skeletal muscle</item>
+<item>Explain how muscles work with tendons to move the body</item>
+<item>Identify areas of the skeletal muscle fibers</item>
+<item>Describe excitation-contraction coupling</item>
+</list></md:abstract>
+  <md:uuid>6df8aab3-1741-4016-b5a9-ac51b52fade0</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2019483">The best-known feature of skeletal muscle is its ability to contract and cause movement. Skeletal muscles act not only to produce movement but also to stop movement, such as resisting gravity to maintain posture. Small, constant adjustments of the skeletal muscles are needed to hold a body upright or balanced in any position. Muscles also prevent excess movement of the bones and joints, maintaining skeletal stability and preventing skeletal structure damage or deformation. Joints can become misaligned or dislocated entirely by pulling on the associated bones; muscles work to keep joints stable. Skeletal muscles are located throughout the body at the openings of internal tracts to control the movement of various substances. These muscles allow functions, such as swallowing, urination, and defecation, to be under voluntary control. Skeletal muscles also protect internal organs (particularly abdominal and pelvic organs) by acting as an external barrier or shield to external trauma and by supporting the weight of the organs.</para>
+<para id="fs-id1723952">Skeletal muscles contribute to the maintenance of homeostasis in the body by generating heat. Muscle contraction requires energy, and when ATP is broken down, heat is produced. This heat is very noticeable during exercise, when sustained muscle movement causes body temperature to rise, and in cases of extreme cold, when shivering produces random skeletal muscle contractions to generate heat.</para>
+<para id="fs-id1989759">Each skeletal muscle is an organ that consists of various integrated tissues. These tissues include the skeletal muscle fibers, blood vessels, nerve fibers, and connective tissue. Each skeletal muscle has three layers of connective tissue (called “mysia”) that enclose it and provide structure to the muscle as a whole, and also compartmentalize the muscle fibers within the muscle (<link target-id="fig-ch10_02_01" document=""/>). Each muscle is wrapped in a sheath of dense, irregular connective tissue called the <term>epimysium</term>, which allows a muscle to contract and move powerfully while maintaining its structural integrity. The epimysium also separates muscle from other tissues and organs in the area, allowing the muscle to move independently.</para><figure id="fig-ch10_02_01"><title>The Three Connective Tissue Layers </title><media id="fs-id1203669" alt="This figure shows the structure of muscle fibers. The top panel shows a skeleton muscle fiber, and a magnified view of the muscle fascicles are shown. The middle panel shows a magnified view of the muscle fascicles with the muscle fibers, perimysium and the endomysium. The bottom panel shows the structure of the muscle fiber with the sarcolemma highlighted.">
+<image mime-type="image/jpg" src="../../media/1007_Muscle_Fibes_(large).jpg" width="420"/>
+</media>
+<caption>Bundles of muscle fibers, called fascicles, are covered by the perimysium. Muscle fibers are covered by the endomysium.</caption></figure><para id="fs-id2278076">Inside each skeletal muscle, muscle fibers are organized into individual bundles, each called a <term>fascicle</term>, by a middle layer of connective tissue called the <term>perimysium</term>. This fascicular organization is common in muscles of the limbs; it allows the nervous system to trigger a specific movement of a muscle by activating a subset of muscle fibers within a bundle, or fascicle of the muscle. Inside each fascicle, each muscle fiber is encased in a thin connective tissue layer of collagen and reticular fibers called the <term>endomysium</term>. The endomysium contains the extracellular fluid and nutrients to support the muscle fiber. These nutrients are supplied via blood to the muscle tissue.</para>
+<para id="fs-id2052461">In skeletal muscles that work with tendons to pull on bones, the collagen in the three tissue layers (the mysia) intertwines with the collagen of a tendon. At the other end of the tendon, it fuses with the periosteum coating the bone. The tension created by contraction of the muscle fibers is then transferred though the mysia, to the tendon, and then to the periosteum to pull on the bone for movement of the skeleton. In other places, the mysia may fuse with a broad, tendon-like sheet called an <term>aponeurosis</term>, or to fascia, the connective tissue between skin and bones. The broad sheet of connective tissue in the lower back that the latissimus dorsi muscles (the “lats”) fuse into is an example of an aponeurosis.</para>
+<para id="fs-id1841712">Every skeletal muscle is also richly supplied by blood vessels for nourishment, oxygen delivery, and waste removal. In addition, every muscle fiber in a skeletal muscle is supplied by the axon branch of a somatic motor neuron, which signals the fiber to contract. Unlike cardiac and smooth muscle, the only way to functionally contract a skeletal muscle is through signaling from the nervous system.</para>
+<section id="fs-id1374544">
+<title>Skeletal Muscle Fibers</title>
+<para id="fs-id2122814">Because skeletal muscle cells are long and cylindrical, they are commonly referred to as muscle fibers. Skeletal muscle fibers can be quite large for human cells, with diameters up to 100 <emphasis effect="italics">μ</emphasis>m and lengths up to 30 cm (11.8 in) in the Sartorius of the upper leg. During early development, embryonic myoblasts, each with its own nucleus, fuse with up to hundreds of other myoblasts to form the multinucleated skeletal muscle fibers. Multiple nuclei mean multiple copies of genes, permitting the production of the large amounts of proteins and enzymes needed for muscle contraction.</para><para id="fs-id2125518">Some other terminology associated with muscle fibers is rooted in the Greek <emphasis effect="italics">sarco</emphasis>, which means “flesh.” The plasma membrane of muscle fibers is called the <term>sarcolemma</term>, the cytoplasm is referred to as <term>sarcoplasm</term>, and the specialized smooth endoplasmic reticulum, which stores, releases, and retrieves calcium ions (Ca<sup>++</sup>) is called the <term>sarcoplasmic reticulum (SR)</term> (<link target-id="fig-ch10_02_02" document=""/>). As will soon be described, the functional unit of a skeletal muscle fiber is the sarcomere, a highly organized arrangement of the contractile myofilaments <term>actin</term> (thin filament) and <term>myosin</term> (thick filament), along with other support proteins.</para><figure id="fig-ch10_02_02"><title>Muscle Fiber </title><media id="fs-id1639162" alt="This figure shows the structure of the muscle fibers. In the top panel, a sarcolemma is shown with the major parts labeled. In the bottom panel, a magnified view of a single myofibril is shown and the major parts are labeled.">
+<image mime-type="image/jpg" src="../../media/1022_Muscle_Fibers_(small).jpg" width="420"/>
+</media>
+<caption>A skeletal muscle fiber is surrounded by a plasma membrane called the sarcolemma, which contains sarcoplasm, the cytoplasm of muscle cells. A muscle fiber is composed of many fibrils, which give the cell its striated appearance.</caption></figure></section>
+<section id="fs-id1040329">
+<title>The Sarcomere</title>
+<para id="fs-id2141504">The striated appearance of skeletal muscle fibers is due to the arrangement of the myofilaments of actin and myosin in sequential order from one end of the muscle fiber to the other. Each packet of these microfilaments and their regulatory proteins, <term>troponin</term> and <term>tropomyosin</term> (along with other proteins) is called a <term>sarcomere</term>.</para>
+<note id="fs-id2080223" class="anatomy interactive">
+<label/>
+<para id="fs-id2155405">Watch this <link url="http://openstax.org/l/micromacro">video</link> to learn more about macro- and microstructures of skeletal muscles. (a) What are the names of the “junction points” between sarcomeres? (b) What are the names of the “subunits” within the myofibrils that run the length of skeletal muscle fibers? (c) What is the “double strand of pearls” described in the video? (d) What gives a skeletal muscle fiber its striated appearance?</para></note>
+<para id="fs-id2044502">The sarcomere is the functional unit of the muscle fiber. The sarcomere itself is bundled within the myofibril that runs the entire length of the muscle fiber and attaches to the sarcolemma at its end. As myofibrils contract, the entire muscle cell contracts. Because myofibrils are only approximately 1.2 <emphasis effect="italics">μ</emphasis>m in diameter, hundreds to thousands (each with thousands of sarcomeres) can be found inside one muscle fiber. Each sarcomere is approximately 2 <emphasis effect="italics">μ</emphasis>m in length with a three-dimensional cylinder-like arrangement and is bordered by structures called Z-discs (also called Z-lines, because pictures are two-dimensional), to which the actin myofilaments are anchored (<link target-id="fig-ch10_02_03" document=""/>). Because the actin and its troponin-tropomyosin complex (projecting from the Z-discs toward the center of the sarcomere) form strands that are thinner than the myosin, it is called the <term>thin filament</term> of the sarcomere. Likewise, because the myosin strands and their multiple heads (projecting from the center of the sarcomere, toward but not all to way to, the Z-discs) have more mass and are thicker, they are called the <term>thick filament</term> of the sarcomere.</para><figure id="fig-ch10_02_03"><title>The Sarcomere </title><media id="fs-id1424636" alt="This figure shows the structure of thick and thin filaments. On the top of the image a sarcomere is shown with the H zone, Z line and M lines labeled. To the right of the bottom panel, the structure of the thick filament is shown in detail. To the left of the bottom panel, the structure of a thin filament is shown in detail.">
+<image mime-type="image/jpg" src="../../media/1003_Thick_and_Thin_Filaments.jpg" width="390"/>
+</media>
+<caption>The sarcomere, the region from one Z-line to the next Z-line, is the functional unit of a skeletal muscle fiber.</caption></figure></section>
+<section id="fs-id1990056">
+<title>The Neuromuscular Junction</title>
+<para id="fs-id1854958">Another specialization of the skeletal muscle is the site where a motor neuron’s terminal meets the muscle fiber—called the <term>neuromuscular junction (NMJ)</term>. This is where the muscle fiber first responds to signaling by the motor neuron. Every skeletal muscle fiber in every skeletal muscle is innervated by a motor neuron at the NMJ. Excitation signals from the neuron are the only way to functionally activate the fiber to contract.</para>
+<note id="fs-id2017671" class="anatomy interactive">
+<label/>
+<para id="fs-id1899987">Every skeletal muscle fiber is supplied by a motor neuron at the NMJ. Watch this <link url="http://openstax.org/l/skelmuscfiber">video</link> to learn more about what happens at the NMJ. (a) What is the definition of a motor unit? (b) What is the structural and functional difference between a large motor unit and a small motor unit? (c) Can you give an example of each? (d) Why is the neurotransmitter acetylcholine degraded after binding to its receptor?</para>
+</note>
+</section>
+<section id="fs-id1909043">
+<title>Excitation-Contraction Coupling</title>
+<para id="fs-id2252260">All living cells have membrane potentials, or electrical gradients across their membranes. The inside of the membrane is usually around -60 to -90 mV, relative to the outside.  This is referred to as a cell’s membrane potential. Neurons and muscle cells can use their membrane potentials to generate electrical signals. They do this by controlling the movement of charged particles, called ions, across their membranes to create electrical currents. This is achieved by opening and closing specialized proteins in the membrane called ion channels. Although the currents generated by ions moving through these channel proteins are very small, they form the basis of both neural signaling and muscle contraction.</para><para id="fs-id1421868">Both neurons and skeletal muscle cells are electrically excitable, meaning that they are able to generate action potentials. An action potential is a special type of electrical signal that can travel along a cell membrane as a wave. This allows a signal to be transmitted quickly and faithfully over long distances.</para><para id="eip-362">Although the term <term>excitation-contraction coupling</term> confuses or scares some students, it comes down to this: for a skeletal muscle fiber to contract, its membrane must first be “excited”—in other words, it must be stimulated to fire an action potential. The muscle fiber action potential, which sweeps along the sarcolemma as a wave, is “coupled” to the actual contraction through the release of calcium ions (Ca<sup>++</sup>) from the SR. Once released, the Ca<sup>++</sup> interacts with the shielding proteins, forcing them to move aside so that the actin-binding sites are available for attachment by myosin heads. The myosin then pulls the actin filaments toward the center, shortening the muscle fiber.</para><para id="eip-12">In skeletal muscle, this sequence begins with signals from the somatic motor division of the nervous system. In other words, the “excitation” step in skeletal muscles is always triggered by signaling from the nervous system (<link target-id="fig-ch10_02_04" document=""/>).</para><figure id="fig-ch10_02_04"><title>Motor End-Plate and Innervation </title><media id="fs-id1236880" alt=" Alt text to come.">
+<image mime-type="image/jpg" src="../../media/1009_Motor_End_Plate_and_Innervation.jpg" width="380"/>
+</media>
+<caption>At the NMJ, the axon terminal releases ACh. The motor end-plate is the location of the ACh-receptors in the muscle fiber sarcolemma. When ACh molecules are released, they diffuse across a minute space called the synaptic cleft and bind to the receptors.</caption></figure><para id="fs-id2019473">The motor neurons that tell the skeletal muscle fibers to contract originate in the spinal cord, with a smaller number located in the brainstem for activation of skeletal muscles of the face, head, and neck. These neurons have long processes, called axons, which are specialized to transmit action potentials long distances— in this case, all the way from the spinal cord to the muscle itself (which may be up to three feet away). The axons of multiple neurons bundle together to form nerves, like wires bundled together in a cable.</para><para id="fs-id2023666">Signaling begins when a neuronal <term>action potential</term> travels along the axon of a motor neuron, and then along the individual branches to terminate at the NMJ. At the NMJ, the axon terminal releases a chemical messenger, or <term>neurotransmitter</term>, called <term>acetylcholine (ACh)</term>. The ACh molecules diffuse across a minute space called the <term>synaptic cleft</term> and bind to ACh receptors located within the <term>motor end-plate</term> of the sarcolemma on the other side of the synapse. Once ACh binds, a channel in the ACh receptor opens and positively charged ions can pass through into the muscle fiber, causing it to <term>depolarize</term>, meaning that the membrane potential of the muscle fiber becomes less negative (closer to zero.)</para><para id="eip-536">As the membrane depolarizes, another set of ion channels called <term>voltage-gated sodium channels</term> are triggered to open. Sodium ions enter the muscle fiber, and an action potential rapidly spreads (or “fires”) along the entire membrane to initiate excitation-contraction coupling.</para><para id="fs-id1374666">Things happen very quickly in the world of excitable membranes (just think about how quickly you can snap your fingers as soon as you decide to do it). Immediately following depolarization of the membrane, it repolarizes, re-establishing the negative membrane potential. Meanwhile, the ACh in the synaptic cleft is degraded by the enzyme acetylcholinesterase (AChE) so that the ACh cannot rebind to a receptor and reopen its channel, which would cause unwanted extended muscle excitation and contraction.</para><para id="fs-id1698692">Propagation of an action potential along the sarcolemma is the excitation portion of excitation-contraction coupling. Recall that this excitation actually triggers the release of calcium ions (Ca<sup>++</sup>) from its storage in the cell’s SR. For the action potential to reach the membrane of the SR, there are periodic invaginations in the sarcolemma, called <term>T-tubules</term> (“T” stands for “transverse”). You will recall that the diameter of a muscle fiber can be up to 100 <emphasis effect="italics">μ</emphasis>m, so these T-tubules ensure that the membrane can get close to the SR in the sarcoplasm. The arrangement of a T-tubule with the membranes of SR on either side is called a <term>triad</term> (<link target-id="fig-ch10_02_05" document=""/>). The triad surrounds the cylindrical structure called a <term>myofibril</term>, which contains actin and myosin.</para><figure id="fig-ch10_02_05"><title>The T-tubule </title><media id="fs-id1916516" alt=" Alt text to come.">
+<image mime-type="image/jpg" src="../../media/1023_T-tubule.jpg" width="350"/>
+</media>
+<caption>Narrow T-tubules permit the conduction of electrical impulses. The SR functions to regulate intracellular levels of calcium. Two terminal cisternae (where enlarged SR connects to the T-tubule) and one T-tubule comprise a triad—a “threesome” of membranes, with those of SR on two sides and the T-tubule sandwiched between them.</caption></figure><para id="fs-id1361245">The T-tubules carry the action potential into the interior of the cell, which triggers the opening of calcium channels in the membrane of the adjacent SR, causing Ca<sup>++</sup> to diffuse out of the SR and into the sarcoplasm. It is the arrival of Ca<sup>++</sup> in the sarcoplasm that initiates contraction of the muscle fiber by its contractile units, or sarcomeres.</para>
+</section>
+<section id="fs-id1976291" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2019720">Skeletal muscles contain connective tissue, blood vessels, and nerves. There are three layers of connective tissue: epimysium, perimysium, and endomysium. Skeletal muscle fibers are organized into groups called fascicles. Blood vessels and nerves enter the connective tissue and branch in the cell. Muscles attach to bones directly or through tendons or aponeuroses. Skeletal muscles maintain posture, stabilize bones and joints, control internal movement, and generate heat.</para>
+<para id="fs-id1485386">Skeletal muscle fibers are long, multinucleated cells. The membrane of the cell is the sarcolemma; the cytoplasm of the cell is the sarcoplasm. The sarcoplasmic reticulum (SR) is a form of endoplasmic reticulum. Muscle fibers are composed of myofibrils. The striations are created by the organization of actin and myosin resulting in the banding pattern of myofibrils.</para>
+</section>
+<section id="fs-id1421675" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id1185712">
+<problem id="fs-id1910480"><para id="fs-id1761464">Watch this <link url="http://openstax.org/l/micromacro">video</link> to learn more about macro- and microstructures of skeletal muscles. (a) What are the names of the “junction points” between sarcomeres? (b) What are the names of the “subunits” within the myofibrils that run the length of skeletal muscle fibers? (c) What is the “double strand of pearls” described in the video? (d) What gives a skeletal muscle fiber its striated appearance?</para></problem>
+<solution id="fs-id1886688">
+<label/>
+<para id="fs-id2305509">(a) Z-lines. (b) Sarcomeres. (c) This is the arrangement of the actin and myosin filaments in a sarcomere. (d) The alternating strands of actin and myosin filaments.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1724224">
+<problem id="fs-id2131107"><para id="fs-id2018304">Every skeletal muscle fiber is supplied by a motor neuron at the NMJ. Watch this <link url="http://openstax.org/l/skelmuscfiber">video</link> to learn more about what happens at the neuromuscular junction. (a) What is the definition of a motor unit? (b) What is the structural and functional difference between a large motor unit and a small motor unit? Can you give an example of each? (c) Why is the neurotransmitter acetylcholine degraded after binding to its receptor?</para></problem>
+<solution id="fs-id1354869">
+<label/>
+<para id="fs-id1699664">(a) It is the number of skeletal muscle fibers supplied by a single motor neuron. (b) A large motor unit has one neuron supplying many skeletal muscle fibers for gross movements, like the Temporalis muscle, where 1000 fibers are supplied by one neuron. A small motor has one neuron supplying few skeletal muscle fibers for very fine movements, like the extraocular eye muscles, where six fibers are supplied by one neuron. (c) To avoid prolongation of muscle contraction.</para></solution></exercise></section>
+<section id="fs-id1405016" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1390996">
+<problem id="fs-id1278275"><para id="fs-id1216217">The correct order for the smallest to the largest unit of organization in muscle tissue is ________.</para>
+<list id="fs-id1354803" list-type="enumerated" number-style="lower-alpha">
+<item>fascicle, filament, muscle fiber, myofibril</item>
+<item>filament, myofibril, muscle fiber, fascicle</item>
+<item>muscle fiber, fascicle, filament, myofibril</item>
+<item>myofibril, muscle fiber, filament, fascicle</item>
+</list>
+</problem>
+<solution id="fs-id1353886">
+<label/>
+<para id="fs-id1322719">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1255244">
+<problem id="fs-id1707253"><para id="fs-id1383243">Depolarization of the sarcolemma means ________.</para>
+<list id="fs-id1405502" list-type="enumerated" number-style="lower-alpha">
+<item>the inside of the membrane has become less negative as sodium ions accumulate</item>
+<item>the outside of the membrane has become less negative as sodium ions accumulate</item>
+<item>the inside of the membrane has become more negative as sodium ions accumulate</item>
+<item>the sarcolemma has completely lost any electrical charge</item>
+</list>
+</problem>
+<solution id="fs-id2350570">
+<label/>
+<para id="fs-id2095935">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1352482" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1725306">
+<problem id="fs-id1255523"><para id="fs-id1373733">What would happen to skeletal muscle if the epimysium were destroyed?</para></problem>
+<solution id="fs-id1705936"><label/>
+<para id="fs-id1918216">Muscles would lose their integrity during powerful movements, resulting in muscle damage.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1339892">
+<problem id="fs-id1938116"><para id="fs-id1978107">Describe how tendons facilitate body movement.</para></problem>
+<solution id="fs-id1898243"><label/>
+<para id="fs-id2170541">When a muscle contracts, the force of movement is transmitted through the tendon, which pulls on the bone to produce skeletal movement.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1953951">
+<problem id="fs-id1373466"><para id="fs-id1881662">What are the five primary functions of skeletal muscle?</para></problem>
+<solution id="fs-id1321085"><label/>
+<para id="fs-id1374360">Produce movement of the skeleton, maintain posture and body position, support soft tissues, encircle openings of the digestive, urinary, and other tracts, and maintain body temperature.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1725236">
+<problem id="fs-id1190784"><para id="fs-id2175947">What are the opposite roles of voltage-gated sodium channels and voltage-gated potassium channels?</para></problem>
+<solution id="fs-id1200448"><label/>
+<para id="fs-id1477115">The opening of voltage-gated sodium channels, followed by the influx of Na<sup>+</sup>, transmits an Action Potential after the membrane has sufficiently depolarized. The delayed opening of potassium channels allows K<sup>+</sup> to exit the cell, to repolarize the membrane.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2307234"><term>acetylcholine (ACh)</term> <meaning id="fs-id1320959">neurotransmitter that binds at a motor end-plate to trigger depolarization</meaning></definition>
+<definition id="fs-id1212229"><term>actin</term> <meaning id="fs-id1383368">protein that makes up most of the thin myofilaments in a sarcomere muscle fiber</meaning></definition>
+<definition id="fs-id810144"><term>action potential</term> <meaning id="fs-id1278927">change in voltage of a cell membrane in response to a stimulus that results in transmission of an electrical signal; unique to neurons and muscle fibers</meaning></definition>
+<definition id="fs-id1342417"><term>aponeurosis</term> <meaning id="fs-id2002211">broad, tendon-like sheet of connective tissue that attaches a skeletal muscle to another skeletal muscle or to a bone</meaning></definition>
+<definition id="fs-id1225291"><term>depolarize</term> <meaning id="fs-id2167072">to reduce the voltage difference between the inside and outside of a cell’s plasma membrane (the sarcolemma for a muscle fiber), making the inside less negative than at rest</meaning></definition>
+<definition id="fs-id2241332"><term>endomysium</term> <meaning id="fs-id1489494">loose, and well-hydrated connective tissue covering each muscle fiber in a skeletal muscle</meaning></definition>
+<definition id="fs-id2017330"><term>epimysium</term> <meaning id="fs-id1375150">outer layer of connective tissue around a skeletal muscle</meaning></definition>
+<definition id="fs-id2170215"><term>excitation-contraction coupling</term> <meaning id="fs-id1384346">sequence of events from motor neuron signaling to a skeletal muscle fiber to contraction of the fiber’s sarcomeres</meaning></definition>
+<definition id="fs-id1881019"><term>fascicle</term> <meaning id="fs-id1224391">bundle of muscle fibers within a skeletal muscle</meaning></definition>
+<definition id="fs-id1866214"><term>motor end-plate</term> <meaning id="fs-id2103872">sarcolemma of muscle fiber at the neuromuscular junction, with receptors for the neurotransmitter acetylcholine</meaning></definition>
+<definition id="fs-id2129915"><term>myofibril</term> <meaning id="fs-id1191728">long, cylindrical organelle that runs parallel within the muscle fiber and contains the sarcomeres</meaning></definition>
+<definition id="fs-id1764678"><term>myosin</term> <meaning id="fs-id1938130">protein that makes up most of the thick cylindrical myofilament within a sarcomere muscle fiber</meaning></definition>
+<definition id="fs-id2094893"><term>neuromuscular junction (NMJ)</term> <meaning id="fs-id2020800"> synapse between the axon terminal of a motor neuron and the section of the membrane of a muscle fiber with receptors for the acetylcholine released by the terminal</meaning></definition>
+<definition id="fs-id1311342"><term>neurotransmitter</term> <meaning id="fs-id1401051">signaling chemical released by nerve terminals that bind to and activate receptors on target cells</meaning></definition>
+<definition id="fs-id957575"><term>perimysium</term> <meaning id="fs-id1493489">connective tissue that bundles skeletal muscle fibers into fascicles within a skeletal muscle</meaning></definition>
+<definition id="fs-id1195292"><term>sarcomere</term> <meaning id="fs-id1479074">longitudinally, repeating functional unit of skeletal muscle, with all of the contractile and associated proteins involved in contraction</meaning></definition>
+<definition id="fs-id1841788"><term>sarcolemma</term> <meaning id="fs-id1358733">plasma membrane of a skeletal muscle fiber</meaning></definition>
+<definition id="fs-id1521188"><term>sarcoplasm</term> <meaning id="fs-id1961441">cytoplasm of a muscle cell</meaning></definition>
+<definition id="fs-id873769"><term>sarcoplasmic reticulum (SR)</term> <meaning id="fs-id1966765">specialized smooth endoplasmic reticulum, which stores, releases, and retrieves Ca<sup>++</sup></meaning></definition>
+<definition id="fs-id1401616"><term>synaptic cleft</term> <meaning id="fs-id810819">space between a nerve (axon) terminal and a motor end-plate</meaning></definition>
+<definition id="fs-id1352023"><term>T-tubule</term> <meaning id="fs-id2321989">projection of the sarcolemma into the interior of the cell</meaning></definition>
+<definition id="fs-id1226008"><term>thick filament</term> <meaning id="fs-id2096638">the thick myosin strands and their multiple heads projecting from the center of the sarcomere toward, but not all to way to, the Z-discs</meaning></definition>
+<definition id="fs-id1844717"><term>thin filament</term> <meaning id="fs-id1240221">thin strands of actin and its troponin-tropomyosin complex projecting from the Z-discs toward the center of the sarcomere</meaning></definition>
+<definition id="fs-id1472727"><term>triad</term> <meaning id="fs-id2251154">the grouping of one T-tubule and two terminal cisternae</meaning></definition>
+<definition id="fs-id1254931"><term>troponin</term> <meaning id="fs-id1369851">regulatory protein that binds to actin, tropomyosin, and calcium</meaning></definition>
+<definition id="fs-id1218203"><term>tropomyosin</term> <meaning id="fs-id1247126">regulatory protein that covers myosin-binding sites to prevent actin from binding to myosin</meaning></definition>
+<definition id="fs-id1927774"><term>voltage-gated sodium channels</term> <meaning id="fs-id1399695">membrane proteins that open sodium channels in response to a sufficient voltage change, and initiate and transmit the action potential as Na<sup>+</sup> enters through the channel</meaning></definition>
+</glossary>
+</document>

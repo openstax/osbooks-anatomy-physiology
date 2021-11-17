@@ -1,0 +1,178 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Lipid Metabolism </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46462</md:content-id>
+  <md:title>Lipid Metabolism </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain how energy can be derived from fat</item>
+<item>Explain the purpose and process of ketogenesis</item>
+<item>Describe the process of ketone body oxidation</item>
+<item>Explain the purpose and the process of lipogenesis</item>
+</list></md:abstract>
+  <md:uuid>5e51a5ed-f4ba-45a4-88b7-ab8ec502d5a1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1507366">Fats (or triglycerides) within the body are ingested as food or synthesized by adipocytes or hepatocytes from carbohydrate precursors (<link target-id="fig-ch25_03_01" document=""/>). Lipid metabolism entails the oxidation of fatty acids to either generate energy or synthesize new lipids from smaller constituent molecules. Lipid metabolism is associated with carbohydrate metabolism, as products of glucose (such as acetyl CoA) can be converted into lipids.</para>
+<figure id="fig-ch25_03_01"><title>Triglyceride Broken Down into a Monoglyceride </title><media id="fs-id1863711" alt="The top image shows the chemical formula for a triglyceride, and the bottom panel shows the formula for a monoglyceride.">
+<image mime-type="image/jpg" src="../../media/2511_A_Triglyceride_Molecule_(a)_Is_Broken_Down_Into_Monoglycerides_(b).jpg" width="450"/>
+</media>
+<caption>A triglyceride molecule (a) breaks down into a monoglyceride (b).</caption></figure><para id="fs-id2706435">Lipid metabolism begins in the intestine where ingested <term>triglycerides</term> are broken down into smaller chain fatty acids and subsequently into <term>monoglyceride molecules</term> (see <link target-id="fig-ch25_03_01" document=""/><emphasis effect="bold">b</emphasis>) by <term>pancreatic lipases</term>, enzymes that break down fats after they are emulsified by <term>bile salts</term>. When food reaches the small intestine in the form of chyme, a digestive hormone called <term>cholecystokinin (CCK)</term> is released by intestinal cells in the intestinal mucosa. CCK stimulates the release of pancreatic lipase from the pancreas and stimulates the contraction of the gallbladder to release stored bile salts into the intestine. CCK also travels to the brain, where it can act as a hunger suppressant.</para>
+<para id="fs-id1495971">Together, the pancreatic lipases and bile salts break down triglycerides into free fatty acids. These fatty acids can be transported across the intestinal membrane. However, once they cross the membrane, they are recombined to again form triglyceride molecules. Within the intestinal cells, these triglycerides are packaged along with cholesterol molecules in phospholipid vesicles called <term>chylomicrons</term> (<link target-id="fig-ch25_03_02" document=""/>). The chylomicrons enable fats and cholesterol to move within the aqueous environment of your lymphatic and circulatory systems. Chylomicrons leave the enterocytes by exocytosis and enter the lymphatic system via lacteals in the villi of the intestine. From the lymphatic system, the chylomicrons are transported to the circulatory system. Once in the circulation, they can either go to the liver or be stored in fat cells (adipocytes) that comprise adipose (fat) tissue found throughout the body.</para>
+<figure id="fig-ch25_03_02"><title>Chylomicrons </title><media id="fs-id1845052" alt="This figure shows a chylomicron containing triglycerides and cholesterol molecules as well as other lipids.">
+<image mime-type="image/jpg" src="../../media/2512_Chylomicrons_Contain_Triglycerides_Cholesterol_Molecules_and_Other_Lipids.jpg" width="380"/>
+</media>
+<caption>Chylomicrons contain triglycerides, cholesterol molecules, and other apolipoproteins (protein molecules). They function to carry these water-insoluble molecules from the intestine, through the lymphatic system, and into the bloodstream, which carries the lipids to adipose tissue for storage.</caption></figure><section id="fs-id2181973">
+<title>Lipolysis</title>
+<para id="fs-id2553561">To obtain energy from fat, triglycerides must first be broken down by hydrolysis into their two principal components, fatty acids and glycerol. This process, called <term>lipolysis</term>, takes place in the cytoplasm. The resulting fatty acids are oxidized by β-oxidation into acetyl CoA, which is used by the Krebs cycle. The glycerol that is released from triglycerides after lipolysis directly enters the glycolysis pathway as DHAP. Because one triglyceride molecule yields three fatty acid molecules with as much as 16 or more carbons in each one, fat molecules yield more energy than carbohydrates and are an important source of energy for the human body. Triglycerides yield more than twice the energy per unit mass when compared to carbohydrates and proteins. Therefore, when glucose levels are low, triglycerides can be converted into acetyl CoA molecules and used to generate ATP through aerobic respiration.</para>
+<para id="fs-id1530462">The breakdown of fatty acids, called <term>fatty acid oxidation</term> or <term>beta (β)-oxidation</term>, begins in the cytoplasm, where fatty acids are converted into fatty acyl CoA molecules. This fatty acyl CoA combines with carnitine to create a fatty acyl carnitine molecule, which helps to transport the fatty acid across the mitochondrial membrane. Once inside the mitochondrial matrix, the fatty acyl carnitine molecule is converted back into fatty acyl CoA and then into acetyl CoA (<link target-id="fig-ch25_03_03" document=""/>). The newly formed acetyl CoA enters the Krebs cycle and is used to produce ATP in the same way as acetyl CoA derived from pyruvate.</para><figure id="fig-ch25_03_03"><title>Breakdown of Fatty Acids </title><media id="fs-id2474769" alt="This figure shows the reactions that break down fatty acids. The top panel shows the conversion of fatty acids into carnitine. The bottom panel shows the conversion of carnitine into acetyl-CoA.">
+<image mime-type="image/jpg" src="../../media/2513_The_Breakdown_of_Fatty_Acids.jpg" width="500"/>
+</media>
+<caption>During fatty acid oxidation, triglycerides can be broken down into acetyl CoA molecules and used for energy when glucose levels are low.</caption></figure></section>
+<section id="fs-id2487615">
+<title>Ketogenesis</title>
+<para id="fs-id2124252">If excessive acetyl CoA is created from the oxidation of fatty acids and the Krebs cycle is overloaded and cannot handle it, the acetyl CoA is diverted to create <term>ketone bodies</term>. These ketone bodies can serve as a fuel source if glucose levels are too low in the body. Ketones serve as fuel in times of prolonged starvation or when patients suffer from uncontrolled diabetes and cannot utilize most of the circulating glucose. In both cases, fat stores are liberated to generate energy through the Krebs cycle and will generate ketone bodies when too much acetyl CoA accumulates.</para>
+<para id="fs-id1539903">In this ketone synthesis reaction, excess acetyl CoA is converted into <term>hydroxymethylglutaryl CoA (HMG CoA)</term>. HMG CoA is a precursor of cholesterol and is an intermediate that is subsequently converted into β-hydroxybutyrate, the primary ketone body in the blood (<link target-id="fig-ch25_03_04" document=""/>).</para><figure id="fig-ch25_03_04"><title>Ketogenesis </title><media id="fs-id1396026" alt="This pathway shows the production of beta-hydroxybutyrate from acetyl-CoA.">
+<image mime-type="image/jpg" src="../../media/2514_Ketogenesis.jpg" width="580"/>
+</media>
+<caption>Excess acetyl CoA is diverted from the Krebs cycle to the ketogenesis pathway. This reaction occurs in the mitochondria of liver cells. The result is the production of β-hydroxybutyrate, the primary ketone body found in the blood.</caption></figure></section>
+<section id="fs-id1815892">
+<title>Ketone Body Oxidation</title>
+<para id="fs-id2459241">Organs that have classically been thought to be dependent solely on glucose, such as the brain, can actually use ketones as an alternative energy source. This keeps the brain functioning when glucose is limited. When ketones are produced faster than they can be used, they can be broken down into CO<sub>2</sub> and acetone. The acetone is removed by exhalation. One symptom of ketogenesis is that the patient’s breath smells sweet like alcohol. This effect provides one way of telling if a diabetic is properly controlling the disease. The carbon dioxide produced can acidify the blood, leading to diabetic ketoacidosis, a dangerous condition in diabetics.</para>
+<para id="fs-id2383123">Ketones oxidize to produce energy for the brain. <term>beta (β)-hydroxybutyrate</term> is oxidized to acetoacetate and NADH is released. An HS-CoA molecule is added to acetoacetate, forming acetoacetyl CoA. The carbon within the acetoacetyl CoA that is not bonded to the CoA then detaches, splitting the molecule in two. This carbon then attaches to another free HS-CoA, resulting in two acetyl CoA molecules. These two acetyl CoA molecules are then processed through the Krebs cycle to generate energy (<link target-id="fig-ch25_03_05" document=""/>).</para><figure id="fig-ch25_03_05"><title>Ketone Oxidation </title><media id="fs-id2925057" alt="This figure shows the reactions in which ketone is oxidized to acetyl-CoA.">
+<image mime-type="image/jpg" src="../../media/2515_Ketone_Oxidation.jpg" width="520"/>
+</media>
+<caption>When glucose is limited, ketone bodies can be oxidized to produce acetyl CoA to be used in the Krebs cycle to generate energy.</caption></figure></section>
+<section id="fs-id1729674">
+<title>Lipogenesis</title>
+<para id="fs-id1352492">When glucose levels are plentiful, the excess acetyl CoA generated by glycolysis can be converted into fatty acids, triglycerides, cholesterol, steroids, and bile salts. This process, called <term>lipogenesis</term>, creates lipids (fat) from the acetyl CoA and takes place in the cytoplasm of adipocytes (fat cells) and hepatocytes (liver cells). When you eat more glucose or carbohydrates than your body needs, your system uses acetyl CoA to turn the excess into fat. Although there are several metabolic sources of acetyl CoA, it is most commonly derived from glycolysis. Acetyl CoA availability is significant, because it initiates lipogenesis. Lipogenesis begins with acetyl CoA and advances by the subsequent addition of two carbon atoms from another acetyl CoA; this process is repeated until fatty acids are the appropriate length. Because this is a bond-creating anabolic process, ATP is consumed. However, the creation of triglycerides and lipids is an efficient way of storing the energy available in carbohydrates. Triglycerides and lipids, high-energy molecules, are stored in adipose tissue until they are needed.</para>
+<para id="fs-id1530964">Although lipogenesis occurs in the cytoplasm, the necessary acetyl CoA is created in the mitochondria and cannot be transported across the mitochondrial membrane. To solve this problem, pyruvate is converted into both oxaloacetate and acetyl CoA. Two different enzymes are required for these conversions. Oxaloacetate forms via the action of pyruvate carboxylase, whereas the action of pyruvate dehydrogenase creates acetyl CoA. Oxaloacetate and acetyl CoA combine to form citrate, which can cross the mitochondrial membrane and enter the cytoplasm. In the cytoplasm, citrate is converted back into oxaloacetate and acetyl CoA. Oxaloacetate is converted into malate and then into pyruvate. Pyruvate crosses back across the mitochondrial membrane to wait for the next cycle of lipogenesis. The acetyl CoA is converted into malonyl CoA that is used to synthesize fatty acids. <link target-id="fig-ch25_03_06" document=""/> summarizes the pathways of lipid metabolism.</para>
+<figure id="fig-ch25_03_06"><title>Lipid Metabolism </title><media id="fs-id2892830" alt="This figure shows the different reactions that take place for lipid metabolism.">
+<image mime-type="image/jpg" src="../../media/2516_Lipid_Metabolism.jpg" width="550"/>
+</media>
+<caption>Lipids may follow one of several pathways during metabolism. Glycerol and fatty acids follow different pathways.</caption></figure></section>
+<section id="fs-id2179452" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id3048997">Lipids are available to the body from three sources. They can be ingested in the diet, stored in the adipose tissue of the body, or synthesized in the liver. Fats ingested in the diet are digested in the small intestine. The triglycerides are broken down into monoglycerides and free fatty acids, then imported across the intestinal mucosa. Once across, the triglycerides are resynthesized and transported to the liver or adipose tissue. Fatty acids are oxidized through fatty acid or β-oxidation into two-carbon acetyl CoA molecules, which can then enter the Krebs cycle to generate ATP. If excess acetyl CoA is created and overloads the capacity of the Krebs cycle, the acetyl CoA can be used to synthesize ketone bodies. When glucose is limited, ketone bodies can be oxidized and used for fuel. Excess acetyl CoA generated from excess glucose or carbohydrate ingestion can be used for fatty acid synthesis or lipogenesis. Acetyl CoA is used to create lipids, triglycerides, steroid hormones, cholesterol, and bile salts. Lipolysis is the breakdown of triglycerides into glycerol and fatty acids, making them easier for the body to process.</para>
+</section>
+<section id="fs-id1988973" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1548558">
+<problem id="fs-id2194386"><para id="fs-id2364998">Lipids in the diet can be ________.</para>
+<list id="fs-id2151308" list-type="enumerated" number-style="lower-alpha">
+<item>broken down into energy for the body</item>
+<item>stored as triglycerides for later use</item>
+<item>converted into acetyl CoA</item>
+<item>all of the above</item>
+</list>
+</problem>
+<solution id="fs-id1747827">
+<label/>
+<para id="fs-id2180372">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id918427">
+<problem id="fs-id2624937"><para id="fs-id1278163">The gallbladder provides ________ that aid(s) in transport of lipids across the intestinal membrane.</para>
+<list id="fs-id1351052" list-type="enumerated" number-style="lower-alpha">
+<item>lipases</item>
+<item>cholesterol</item>
+<item>proteins</item>
+<item>bile salts</item>
+</list>
+</problem>
+<solution id="fs-id1369790">
+<label/>
+<para id="fs-id2698263">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1468981">
+<problem id="fs-id2058880"><para id="fs-id1608945">Triglycerides are transported by chylomicrons because ________.</para>
+<list id="fs-id1987199" list-type="enumerated" number-style="lower-alpha">
+<item>they cannot move easily in the blood stream because they are fat based, while the blood is water based</item>
+<item>they are too small to move by themselves</item>
+<item>the chylomicrons contain enzymes they need for anabolism</item>
+<item>they cannot fit across the intestinal membrane</item>
+</list>
+</problem>
+<solution id="fs-id1259872">
+<label/>
+<para id="fs-id3004370">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1750106">
+<problem id="fs-id1445913"><para id="fs-id1932115">Which molecule produces the most ATP?</para>
+<list id="fs-id1024152" list-type="enumerated" number-style="lower-alpha">
+<item>carbohydrates</item>
+<item>FADH<sub>2</sub></item>
+<item>triglycerides</item>
+<item>NADH</item>
+</list>
+</problem>
+<solution id="fs-id2190561">
+<label/>
+<para id="fs-id1302288">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2158787">
+<problem id="fs-id1010938"><para id="fs-id1534071">Which molecules can enter the Krebs cycle?</para>
+<list id="fs-id1813717" list-type="enumerated" number-style="lower-alpha">
+<item>chylomicrons</item>
+<item>acetyl CoA</item>
+<item>monoglycerides</item>
+<item>ketone bodies</item>
+</list>
+</problem>
+<solution id="fs-id1326883">
+<label/>
+<para id="fs-id2469756">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1297521">
+<problem id="fs-id2163595"><para id="fs-id1422090">Acetyl CoA can be converted to all of the following except ________.</para>
+<list id="fs-id2151395" list-type="enumerated" number-style="lower-alpha">
+<item>ketone bodies</item>
+<item>fatty acids</item>
+<item>polysaccharides</item>
+<item>triglycerides</item>
+</list>
+</problem>
+<solution id="fs-id1351734">
+<label/>
+<para id="fs-id2796738">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2116009" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2124307">
+<problem id="fs-id1996936"><para id="fs-id2477190">Discuss how carbohydrates can be stored as fat.</para></problem>
+<solution id="fs-id3304696"><label/>
+<para id="fs-id2902667">Carbohydrates are converted into pyruvate during glycolysis. This pyruvate is converted into acetyl CoA and proceeds through the Krebs cycle. When excess acetyl CoA is produced that cannot be processed through the Krebs cycle, the acetyl CoA is converted into triglycerides and fatty acids to be stored in the liver and adipose tissue.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2936242">
+<problem id="fs-id1362126"><para id="fs-id2637766">If a diabetic’s breath smells like alcohol, what could this mean?</para></problem>
+<solution id="fs-id799310"><label/>
+<para id="fs-id1499660">If diabetes is uncontrolled, the glucose in the blood is not being taken up and processed by the cells. Although blood glucose levels are high, there is no glucose available to the cells to be converted into energy. Because glucose is lacking, the body turns to other energy sources, including ketones. A side effect of using ketones as fuel is a sweet alcohol smell on the breath.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id2964956"><term>beta (β)-hydroxybutyrate</term> <meaning id="fs-id1187059">primary ketone body produced in the body</meaning></definition>
+<definition id="fs-id1915710"><term>beta (β)-oxidation</term> <meaning id="fs-id2157951">fatty acid oxidation</meaning></definition>
+<definition id="fs-id1307020"><term>bile salts</term> <meaning id="fs-id1983787">salts that are released from the liver in response to lipid ingestion and surround the insoluble triglycerides to aid in their conversion to monoglycerides and free fatty acids</meaning></definition>
+<definition id="fs-id1617890"><term>cholecystokinin (CCK)</term> <meaning id="fs-id3050585"> hormone that stimulates the release of pancreatic lipase and the contraction of the gallbladder to release bile salts</meaning></definition>
+<definition id="fs-id2386943"><term>chylomicrons</term> <meaning id="fs-id1498290">vesicles containing cholesterol and triglycerides that transport lipids out of the intestinal cells and into the lymphatic and circulatory systems</meaning></definition>
+<definition id="fs-id1527514"><term>fatty acid oxidation</term> <meaning id="fs-id2404746">breakdown of fatty acids into smaller chain fatty acids and acetyl CoA</meaning></definition>
+<definition id="fs-id2882695"><term>hydroxymethylglutaryl CoA (HMG CoA)</term> <meaning id="fs-id1503279">molecule created in the first step of the creation of ketone bodies from acetyl CoA</meaning></definition>
+<definition id="fs-id1601670"><term>ketone bodies</term> <meaning id="fs-id2068083">alternative source of energy when glucose is limited, created when too much acetyl CoA is created during fatty acid oxidation</meaning></definition>
+<definition id="fs-id3324863"><term>lipogenesis</term> <meaning id="fs-id2881867">synthesis of lipids that occurs in the liver or adipose tissues</meaning></definition>
+<definition id="fs-id1729230"><term>lipolysis</term> <meaning id="fs-id1493324">breakdown of triglycerides into glycerol and fatty acids</meaning></definition>
+<definition id="fs-id1446370"><term>monoglyceride molecules</term> <meaning id="fs-id1612889">lipid consisting of a single fatty acid chain attached to a glycerol backbone</meaning></definition>
+<definition id="fs-id2241324"><term>pancreatic lipases</term> <meaning id="fs-id1727990">enzymes released from the pancreas that digest lipids in the diet</meaning></definition>
+<definition id="fs-id2348219"><term>triglycerides</term> <meaning id="fs-id1980078">lipids, or fats, consisting of three fatty acid chains attached to a glycerol backbone</meaning></definition>
+</glossary>
+</document>

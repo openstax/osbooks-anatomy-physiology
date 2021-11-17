@@ -1,0 +1,248 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Gas Exchange </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46521</md:content-id>
+  <md:title>Gas Exchange </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Compare the composition of atmospheric air and alveolar air</item>
+<item>Describe the mechanisms that drive gas exchange</item>
+<item>Discuss the importance of sufficient ventilation and perfusion, and how the body adapts when they are insufficient</item>
+<item>Discuss the process of external respiration</item>
+<item>Describe the process of internal respiration</item>
+</list></md:abstract>
+  <md:uuid>98519dc2-a601-4193-a1e9-844a560771a4</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2455114">The purpose of the respiratory system is to perform gas exchange. Pulmonary ventilation provides air to the alveoli for this gas exchange process. At the respiratory membrane, where the alveolar and capillary walls meet, gases move across the membranes, with oxygen entering the bloodstream and carbon dioxide exiting. It is through this mechanism that blood is oxygenated and carbon dioxide, the waste product of cellular respiration, is removed from the body.</para>
+<section id="fs-id2295099">
+<title>Gas Exchange</title>
+<para id="fs-id2765983">In order to understand the mechanisms of gas exchange in the lung, it is important to understand the underlying principles of gases and their behavior. In addition to Boyle’s law, several other gas laws help to describe the behavior of gases.</para>
+<section id="fs-id2291323"><title>Gas Laws and Air Composition</title><para id="fs-id3034386">Gas molecules exert force on the surfaces with which they are in contact; this force is called pressure. In natural systems, gases are normally present as a mixture of different types of molecules. For example, the atmosphere consists of oxygen, nitrogen, carbon dioxide, and other gaseous molecules, and this gaseous mixture exerts a certain pressure referred to as atmospheric pressure (<link target-id="tbl-ch23_02" document=""/>). <term>Partial pressure</term> (<emphasis effect="italics">P<sub>x</sub></emphasis>) is the pressure of a single type of gas in a mixture of gases. For example, in the atmosphere, oxygen exerts a partial pressure, and nitrogen exerts another partial pressure, independent of the partial pressure of oxygen (<link target-id="fig-ch23_04_01" document=""/>). <term>Total pressure</term> is the sum of all the partial pressures of a gaseous mixture. <term>Dalton’s law</term> describes the behavior of nonreactive gases in a gaseous mixture and states that a specific gas type in a mixture exerts its own pressure; thus, the total pressure exerted by a mixture of gases is the sum of the partial pressures of the gases in the mixture.</para>
+<table class="top-titled" id="tbl-ch23_02" summary=".">
+<tgroup cols="3" align="left"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Partial Pressures of Atmospheric Gases</entry>
+</row>
+<row>
+<entry>Gas</entry>
+<entry>Percent of total composition</entry>
+<entry>Partial pressure <newline count="1"/>(mm Hg)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Nitrogen (N<sub>2</sub>)</entry>
+<entry>78.6</entry>
+<entry>597.4</entry>
+</row>
+<row>
+<entry>Oxygen (O<sub>2</sub>)</entry>
+<entry>20.9</entry>
+<entry>158.8</entry>
+</row>
+<row>
+<entry>Water (H<sub>2</sub>O)</entry>
+<entry>0.4</entry>
+<entry>3.0</entry>
+</row>
+<row>
+<entry>Carbon dioxide (CO<sub>2</sub>)</entry>
+<entry>0.04</entry>
+<entry>0.3</entry>
+</row>
+<row>
+<entry>Others</entry>
+<entry>0.06</entry>
+<entry>0.5</entry>
+</row>
+<row>
+<entry>Total composition/total atmospheric pressure</entry>
+<entry>100%</entry>
+<entry>760.0</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><figure id="fig-ch23_04_01"><title>Partial and Total Pressures of a Gas</title><media id="fs-id2428812" alt="The left panel of this figure shows a canister of oxygen. The middle panel shows a canister of nitrogen. The right panel shows a canister containing a mixture of oxygen and nitrogen. A pressure gauge on each container shows the pressure exerted by the gas in that container.">
+<image mime-type="image/jpg" src="../../media/2318_Partial_and_Total_Pressure_of_a_Gas.jpg" width="420"/>
+</media>
+<caption>Partial pressure is the force exerted by a gas. The sum of the partial pressures of all the gases in a mixture equals the total pressure.</caption></figure><para id="fs-id2757526">Partial pressure is extremely important in predicting the movement of gases. Recall that gases tend to equalize their pressure in two regions that are connected. A gas will move from an area where its partial pressure is higher to an area where its partial pressure is lower. In addition, the greater the partial pressure difference between the two areas, the more rapid is the movement of gases.</para>
+</section><section id="fs-id2606010"><title>Solubility of Gases in Liquids</title><para id="fs-id2336375"><term>Henry’s law</term> describes the behavior of gases when they come into contact with a liquid, such as blood. Henry’s law states that the concentration of gas in a liquid is directly proportional to the solubility and partial pressure of that gas. The greater the partial pressure of the gas, the greater the number of gas molecules that will dissolve in the liquid. The concentration of the gas in a liquid is also dependent on the solubility of the gas in the liquid. For example, although nitrogen is present in the atmosphere, very little nitrogen dissolves into the blood, because the solubility of nitrogen in blood is very low. The exception to this occurs in scuba divers; the composition of the compressed air that divers breathe causes nitrogen to have a higher partial pressure than normal, causing it to dissolve in the blood in greater amounts than normal. Too much nitrogen in the bloodstream results in a serious condition that can be fatal if not corrected. Gas molecules establish an equilibrium between those molecules dissolved in liquid and those in air.</para>
+<para id="fs-id2075909">The composition of air in the atmosphere and in the alveoli differs. In both cases, the relative concentration of gases is nitrogen &gt; oxygen &gt; water vapor &gt; carbon dioxide. The amount of water vapor present in alveolar air is greater than that in atmospheric air (<link target-id="tbl-ch23_03" document=""/>). Recall that the respiratory system works to humidify incoming air, thereby causing the air present in the alveoli to have a greater amount of water vapor than atmospheric air. In addition, alveolar air contains a greater amount of carbon dioxide and less oxygen than atmospheric air. This is no surprise, as gas exchange removes oxygen from and adds carbon dioxide to alveolar air. Both deep and forced breathing cause the alveolar air composition to be changed more rapidly than during quiet breathing. As a result, the partial pressures of oxygen and carbon dioxide change, affecting the diffusion process that moves these materials across the membrane. This will cause oxygen to enter and carbon dioxide to leave the blood more quickly.</para>
+<table class="top-titled" id="tbl-ch23_03" summary="">
+<tgroup cols="3" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Composition and Partial Pressures of Alveolar Air</entry>
+</row>
+<row>
+<entry>Gas</entry>
+<entry>Percent of total composition</entry>
+<entry>Partial pressure <newline count="1"/>(mm Hg)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Nitrogen (N<sub>2</sub>)</entry>
+<entry>74.9</entry>
+<entry>569</entry>
+</row>
+<row>
+<entry>Oxygen (O<sub>2</sub>)</entry>
+<entry>13.7</entry>
+<entry>104</entry>
+</row>
+<row>
+<entry>Water (H<sub>2</sub>O)</entry>
+<entry>6.2</entry>
+<entry>40</entry>
+</row>
+<row>
+<entry>Carbon dioxide (CO<sub>2</sub>)</entry>
+<entry>5.2</entry>
+<entry>47</entry>
+</row>
+<row>
+<entry>Total composition/total alveolar pressure</entry>
+<entry>100%</entry>
+<entry>760.0</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</section><section id="fs-id2153704">
+<title>Ventilation and Perfusion</title>
+<para id="fs-id2442259">Two important aspects of gas exchange in the lung are ventilation and perfusion. <term>Ventilation</term> is the movement of air into and out of the lungs, and perfusion is the flow of blood in the pulmonary capillaries. For gas exchange to be efficient, the volumes involved in ventilation and perfusion should be compatible. However, factors such as regional gravity effects on blood, blocked alveolar ducts, or disease can cause ventilation and perfusion to be imbalanced.</para>
+<para id="fs-id2584577">The partial pressure of oxygen in alveolar air is about 104 mm Hg, whereas the partial pressure of oxygenated blood in pulmonary veins is about 100 mm Hg. When ventilation is sufficient, oxygen enters the alveoli at a high rate, and the partial pressure of oxygen in the alveoli remains high. In contrast, when ventilation is insufficient, the partial pressure of oxygen in the alveoli drops. Without the large difference in partial pressure between the alveoli and the blood, oxygen does not diffuse efficiently across the respiratory membrane. The body has mechanisms that counteract this problem. In cases when ventilation is not sufficient for an alveolus, the body redirects blood flow to alveoli that are receiving sufficient ventilation. This is achieved by constricting the pulmonary arterioles that serves the dysfunctional alveolus, which redirects blood to other alveoli that have sufficient ventilation. At the same time, the pulmonary arterioles that serve alveoli receiving sufficient ventilation vasodilate, which brings in greater blood flow. Factors such as carbon dioxide, oxygen, and pH levels can all serve as stimuli for adjusting blood flow in the capillary networks associated with the alveoli.</para><para id="fs-id2229918">Ventilation is regulated by the diameter of the airways, whereas perfusion is regulated by the diameter of the blood vessels. The diameter of the bronchioles is sensitive to the partial pressure of carbon dioxide in the alveoli. A greater partial pressure of carbon dioxide in the alveoli causes the bronchioles to increase their diameter as will a decreased level of oxygen in the blood supply, allowing carbon dioxide to be exhaled from the body at a greater rate. As mentioned above, a greater partial pressure of oxygen in the alveoli causes the pulmonary arterioles to dilate, increasing blood flow.</para>
+</section>
+</section>
+<section id="fs-id1472312">
+<title>Gas Exchange</title>
+<para id="fs-id2271582">Gas exchange occurs at two sites in the body: in the lungs, where oxygen is picked up and carbon dioxide is released at the respiratory membrane, and at the tissues, where oxygen is released and carbon dioxide is picked up. External respiration is the exchange of gases with the external environment, and occurs in the alveoli of the lungs. Internal respiration is the exchange of gases with the internal environment, and occurs in the tissues. The actual exchange of gases occurs due to simple diffusion. Energy is not required to move oxygen or carbon dioxide across membranes. Instead, these gases follow pressure gradients that allow them to diffuse. The anatomy of the lung maximizes the diffusion of gases: The respiratory membrane is highly permeable to gases; the respiratory and blood capillary membranes are very thin; and there is a large surface area throughout the lungs.</para>
+<section id="fs-id1979712">
+<title>External Respiration</title>
+<para id="fs-id2005867">The pulmonary artery carries deoxygenated blood into the lungs from the heart, where it branches and eventually becomes the capillary network composed of pulmonary capillaries. These pulmonary capillaries create the respiratory membrane with the alveoli (<link target-id="fig-ch23_04_02" document=""/>). As the blood is pumped through this capillary network, gas exchange occurs. Although a small amount of the oxygen is able to dissolve directly into plasma from the alveoli, most of the oxygen is picked up by erythrocytes (red blood cells) and binds to a protein called hemoglobin, a process described later in this chapter. Oxygenated hemoglobin is red, causing the overall appearance of bright red oxygenated blood, which returns to the heart through the pulmonary veins. Carbon dioxide is released in the opposite direction of oxygen, from the blood to the alveoli. Some of the carbon dioxide is returned on hemoglobin, but can also be dissolved in plasma or is present as a converted form, also explained in greater detail later in this chapter.</para>
+<para id="fs-id2265635"><term>External respiration</term> occurs as a function of partial pressure differences in oxygen and carbon dioxide between the alveoli and the blood in the pulmonary capillaries.</para>
+<figure id="fig-ch23_04_02"><title>External Respiration</title><media id="fs-id2759318" alt="This figure shows the pathway in which external respiration takes place. The exchange of oxygen and carbon dioxide between the alveolus and blood plasma is detailed.">
+<image mime-type="image/jpg" src="../../media/2319_Fig_23.19-56b5.jpg" width="425"/>
+</media>
+<caption>In external respiration, oxygen diffuses across the respiratory membrane from the alveolus to the capillary, whereas carbon dioxide diffuses out of the capillary into the alveolus.</caption></figure><para id="fs-id2009037">Although the solubility of oxygen in blood is not high, there is a drastic difference in the partial pressure of oxygen in the alveoli versus in the blood of the pulmonary capillaries. This difference is about 64 mm Hg: The partial pressure of oxygen in the alveoli is about 104 mm Hg, whereas its partial pressure in the blood of the capillary is about 40 mm Hg. This large difference in partial pressure creates a very strong pressure gradient that causes oxygen to rapidly cross the respiratory membrane from the alveoli into the blood.</para>
+<para id="fs-id2650102">The partial pressure of carbon dioxide is also different between the alveolar air and the blood of the capillary. However, the partial pressure difference is less than that of oxygen, about 5 mm Hg. The partial pressure of carbon dioxide in the blood of the capillary is about 45 mm Hg, whereas its partial pressure in the alveoli is about 40 mm Hg. However, the solubility of carbon dioxide is much greater than that of oxygen—by a factor of about 20—in both blood and alveolar fluids. As a result, the relative concentrations of oxygen and carbon dioxide that diffuse across the respiratory membrane are similar.</para>
+</section>
+<section id="fs-id2844317">
+<title>Internal Respiration</title>
+<para id="fs-id2344495"><term>Internal respiration</term> is gas exchange that occurs at the level of body tissues (<link target-id="fig-ch23_04_03" document=""/>). Similar to external respiration, internal respiration also occurs as simple diffusion due to a partial pressure gradient. However, the partial pressure gradients are opposite of those present at the respiratory membrane. The partial pressure of oxygen in tissues is low, about 40 mm Hg, because oxygen is continuously used for cellular respiration. In contrast, the partial pressure of oxygen in the blood is about 100 mm Hg. This creates a pressure gradient that causes oxygen to dissociate from hemoglobin, diffuse out of the blood, cross the interstitial space, and enter the tissue. Hemoglobin that has little oxygen bound to it loses much of its brightness, so that blood returning to the heart is more burgundy in color.</para>
+<para id="fs-id2017288">Considering that cellular respiration continuously produces carbon dioxide, the partial pressure of carbon dioxide is lower in the blood than it is in the tissue, causing carbon dioxide to diffuse out of the tissue, cross the interstitial fluid, and enter the blood. It is then carried back to the lungs either bound to hemoglobin, dissolved in plasma, or in a converted form. By the time blood returns to the heart, the partial pressure of oxygen has returned to about 40 mm Hg, and the partial pressure of carbon dioxide has returned to about 45 mm Hg. The blood is then pumped back to the lungs to be oxygenated once again during external respiration.</para>
+<figure id="fig-ch23_04_03"><title>Internal Respiration</title><media id="fs-id1475963" alt="This diagram details the pathway of internal respiration. The exchange of oxygen and carbon dioxide between a red blood cell and a tissue cell is shown.">
+<image mime-type="image/jpg" src="../../media/2320_Fig_23.20_NEW_KGX.jpg" width="425"/>
+</media>
+<caption>Oxygen diffuses out of the capillary and into cells, whereas carbon dioxide diffuses out of cells and into the capillary.</caption></figure><note id="fs-id2129878" class="anatomy everyday">
+<title>Hyperbaric Chamber Treatment</title>
+<para id="fs-id2256274">
+A type of device used in some areas of medicine that exploits the behavior of gases is hyperbaric chamber treatment. A hyperbaric chamber is a unit that can be sealed and expose a patient to either 100 percent oxygen with increased pressure or a mixture of gases that includes a higher concentration of oxygen than normal atmospheric air, also at a higher partial pressure than the atmosphere. There are two major types of chambers: monoplace and multiplace. Monoplace chambers are typically for one patient, and the staff tending to the patient observes the patient from outside of the chamber (<link target-id="fig-ch23_04_04" document=""/>). Some facilities have special monoplace hyperbaric chambers that allow multiple patients to be treated at once, usually in a sitting or reclining position, to help ease feelings of isolation or claustrophobia. Multiplace chambers are large enough for multiple patients to be treated at one time, and the staff attending these patients is present inside the chamber. In a multiplace chamber, patients are often treated with air via a mask or hood, and the chamber is pressurized.</para>
+<figure id="fig-ch23_04_04"><title>Hyperbaric Chamber </title><media id="fs-id1370187" alt="This photo shows two hyperbaric chambers.">
+<image mime-type="image/jpg" src="../../media/2332_Hyperbaric_Chamber.jpg" width="380"/>
+</media>
+<caption>(credit: “komunews”/flickr.com)</caption></figure><para id="fs-id1352849">Hyperbaric chamber treatment is based on the behavior of gases. As you recall, gases move from a region of higher partial pressure to a region of lower partial pressure. In a hyperbaric chamber, the atmospheric pressure is increased, causing a greater amount of oxygen than normal to diffuse into the bloodstream of the patient. Hyperbaric chamber therapy is used to treat a variety of medical problems, such as wound and graft healing, anaerobic bacterial infections, and carbon monoxide poisoning. Exposure to and poisoning by carbon monoxide is difficult to reverse, because hemoglobin’s affinity for carbon monoxide is much stronger than its affinity for oxygen, causing carbon monoxide to replace oxygen in the blood. Hyperbaric chamber therapy can treat carbon monoxide poisoning, because the increased atmospheric pressure causes more oxygen to diffuse into the bloodstream. At this increased pressure and increased concentration of oxygen, carbon monoxide is displaced from hemoglobin. Another example is the treatment of anaerobic bacterial infections, which are created by bacteria that cannot or prefer not to live in the presence of oxygen. An increase in blood and tissue levels of oxygen helps to kill the anaerobic bacteria that are responsible for the infection, as oxygen is toxic to anaerobic bacteria. For wounds and grafts, the chamber stimulates the healing process by increasing energy production needed for repair. Increasing oxygen transport allows cells to ramp up cellular respiration and thus ATP production, the energy needed to build new structures.</para>
+</note>
+</section>
+</section>
+<section id="fs-id2353222" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2296767">The behavior of gases can be explained by the principles of Dalton’s law and Henry’s law, both of which describe aspects of gas exchange. Dalton’s law states that each specific gas in a mixture of gases exerts force (its partial pressure) independently of the other gases in the mixture. Henry’s law states that the amount of a specific gas that dissolves in a liquid is a function of its partial pressure. The greater the partial pressure of a gas, the more of that gas will dissolve in a liquid, as the gas moves toward equilibrium. Gas molecules move down a pressure gradient; in other words, gas moves from a region of high pressure to a region of low pressure. The partial pressure of oxygen is high in the alveoli and low in the blood of the pulmonary capillaries. As a result, oxygen diffuses across the respiratory membrane from the alveoli into the blood. In contrast, the partial pressure of carbon dioxide is high in the pulmonary capillaries and low in the alveoli. Therefore, carbon dioxide diffuses across the respiratory membrane from the blood into the alveoli. The amount of oxygen and carbon dioxide that diffuses across the respiratory membrane is similar.</para>
+<para id="fs-id2175982">Ventilation is the process that moves air into and out of the alveoli, and perfusion affects the flow of blood in the capillaries. Both are important in gas exchange, as ventilation must be sufficient to create a high partial pressure of oxygen in the alveoli. If ventilation is insufficient and the partial pressure of oxygen drops in the alveolar air, the capillary is constricted and blood flow is redirected to alveoli with sufficient ventilation. External respiration refers to gas exchange that occurs in the alveoli, whereas internal respiration refers to gas exchange that occurs in the tissue. Both are driven by partial pressure differences.</para>
+</section>
+<section id="fs-id2420907" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2347595">
+<problem id="fs-id2060788"><para id="fs-id2060789">Gas moves from an area of ________ partial pressure to an area of ________ partial pressure.</para>
+<list id="fs-id2584638" list-type="enumerated" number-style="lower-alpha">
+<item>low; high</item>
+<item>low; low</item>
+<item>high; high</item>
+<item>high; low</item>
+</list>
+</problem>
+<solution id="fs-id1720630">
+<label/>
+<para id="fs-id1478782">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2228521">
+<problem id="fs-id2527379"><para id="fs-id2351604">When ventilation is not sufficient, which of the following occurs?</para>
+<list id="fs-id2015439" list-type="enumerated" number-style="lower-alpha">
+<item>The capillary constricts.</item>
+<item>The capillary dilates.</item>
+<item>The partial pressure of oxygen in the affected alveolus increases.</item>
+<item>The bronchioles dilate.</item>
+</list>
+</problem>
+<solution id="fs-id2329004">
+<label/>
+<para id="fs-id2204683">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id2602080">
+<problem id="fs-id1882468"><para id="fs-id1882469">Gas exchange that occurs at the level of the tissues is called ________.</para>
+<list id="fs-id2204670" list-type="enumerated" number-style="lower-alpha">
+<item>external respiration</item>
+<item>interpulmonary respiration</item>
+<item>internal respiration</item>
+<item>pulmonary ventilation</item>
+</list>
+</problem>
+<solution id="fs-id2125577">
+<label/>
+<para id="fs-id2483983">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2041910">
+<problem id="fs-id2053702"><para id="fs-id2686855">The partial pressure of carbon dioxide is 45 mm Hg in the blood and 40 mm Hg in the alveoli. What happens to the carbon dioxide?</para>
+<list id="fs-id2065412" list-type="enumerated" number-style="lower-alpha">
+<item>It diffuses into the blood.</item>
+<item>It diffuses into the alveoli.</item>
+<item>The gradient is too small for carbon dioxide to diffuse.</item>
+<item>It decomposes into carbon and oxygen.</item>
+</list>
+</problem>
+<solution id="fs-id2061847">
+<label/>
+<para id="fs-id2199278">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1758267" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1653006">
+<problem id="fs-id2633943"><para id="fs-id2633944">Compare and contrast Dalton’s law and Henry’s law.</para></problem>
+<solution id="fs-id1918335"><label/>
+<para id="fs-id2505500">Both Dalton’s and Henry’s laws describe the behavior of gases. Dalton’s law states that any gas in a mixture of gases exerts force as if it were not in a mixture. Henry’s law states that gas molecules dissolve in a liquid proportional to their partial pressure.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2577567">
+<problem id="fs-id2500206"><para id="fs-id2083926">A smoker develops damage to several alveoli that then can no longer function. How does this affect gas exchange?</para></problem>
+<solution id="fs-id2105107"><label/>
+<para id="fs-id1761838">The damaged alveoli will have insufficient ventilation, causing the partial pressure of oxygen in the alveoli to decrease. As a result, the pulmonary capillaries serving these alveoli will constrict, redirecting blood flow to other alveoli that are receiving sufficient ventilation.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id1291531"><term>Dalton’s law</term> <meaning id="fs-id2144679"> statement of the principle that a specific gas type in a mixture exerts its own pressure, as if that specific gas type was not part of a mixture of gases</meaning></definition>
+<definition id="fs-id2586744"><term>external respiration</term> <meaning id="fs-id2578795"> gas exchange that occurs in the alveoli</meaning></definition>
+<definition id="fs-id2576896"><term>Henry’s law</term> <meaning id="fs-id2372958"> statement of the principle that the concentration of gas in a liquid is directly proportional to the solubility and partial pressure of that gas</meaning></definition>
+<definition id="fs-id1909285"><term>internal respiration</term> <meaning id="fs-id2528052"> gas exchange that occurs at the level of body tissues</meaning></definition>
+<definition id="fs-id2025600"><term>partial pressure</term> <meaning id="fs-id2830210"> force exerted by each gas in a mixture of gases</meaning></definition>
+<definition id="fs-id1897952"><term>total pressure</term> <meaning id="fs-id2489968"> sum of all the partial pressures of a gaseous mixture</meaning></definition>
+<definition id="fs-id2868127"><term>ventilation</term> <meaning id="fs-id1289600">movement of air into and out of the lungs; consists of inspiration and expiration</meaning></definition>
+</glossary>
+</document>

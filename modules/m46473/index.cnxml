@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Overview of Muscle Tissues </title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46473</md:content-id>
+  <md:title>Overview of Muscle Tissues </md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Describe the different types of muscle</item>
+<item>Explain contractibility and extensibility</item>
+</list></md:abstract>
+  <md:uuid>2313ad72-7d31-4cff-9d60-f6ab7db6605a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1840923">Muscle is one of the four primary tissue types of the body, and the body contains three types of muscle tissue: skeletal muscle, cardiac muscle, and smooth muscle (<link target-id="fig-ch10_01_01" document=""/>). All three muscle tissues have some properties in common; they all exhibit a quality called <term>excitability</term> as their plasma membranes can change their electrical states (from polarized to depolarized) and send an electrical wave called an action potential along the entire length of the membrane. While the nervous system can influence the excitability of cardiac and smooth muscle to some degree, skeletal muscle completely depends on signaling from the nervous system to work properly. On the other hand, both cardiac muscle and smooth muscle can respond to other stimuli, such as hormones and local stimuli.</para><figure id="fig-ch10_01_01"><title>The Three Types of Muscle Tissue </title><media id="fs-id1422382" alt="This figure show the micrographs of skeletal muscle, smooth muscle, and cardiac muscle cells.">
+<image mime-type="image/jpg" src="../../media/414_Skeletal_Smooth_Cardiac.jpg" width="320"/>
+</media>
+<caption>The body contains three types of muscle tissue: (a) skeletal muscle, (b) smooth muscle, and (c) cardiac muscle. (Micrographs provided by the Regents of University of Michigan Medical School © 2012)</caption></figure><para id="fs-id1388147">The muscles all begin the actual process of contracting (shortening) when a protein called actin is pulled by a protein called myosin. This occurs in striated muscle (skeletal and cardiac) after specific binding sites on the actin have been exposed in response to the interaction between calcium ions (Ca<sup>++</sup>) and proteins (troponin and tropomyosin) that “shield” the actin-binding sites. Ca<sup>++</sup> also is required for the contraction of smooth muscle, although its role is different: here Ca<sup>++</sup> activates enzymes, which in turn activate myosin heads. All muscles require adenosine triphosphate (ATP) to continue the process of contracting, and they all relax when the Ca<sup>++</sup> is removed and the actin-binding sites are re-shielded.</para>
+<para id="fs-id2017239">A muscle can return to its original length when relaxed due to a quality of muscle tissue called <term>elasticity</term>. It can recoil back to its original length due to elastic fibers. Muscle tissue also has the quality of <term>extensibility</term>; it can stretch or extend. <term>Contractility</term> allows muscle tissue to pull on its attachment points and shorten with force.</para>
+<para id="fs-id2020397">Differences among the three muscle types include the microscopic organization of their contractile proteins—actin and myosin. The actin and myosin proteins are arranged very regularly in the cytoplasm of individual muscle cells (referred to as fibers) in both skeletal muscle and cardiac muscle, which creates a pattern, or stripes, called striations. The striations are visible with a light microscope under high magnification (see <link target-id="fig-ch10_01_01" document=""/>). <term>Skeletal muscle</term> fibers are multinucleated structures that compose the skeletal muscle. <term>Cardiac muscle</term> fibers each have one to two nuclei and are physically and electrically connected to each other so that the entire heart contracts as one unit (called a syncytium).</para><para id="fs-id2336777">Because the actin and myosin are not arranged in such regular fashion in <term>smooth muscle</term>, the cytoplasm of a smooth muscle fiber (which has only a single nucleus) has a uniform, nonstriated appearance (resulting in the name smooth muscle). However, the less organized appearance of smooth muscle should not be interpreted as less efficient. Smooth muscle in the walls of arteries is a critical component that regulates blood pressure necessary to push blood through the circulatory system; and smooth muscle in the skin, visceral organs, and internal passageways is essential for moving all materials through the body.</para>
+<section id="fs-id2169333" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2097179">Muscle is the tissue in animals that allows for active movement of the body or materials within the body. There are three types of muscle tissue: skeletal muscle, cardiac muscle, and smooth muscle. Most of the body’s skeletal muscle produces movement by acting on the skeleton. Cardiac muscle is found in the wall of the heart and pumps blood through the circulatory system.</para>
+<para id="fs-id1616494">Smooth muscle is found in the skin, where it is associated with hair follicles; it also is found in the walls of internal organs, blood vessels, and internal passageways, where it assists in moving materials.</para>
+</section>
+<section id="fs-id1615929" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2025849">
+<problem id="fs-id1765369"><para id="fs-id1410225">Muscle that has a striped appearance is described as being ________.</para>
+<list id="fs-id1574033" list-type="enumerated" number-style="lower-alpha">
+<item>elastic</item>
+<item>nonstriated</item>
+<item>excitable</item>
+<item>striated</item>
+</list>
+</problem>
+<solution id="fs-id2079816">
+<label/>
+<para id="fs-id1386433">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1604812">
+<problem id="fs-id2455630"><para id="fs-id1978247">Which element is important in directly triggering contraction?</para>
+<list id="fs-id1273683" list-type="enumerated" number-style="lower-alpha">
+<item>sodium (Na<sup>+</sup>)</item>
+<item>calcium (Ca<sup>++</sup>)</item>
+<item>potassium (K<sup>+</sup>)</item>
+<item>chloride (Cl<sup>-</sup>)</item>
+</list>
+</problem>
+<solution id="fs-id1240626">
+<label/>
+<para id="fs-id2045368">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2168542">
+<problem id="fs-id1549316"><para id="fs-id2152835">Which of the following properties is <emphasis effect="italics">not</emphasis> common to all three muscle tissues?</para>
+<list id="fs-id1999380" list-type="enumerated" number-style="lower-alpha">
+<item>excitability</item>
+<item>the need for ATP</item>
+<item>at rest, uses shielding proteins to cover actin-binding sites</item>
+<item>elasticity</item>
+</list>
+</problem>
+<solution id="fs-id1194396">
+<label/>
+<para id="fs-id1939474">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2153740" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2277173">
+<problem id="fs-id1882963"><para id="fs-id1472063">Why is elasticity an important quality of muscle tissue?</para></problem>
+<solution id="fs-id2036297"><label/>
+<para id="fs-id2057788">It allows muscle to return to its original length during relaxation after contraction.</para>
+</solution>
+</exercise>
+</section>
+ </content>
+<glossary>
+<definition id="fs-id805165"><term>cardiac muscle</term> <meaning id="fs-id2153813">striated muscle found in the heart; joined to one another at intercalated discs and under the regulation of pacemaker cells, which contract as one unit to pump blood through the circulatory system. Cardiac muscle is under involuntary control.</meaning></definition>
+<definition id="fs-id1478465"><term>contractility</term> <meaning id="fs-id1639210">ability to shorten (contract) forcibly</meaning></definition>
+<definition id="fs-id2226659"><term>elasticity</term> <meaning id="fs-id1478267">ability to stretch and rebound</meaning></definition>
+<definition id="fs-id2135277"><term>excitability</term> <meaning id="fs-id2058893">ability to undergo neural stimulation</meaning></definition>
+<definition id="fs-id2023831"><term>extensibility</term> <meaning id="fs-id1927633">ability to lengthen (extend)</meaning></definition>
+<definition id="fs-id1242198"><term>skeletal muscle</term> <meaning id="fs-id1967912">striated, multinucleated muscle that requires signaling from the nervous system to trigger contraction; most skeletal muscles are referred to as voluntary muscles that move bones and produce movement</meaning></definition>
+<definition id="fs-id1892020"><term>smooth muscle</term> <meaning id="fs-id2018234">nonstriated, mononucleated muscle in the skin that is associated with hair follicles; assists in moving materials in the walls of internal organs, blood vessels, and internal passageways</meaning></definition>
+</glossary>
+</document>
