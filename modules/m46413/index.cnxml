@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46413</md:content-id>
   <md:title>Disorders of Acid-Base Balance </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Identify the three blood variables considered when making a diagnosis of acidosis or alkalosis</item>
 <item>Identify the source of compensation for blood pH problems of a respiratory origin</item>
 <item>Identify the source of compensation for blood pH problems of a metabolic/renal origin</item>
@@ -20,7 +20,7 @@
 </media>
 <caption>Symptoms of acidosis affect several organ systems. Both acidosis and alkalosis can be diagnosed using a blood test.</caption></figure><section id="fs-id1492664">
 <title>Metabolic Acidosis: Primary Bicarbonate Deficiency</title>
-<para id="fs-id1383482"><term>Metabolic acidosis</term> occurs when the blood is too acidic (pH below 7.35) due to too little bicarbonate, a condition called primary bicarbonate deficiency. At the normal pH of 7.40, the ratio of bicarbonate to carbonic acid buffer is 20:1. If a person’s blood pH drops below 7.35, then he or she is in metabolic acidosis. The most common cause of metabolic acidosis is the presence of organic acids or excessive ketone bodies in the blood. <link target-id="tbl-ch27_02" document=""/> lists some other causes of metabolic acidosis.</para>
+<para id="fs-id1383482"><term id="term-00001">Metabolic acidosis</term> occurs when the blood is too acidic (pH below 7.35) due to too little bicarbonate, a condition called primary bicarbonate deficiency. At the normal pH of 7.40, the ratio of bicarbonate to carbonic acid buffer is 20:1. If a person’s blood pH drops below 7.35, then he or she is in metabolic acidosis. The most common cause of metabolic acidosis is the presence of organic acids or excessive ketone bodies in the blood. <link target-id="tbl-ch27_02" document=""/> lists some other causes of metabolic acidosis.</para>
 <table class="top-titled" id="tbl-ch27_02" summary="">
 <tgroup cols="2" align="left">
 <colspec colnum="1" colname="c3"/>
@@ -80,16 +80,16 @@
 </section>
 <section id="fs-id1247876">
 <title>Metabolic Alkalosis: Primary Bicarbonate Excess</title>
-<para id="fs-id1721352"><term>Metabolic alkalosis</term> is the opposite of metabolic acidosis. It occurs when the blood is too alkaline (pH above 7.45) due to too much bicarbonate (called primary bicarbonate excess).</para>
+<para id="fs-id1721352"><term id="term-00002">Metabolic alkalosis</term> is the opposite of metabolic acidosis. It occurs when the blood is too alkaline (pH above 7.45) due to too much bicarbonate (called primary bicarbonate excess).</para>
 <para id="fs-id1249408">A transient excess of bicarbonate in the blood can follow ingestion of excessive amounts of bicarbonate, citrate, or antacids for conditions such as stomach acid reflux—known as heartburn. Cushing’s disease, which is the chronic hypersecretion of adrenocorticotropic hormone (ACTH) by the anterior pituitary gland, can cause chronic metabolic alkalosis. The oversecretion of ACTH results in elevated aldosterone levels and an increased loss of potassium by urinary excretion. Other causes of metabolic alkalosis include the loss of hydrochloric acid from the stomach through vomiting, potassium depletion due to the use of diuretics for hypertension, and the excessive use of laxatives.</para>
 </section>
 <section id="fs-id2020926">
 <title>Respiratory Acidosis: Primary Carbonic Acid/CO<sub>2</sub> Excess</title>
-<para id="fs-id1971541"><term>Respiratory acidosis</term> occurs when the blood is overly acidic due to an excess of carbonic acid, resulting from too much CO<sub>2</sub> in the blood. Respiratory acidosis can result from anything that interferes with respiration, such as pneumonia, emphysema, or congestive heart failure.</para>
+<para id="fs-id1971541"><term id="term-00003">Respiratory acidosis</term> occurs when the blood is overly acidic due to an excess of carbonic acid, resulting from too much CO<sub>2</sub> in the blood. Respiratory acidosis can result from anything that interferes with respiration, such as pneumonia, emphysema, or congestive heart failure.</para>
 </section>
 <section id="fs-id1890565">
 <title>Respiratory Alkalosis: Primary Carbonic Acid/CO<sub>2 </sub>Deficiency</title>
-<para id="fs-id2044528"><term>Respiratory alkalosis</term> occurs when the blood is overly alkaline due to a deficiency in carbonic acid and CO<sub>2</sub> levels in the blood. This condition usually occurs when too much CO<sub>2</sub> is exhaled from the lungs, as occurs in hyperventilation, which is breathing that is deeper or more frequent than normal. An elevated respiratory rate leading to hyperventilation can be due to extreme emotional upset or fear, fever, infections, hypoxia, or abnormally high levels of catecholamines, such as epinephrine and norepinephrine. Surprisingly, aspirin overdose—salicylate toxicity—can result in respiratory alkalosis as the body tries to compensate for initial acidosis.</para>
+<para id="fs-id2044528"><term id="term-00004">Respiratory alkalosis</term> occurs when the blood is overly alkaline due to a deficiency in carbonic acid and CO<sub>2</sub> levels in the blood. This condition usually occurs when too much CO<sub>2</sub> is exhaled from the lungs, as occurs in hyperventilation, which is breathing that is deeper or more frequent than normal. An elevated respiratory rate leading to hyperventilation can be due to extreme emotional upset or fear, fever, infections, hypoxia, or abnormally high levels of catecholamines, such as epinephrine and norepinephrine. Surprisingly, aspirin overdose—salicylate toxicity—can result in respiratory alkalosis as the body tries to compensate for initial acidosis.</para>
 <note id="fs-id1906303" class="anatomy interactive">
 <label/>
 <para id="fs-id1765737">Watch this <link url="http://openstax.org/l/altitude">video</link> to see a demonstration of the effect altitude has on blood pH. What effect does high altitude have on blood pH, and why?</para>

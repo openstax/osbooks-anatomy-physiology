@@ -4,7 +4,7 @@
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m45983</md:content-id>
   <md:title>Overview of Anatomy and Physiology</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
         <item>Compare and contrast anatomy and physiology, including their specializations and methods of study</item>
         <item>Discuss the fundamental relationship between anatomy and physiology</item>
       </list></md:abstract>
@@ -13,17 +13,17 @@
 
 <content>
     <para id="fs-id2264559">Human
-      <term>anatomy</term>
+      <term id="term-00001">anatomy</term>
       is the scientific study of the body’s structures. Some of these structures are very small and can only be observed and analyzed with the assistance of a microscope. Other larger structures can readily be seen, manipulated, measured, and weighed. The
       word “anatomy” comes from a Greek root that means “to cut apart.” Human anatomy was first studied by observing the exterior of the body and observing the wounds of soldiers and other injuries. Later, physicians were allowed to dissect bodies of the
       dead to augment their knowledge. When a body is dissected, its structures are cut apart in order to observe their physical attributes and their relationships to one another. Dissection is still used in medical schools, anatomy courses, and in
       pathology labs. In order to observe structures in living people, however, a number of imaging techniques have been developed. These techniques allow clinicians to visualize structures inside the living body such as a cancerous tumor or a fractured
       bone.</para>
     <para id="fs-id2608267">Like most scientific disciplines, anatomy has areas of specialization.
-      <term>Gross anatomy</term>
+      <term id="term-00002">Gross anatomy</term>
       is the study of the larger structures of the body, those visible without the aid of magnification (<link target-id="fig-ch01_01_01" document=""/>
       <emphasis effect="bold">a</emphasis>). Macro- means “large,” thus, gross anatomy is also referred to as macroscopic anatomy. In contrast, micro- means “small,” and
-      <term>microscopic anatomy</term>
+      <term id="term-00003">microscopic anatomy</term>
       is the study of structures that can be observed only with the use of a microscope or other magnification devices (<link target-id="fig-ch01_01_01" document=""/>
       <emphasis effect="bold">b</emphasis>). Microscopic anatomy includes cytology, the study of cells and histology, the study of tissues. As the technology of microscopes has advanced, anatomists have been able to observe smaller and smaller structures
       of the body, from slices of large structures like the heart, to the three-dimensional structures of large molecules in the body.</para>
@@ -36,16 +36,16 @@
         “WriterHound”/Wikimedia Commons; credit b: Micrograph provided by the Regents of University of Michigan Medical School © 2012)</caption>
     </figure>
     <para id="fs-id1636111">Anatomists take two general approaches to the study of the body’s structures: regional and systemic.
-      <term>Regional anatomy</term>
+      <term id="term-00004">Regional anatomy</term>
       is the study of the interrelationships of all of the structures in a specific body region, such as the abdomen. Studying regional anatomy helps us appreciate the interrelationships of body structures, such as how muscles, nerves, blood vessels, and
       other structures work together to serve a particular body region. In contrast,
-      <term>systemic anatomy</term>
+      <term id="term-00005">systemic anatomy</term>
       is the study of the structures that make up a discrete body system—that is, a group of structures that work together to perform a unique body function. For example, a systemic anatomical study of the muscular system would consider all of the skeletal
       muscles of the body.</para>
     <para id="fs-id1707081">Whereas anatomy is about structure, physiology is about function. Human
-      <term>physiology</term>
+      <term id="term-00006">physiology</term>
       is the scientific study of the chemistry and physics of the structures of the body and the ways in which they work together to support the functions of life. Much of the study of physiology centers on the body’s tendency toward homeostasis.
-      <term>Homeostasis</term>
+      <term id="term-00007">Homeostasis</term>
       is the state of steady internal conditions maintained by living things. The study of physiology certainly includes observation, both with the naked eye and with microscopes, as well as manipulations and measurements. However, current advances in
       physiology usually depend on carefully designed laboratory experiments that reveal the functions of the many structures and chemical compounds that make up the human body.</para>
     <para id="fs-id2297149">Like anatomists, physiologists typically specialize in a particular branch of physiology. For example, neurophysiology is the study of the brain, spinal cord, and nerves and how these work together to perform functions as

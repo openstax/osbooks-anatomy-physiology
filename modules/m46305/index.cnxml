@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46305</md:content-id>
   <md:title>Exercise, Nutrition, Hormones, and Bone Tissue </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe the effect exercise has on bone tissue</item>
 <item>List the nutrients that affect bone health</item>
 <item>Discuss the role those nutrients play in bone health</item>
@@ -85,7 +85,7 @@
 <note id="fs-id1299380" class="anatomy aging">
 <title>Skeletal System</title>
 <para id="fs-id1303451">
-<term>Osteoporosis</term> is a disease characterized by a decrease in bone mass that occurs when the rate of bone resorption exceeds the rate of bone formation, a common occurrence as the body ages. Notice how this is different from Paget’s disease. In Paget’s disease, new bone is formed in an attempt to keep up with the resorption by the overactive osteoclasts, but that new bone is produced haphazardly. In fact, when a physician is evaluating a patient with thinning bone, he or she will test for osteoporosis and Paget’s disease (as well as other diseases). Osteoporosis does not have the elevated blood levels of alkaline phosphatase found in Paget’s disease.</para>
+<term id="term-00001">Osteoporosis</term> is a disease characterized by a decrease in bone mass that occurs when the rate of bone resorption exceeds the rate of bone formation, a common occurrence as the body ages. Notice how this is different from Paget’s disease. In Paget’s disease, new bone is formed in an attempt to keep up with the resorption by the overactive osteoclasts, but that new bone is produced haphazardly. In fact, when a physician is evaluating a patient with thinning bone, he or she will test for osteoporosis and Paget’s disease (as well as other diseases). Osteoporosis does not have the elevated blood levels of alkaline phosphatase found in Paget’s disease.</para>
 <figure id="fig-ch06_06_02"><title>Graph Showing Relationship Between Age and Bone Mass </title><media id="fs-id1534723" alt="This graph shows bone mass (total mass of skeletal calcium in grams) on the Y axis. The Y axis scale goes from 0 up to 1500. The x axis displays age in years from 0 to 100 years. Two plot lines are shown: a blue line for males and a pink line for females. Male bone mass climbs rapidly from 0 grams to 1500 grams between age 0 and age 25. Bone mass then slowly drops to 1000 grams between age 25 and age 100. Female bone loss climbs rapidly from 0 grams to about 1200 grams between age 0 and age 28. Female bone mass then drops very slowly from 1200 grams to 1000 grams between age 29 and age 55. Bone mass then drops steeply from 1000 grams to 750 grams between ages 55 and 60. This is labeled on the graph as bone loss due to menopause. After this steep drop, the female line again levels somewhat, but still drops gradually, much like that of the male. Between age 60 and age 100, female bone density drops from 750 grams to about 625 grams.">
 <image mime-type="image/jpg" src="../../media/615_Age_and_Bone_Mass.jpg" width="420"/>
 </media>

@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46282</md:content-id>
   <md:title>Bone Classification </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Classify bones according to their shapes</item>
 <item>Describe the function of each category of bones</item>
 </list></md:abstract>
@@ -20,22 +20,22 @@
 
 <caption>Bones are classified according to their shape.</caption></figure><section id="fs-id1170296">
 <title>Long Bones</title>
-<para id="fs-id856306">A <term>long bone</term> is one that is cylindrical in shape, being longer than it is wide. Keep in mind, however, that the term describes the shape of a bone, not its size. Long bones are found in the arms (humerus, ulna, radius) and legs (femur, tibia, fibula), as well as in the fingers (metacarpals, phalanges) and toes (metatarsals, phalanges). Long bones function as levers; they move when muscles contract.</para>
+<para id="fs-id856306">A <term id="term-00001">long bone</term> is one that is cylindrical in shape, being longer than it is wide. Keep in mind, however, that the term describes the shape of a bone, not its size. Long bones are found in the arms (humerus, ulna, radius) and legs (femur, tibia, fibula), as well as in the fingers (metacarpals, phalanges) and toes (metatarsals, phalanges). Long bones function as levers; they move when muscles contract.</para>
 </section>
 <section id="fs-id1639531">
 <title>Short Bones</title>
-<para id="fs-id962590">A <term>short bone</term> is one that is cube-like in shape, being approximately equal in length, width, and thickness. The only short bones in the human skeleton are in the carpals of the wrists and the tarsals of the ankles. Short bones provide stability and support as well as some limited motion.</para>
+<para id="fs-id962590">A <term id="term-00002">short bone</term> is one that is cube-like in shape, being approximately equal in length, width, and thickness. The only short bones in the human skeleton are in the carpals of the wrists and the tarsals of the ankles. Short bones provide stability and support as well as some limited motion.</para>
 </section>
 <section id="fs-id1016222">
 <title>Flat Bones</title>
-<para id="fs-id1739295">The term “<term>flat bone</term>” is somewhat of a misnomer because, although a flat bone is typically thin, it is also often curved. Examples include the cranial (skull) bones, the scapulae (shoulder blades), the sternum (breastbone), and the ribs. Flat bones serve as points of attachment for muscles and often protect internal organs.</para></section>
+<para id="fs-id1739295">The term “<term id="term-00003">flat bone</term>” is somewhat of a misnomer because, although a flat bone is typically thin, it is also often curved. Examples include the cranial (skull) bones, the scapulae (shoulder blades), the sternum (breastbone), and the ribs. Flat bones serve as points of attachment for muscles and often protect internal organs.</para></section>
 <section id="fs-id1643285">
 <title>Irregular Bones</title>
-<para id="fs-id1064136">An <term>irregular bone</term> is one that does not have any easily characterized shape and therefore does not fit any other classification. These bones tend to have more complex shapes, like the vertebrae that support the spinal cord and protect it from compressive forces. Many facial bones, particularly the ones containing sinuses, are classified as irregular bones.</para>
+<para id="fs-id1064136">An <term id="term-00004">irregular bone</term> is one that does not have any easily characterized shape and therefore does not fit any other classification. These bones tend to have more complex shapes, like the vertebrae that support the spinal cord and protect it from compressive forces. Many facial bones, particularly the ones containing sinuses, are classified as irregular bones.</para>
 </section>
 <section id="fs-id1170424">
 <title>Sesamoid Bones</title>
-<para id="fs-id773871">A <term>sesamoid bone</term> is a small, round bone that, as the name suggests, is shaped like a sesame seed. These bones form in tendons (the sheaths of tissue that connect bones to muscles) where a great deal of pressure is generated in a joint. The sesamoid bones protect tendons by helping them overcome compressive forces. Sesamoid bones vary in number and placement from person to person but are typically found in tendons associated with the feet, hands, and knees. The patellae (singular = patella) are the only sesamoid bones found in common with every person. <link target-id="tbl-ch06_01" document=""/> reviews bone classifications with their associated features, functions, and examples.</para>
+<para id="fs-id773871">A <term id="term-00005">sesamoid bone</term> is a small, round bone that, as the name suggests, is shaped like a sesame seed. These bones form in tendons (the sheaths of tissue that connect bones to muscles) where a great deal of pressure is generated in a joint. The sesamoid bones protect tendons by helping them overcome compressive forces. Sesamoid bones vary in number and placement from person to person but are typically found in tendons associated with the feet, hands, and knees. The patellae (singular = patella) are the only sesamoid bones found in common with every person. <link target-id="tbl-ch06_01" document=""/> reviews bone classifications with their associated features, functions, and examples.</para>
 
 <table class="top-titled" id="tbl-ch06_01" summary="Bone Classifications">
 <tgroup cols="4" align="left"><colspec colnum="1" colname="c1"/>

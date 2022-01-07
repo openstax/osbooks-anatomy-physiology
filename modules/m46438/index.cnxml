@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46438</md:content-id>
   <md:title>Exercise and Muscle Performance </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe hypertrophy and atrophy</item>
 <item>Explain how resistance exercise builds muscle</item>
 <item>Explain how performance-enhancing substances affect muscle</item>
@@ -14,11 +14,11 @@
 </metadata>
 
 <content>
-<para id="fs-id1584189">Physical training alters the appearance of skeletal muscles and can produce changes in muscle performance. Conversely, a lack of use can result in decreased performance and muscle appearance. Although muscle cells can change in size, new cells are not formed when muscles grow. Instead, structural proteins are added to muscle fibers in a process called <term>hypertrophy</term>, so cell diameter increases. The reverse, when structural proteins are lost and muscle mass decreases, is called <term>atrophy</term>. Age-related muscle atrophy is called <term>sarcopenia</term>. Cellular components of muscles can also undergo changes in response to changes in muscle use.</para>
+<para id="fs-id1584189">Physical training alters the appearance of skeletal muscles and can produce changes in muscle performance. Conversely, a lack of use can result in decreased performance and muscle appearance. Although muscle cells can change in size, new cells are not formed when muscles grow. Instead, structural proteins are added to muscle fibers in a process called <term id="term-00001">hypertrophy</term>, so cell diameter increases. The reverse, when structural proteins are lost and muscle mass decreases, is called <term id="term-00002">atrophy</term>. Age-related muscle atrophy is called <term id="term-00003">sarcopenia</term>. Cellular components of muscles can also undergo changes in response to changes in muscle use.</para>
 <section id="fs-id1195292">
 <title>Endurance Exercise</title>
 <para id="fs-id2364284">Slow fibers are predominantly used in endurance exercises that require little force but involve numerous repetitions. The aerobic metabolism used by slow-twitch fibers allows them to maintain contractions over long periods. Endurance training modifies these slow fibers to make them even more efficient by producing more mitochondria to enable more aerobic metabolism and more ATP production. Endurance exercise can also increase the amount of myoglobin in a cell, as increased aerobic respiration increases the need for oxygen. Myoglobin is found in the sarcoplasm and acts as an oxygen storage supply for the mitochondria.</para>
-<para id="fs-id2296979">The training can trigger the formation of more extensive capillary networks around the fiber, a process called <term>angiogenesis</term>, to supply oxygen and remove metabolic waste. To allow these capillary networks to supply the deep portions of the muscle, muscle mass does not greatly increase in order to maintain a smaller area for the diffusion of nutrients and gases. All of these cellular changes result in the ability to sustain low levels of muscle contractions for greater periods without fatiguing.</para>
+<para id="fs-id2296979">The training can trigger the formation of more extensive capillary networks around the fiber, a process called <term id="term-00004">angiogenesis</term>, to supply oxygen and remove metabolic waste. To allow these capillary networks to supply the deep portions of the muscle, muscle mass does not greatly increase in order to maintain a smaller area for the diffusion of nutrients and gases. All of these cellular changes result in the ability to sustain low levels of muscle contractions for greater periods without fatiguing.</para>
 <para id="fs-id1699845">The proportion of SO muscle fibers in muscle determines the suitability of that muscle for endurance, and may benefit those participating in endurance activities. Postural muscles have a large number of SO fibers and relatively few FO and FG fibers, to keep the back straight (<link target-id="fig-ch10_06_01" document=""/>). Endurance athletes, like marathon-runners also would benefit from a larger proportion of SO fibers, but it is unclear if the most-successful marathoners are those with naturally high numbers of SO fibers, or whether the most successful marathon runners develop high numbers of SO fibers with repetitive training. Endurance training can result in overuse injuries such as stress fractures and joint and tendon inflammation.</para><figure id="fig-ch10_06_01"><title>Marathoners </title><media id="fs-id1645648" alt="This photograph shows some runners in a race.">
 <image mime-type="image/jpg" src="../../media/1026_Marathoners.jpg" width="380"/>
 </media>

@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46341</md:content-id>
   <md:title>The Functions of the Skeletal System </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Define bone, cartilage, and the skeletal system</item>
 <item>List and describe the functions of the skeletal system</item>
 </list></md:abstract>
@@ -13,7 +13,7 @@
 </metadata>
 
 <content>
-<para id="fs-id1641272"><term>Bone</term>, or <term>osseous tissue</term>, is a hard, dense connective tissue that forms most of the adult skeleton, the support structure of the body. In the areas of the skeleton where bones move (for example, the ribcage and joints), <term>cartilage</term>, a semi-rigid form of connective tissue, provides flexibility and smooth surfaces for movement. The <term>skeletal system</term> is the body system composed of bones and cartilage and performs the following critical functions for the human body:</para>
+<para id="fs-id1641272"><term id="term-00001">Bone</term>, or <term id="term-00002">osseous tissue</term>, is a hard, dense connective tissue that forms most of the adult skeleton, the support structure of the body. In the areas of the skeleton where bones move (for example, the ribcage and joints), <term id="term-00003">cartilage</term>, a semi-rigid form of connective tissue, provides flexibility and smooth surfaces for movement. The <term id="term-00004">skeletal system</term> is the body system composed of bones and cartilage and performs the following critical functions for the human body:</para>
 <list id="fs-id1641274" list-type="bulleted">
 <item>supports the body</item>
 <item>facilitates movement</item>
@@ -34,7 +34,7 @@
 <caption>The cranium completely surrounds and protects the brain from non-traumatic injury.</caption></figure><note id="fs-id1614722" class="anatomy career">
 <title>Orthopedist</title>
 <para id="fs-id1284942">
-An <term>orthopedist</term> is a doctor who specializes in diagnosing and treating disorders and injuries related to the musculoskeletal system. Some orthopedic problems can be treated with medications, exercises, braces, and other devices, but others may be best treated with surgery (<link target-id="fig-ch06_01_03" document=""/>).</para>
+An <term id="term-00005">orthopedist</term> is a doctor who specializes in diagnosing and treating disorders and injuries related to the musculoskeletal system. Some orthopedic problems can be treated with medications, exercises, braces, and other devices, but others may be best treated with surgery (<link target-id="fig-ch06_01_03" document=""/>).</para>
 <figure id="fig-ch06_01_03"><title>Complex Brace </title><media id="fs-id1183302" alt="Photo shows a leg in a complex brace, bent at a nintey degree angle.">
 <image mime-type="image/jpg" src="../../media/620_Arms_Brace.jpg" width="380"/>
 </media>
@@ -44,7 +44,7 @@ An <term>orthopedist</term> is a doctor who specializes in diagnosing and treati
 </note>
 </section><section id="fs-id1143103">
 <title>Mineral Storage, Energy Storage, and Hematopoiesis</title>
-<para id="fs-id1265514">On a metabolic level, bone tissue performs several critical functions. For one, the bone matrix acts as a reservoir for a number of minerals important to the functioning of the body, especially calcium, and phosphorus. These minerals, incorporated into bone tissue, can be released back into the bloodstream to maintain levels needed to support physiological processes. Calcium ions, for example, are essential for muscle contractions and controlling the flow of other ions involved in the transmission of nerve impulses.</para><para id="fs-id814095">Bone also serves as a site for fat storage and blood cell production. The softer connective tissue that fills the interior of most bone is referred to as bone marrow (<link target-id="fig-ch06_01_04" document=""/>). There are two types of bone marrow: yellow marrow and red marrow. <term>Yellow marrow</term> contains adipose tissue; the triglycerides stored in the adipocytes of the tissue can serve as a source of energy. <term>Red marrow</term> is where <term>hematopoiesis</term>—the production of blood cells—takes place. Red blood cells, white blood cells, and platelets are all produced in the red marrow.</para>
+<para id="fs-id1265514">On a metabolic level, bone tissue performs several critical functions. For one, the bone matrix acts as a reservoir for a number of minerals important to the functioning of the body, especially calcium, and phosphorus. These minerals, incorporated into bone tissue, can be released back into the bloodstream to maintain levels needed to support physiological processes. Calcium ions, for example, are essential for muscle contractions and controlling the flow of other ions involved in the transmission of nerve impulses.</para><para id="fs-id814095">Bone also serves as a site for fat storage and blood cell production. The softer connective tissue that fills the interior of most bone is referred to as bone marrow (<link target-id="fig-ch06_01_04" document=""/>). There are two types of bone marrow: yellow marrow and red marrow. <term id="term-00006">Yellow marrow</term> contains adipose tissue; the triglycerides stored in the adipocytes of the tissue can serve as a source of energy. <term id="term-00007">Red marrow</term> is where <term id="term-00008">hematopoiesis</term>—the production of blood cells—takes place. Red blood cells, white blood cells, and platelets are all produced in the red marrow.</para>
 <figure id="fig-ch06_01_04"><title>Head of Femur Showing Red and Yellow Marrow </title><media id="fs-id852170" alt="This photo shows the head of the femur detached from the rest of the bone. The compact bone at the surface of the head has been removed to show the spongy bone beneath. Rather than being solid, like the compact bone, the spongy bone is mesh like with many open spaces, giving it the appearance of a sponge. A circle of yellow marrow is located at the exact center of the spongy bone. The red marrow surrounds the yellow marrow, occupying most of the interior space of the head.">
 <image mime-type="image/jpg" src="../../media/619_Red_and_Yellow_Bone_Marrow.jpg" width="380"/>
 </media>

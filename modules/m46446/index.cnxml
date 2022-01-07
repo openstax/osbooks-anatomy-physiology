@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46446</md:content-id>
   <md:title>The Urinary System and Homeostasis </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para><list id="list-00001">
 <item>Describe the role of the kidneys in vitamin D activation</item>
 <item>Describe the role of the kidneys in regulating erythropoiesis</item>
 <item>Provide specific examples to demonstrate how the urinary system responds to maintain homeostasis in the body</item>
@@ -19,7 +19,7 @@
 <para id="fs-id2395185">All systems of the body are interrelated. A change in one system may affect all other systems in the body, with mild to devastating effects. A failure of urinary continence can be embarrassing and inconvenient, but is not life threatening. The loss of other urinary functions may prove fatal. A failure to synthesize vitamin D is one such example.</para>
 <section id="fs-id1586928">
 <title>Vitamin D Synthesis</title>
-<para id="fs-id1586933">In order for vitamin D to become active, it must undergo a hydroxylation reaction in the kidney, that is, an –OH group must be added to calcidiol to make calcitriol (1,25-dihydroxycholecalciferol). Activated vitamin D is important for absorption of Ca<sup>++</sup> in the digestive tract, its reabsorption in the kidney, and the maintenance of normal serum concentrations of Ca<sup>++</sup> and phosphate. Calcium is vitally important in bone health, muscle contraction, hormone secretion, and neurotransmitter release. Inadequate Ca<sup>++</sup> leads to disorders like osteoporosis and <term>osteomalacia</term> in adults and rickets in children. Deficits may also result in problems with cell proliferation, neuromuscular function, blood clotting, and the inflammatory response. Recent research has confirmed that vitamin D receptors are present in most, if not all, cells of the body, reflecting the systemic importance of vitamin D. Many scientists have suggested it be referred to as a hormone rather than a vitamin.</para>
+<para id="fs-id1586933">In order for vitamin D to become active, it must undergo a hydroxylation reaction in the kidney, that is, an –OH group must be added to calcidiol to make calcitriol (1,25-dihydroxycholecalciferol). Activated vitamin D is important for absorption of Ca<sup>++</sup> in the digestive tract, its reabsorption in the kidney, and the maintenance of normal serum concentrations of Ca<sup>++</sup> and phosphate. Calcium is vitally important in bone health, muscle contraction, hormone secretion, and neurotransmitter release. Inadequate Ca<sup>++</sup> leads to disorders like osteoporosis and <term id="term-00001">osteomalacia</term> in adults and rickets in children. Deficits may also result in problems with cell proliferation, neuromuscular function, blood clotting, and the inflammatory response. Recent research has confirmed that vitamin D receptors are present in most, if not all, cells of the body, reflecting the systemic importance of vitamin D. Many scientists have suggested it be referred to as a hormone rather than a vitamin.</para>
 </section>
 <section id="fs-id2389244">
 <title>Erythropoiesis</title>

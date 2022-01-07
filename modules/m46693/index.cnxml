@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46693</md:content-id>
   <md:title>The Pineal Gland </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Describe the location and structure of the pineal gland</item>
 <item>Discuss the function of melatonin</item>
 </list></md:abstract>
@@ -13,7 +13,7 @@
 </metadata>
 
 <content>
-<para id="fs-id1355539">Recall that the hypothalamus, part of the diencephalon of the brain, sits inferior and somewhat anterior to the thalamus. Inferior but somewhat posterior to the thalamus is the <term>pineal gland</term>, a tiny endocrine gland whose functions are not entirely clear. The <term>pinealocyte</term> cells that make up the pineal gland are known to produce and secrete the amine hormone <term>melatonin</term>, which is derived from serotonin.</para>
+<para id="fs-id1355539">Recall that the hypothalamus, part of the diencephalon of the brain, sits inferior and somewhat anterior to the thalamus. Inferior but somewhat posterior to the thalamus is the <term id="term-00001">pineal gland</term>, a tiny endocrine gland whose functions are not entirely clear. The <term id="term-00002">pinealocyte</term> cells that make up the pineal gland are known to produce and secrete the amine hormone <term id="term-00003">melatonin</term>, which is derived from serotonin.</para>
 <para id="fs-id1391140">The secretion of melatonin varies according to the level of light received from the environment. When photons of light stimulate the retinas of the eyes, a nerve impulse is sent to a region of the hypothalamus called the suprachiasmatic nucleus (SCN), which is important in regulating biological rhythms. From the SCN, the nerve signal is carried to the spinal cord and eventually to the pineal gland, where the production of melatonin is inhibited. As a result, blood levels of melatonin fall, promoting wakefulness. In contrast, as light levels decline—such as during the evening—melatonin production increases, boosting blood levels and causing drowsiness.</para>
 <note id="fs-id1249408" class="anatomy interactive">
 <label/>

@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46335</md:content-id>
   <md:title>Adjustments of the Infant at Birth and Postnatal Stages </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Discuss the importance of an infant’s first breath</item>
 <item>Explain the closing of the cardiac shunts</item>
 <item>Describe thermoregulation in the newborn</item>
@@ -32,7 +32,7 @@
 <section id="fs-id1411660">
 <title>Thermoregulatory Adjustments</title>
 <para id="fs-id1380846">The fetus floats in warm amniotic fluid that is maintained at a temperature of approximately 98.6°F with very little fluctuation. Birth exposes newborns to a cooler environment in which they have to regulate their own body temperature. Newborns have a higher ratio of surface area to volume than adults. This means that their body has less volume throughout which to produce heat, and more surface area from which to lose heat. As a result, newborns produce heat more slowly and lose it more quickly. Newborns also have immature musculature that limits their ability to generate heat by shivering. Moreover, their nervous systems are underdeveloped, so they cannot quickly constrict superficial blood vessels in response to cold. They also have little subcutaneous fat for insulation. All these factors make it harder for newborns to maintain their body temperature.</para>
-<para id="fs-id2093829">Newborns, however, do have a special method for generating heat: <term>nonshivering thermogenesis</term>, which involves the breakdown of <term>brown adipose tissue</term>, or brown fat, which is distributed over the back, chest, and shoulders. Brown fat differs from the more familiar white fat in two ways:</para>
+<para id="fs-id2093829">Newborns, however, do have a special method for generating heat: <term id="term-00001">nonshivering thermogenesis</term>, which involves the breakdown of <term id="term-00002">brown adipose tissue</term>, or brown fat, which is distributed over the back, chest, and shoulders. Brown fat differs from the more familiar white fat in two ways:</para>
 <list id="fs-id2338232" list-type="bulleted">
 <item>It is highly vascularized. This allows for faster delivery of oxygen, which leads to faster cellular respiration.</item>
 <item>It is packed with a special type of mitochondria that are able to engage in cellular respiration reactions that produce less ATP and more heat than standard cellular respiration reactions.</item>

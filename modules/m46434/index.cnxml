@@ -4,8 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m46434</md:content-id>
   <md:title>Regulation of Fluid Volume and Composition </md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
-<list>
+  <md:abstract><para id="para-00001">By the end of this section, you will be able to:</para>
+<list id="list-00001">
 <item>Explain the mechanism of action of diuretics</item>
 <item>Explain why the differential permeability or impermeability of specific sections of the nephron tubules is necessary for urine formation</item>
 </list></md:abstract>
@@ -24,7 +24,7 @@
 </section>
 <section id="fs-id2298462">
 <title>Diuretics and Fluid Volume</title>
-<para id="fs-id2396821">A <term>diuretic</term> is a compound that increases urine volume. Three familiar drinks contain diuretic compounds: coffee, tea, and alcohol. The caffeine in coffee and tea works by promoting vasodilation in the nephron, which increases GFR. Alcohol increases GFR by inhibiting ADH release from the posterior pituitary, resulting in less water recovery by the collecting duct. In cases of high blood pressure, diuretics may be prescribed to reduce blood volume and, thereby, reduce blood pressure. The most frequently prescribed anti-hypertensive diuretic is hydrochlorothiazide. It inhibits the Na<sup>+</sup>/ Cl<sup>– </sup>symporter in the DCT and collecting duct. The result is a loss of Na<sup>+</sup> with water following passively by osmosis.</para>
+<para id="fs-id2396821">A <term id="term-00001">diuretic</term> is a compound that increases urine volume. Three familiar drinks contain diuretic compounds: coffee, tea, and alcohol. The caffeine in coffee and tea works by promoting vasodilation in the nephron, which increases GFR. Alcohol increases GFR by inhibiting ADH release from the posterior pituitary, resulting in less water recovery by the collecting duct. In cases of high blood pressure, diuretics may be prescribed to reduce blood volume and, thereby, reduce blood pressure. The most frequently prescribed anti-hypertensive diuretic is hydrochlorothiazide. It inhibits the Na<sup>+</sup>/ Cl<sup>– </sup>symporter in the DCT and collecting duct. The result is a loss of Na<sup>+</sup> with water following passively by osmosis.</para>
 <para id="fs-id2433958">Osmotic diuretics promote water loss by osmosis. An example is the indigestible sugar mannitol, which is most often administered to reduce brain swelling after head injury. However, it is not the only sugar that can produce a diuretic effect. In cases of poorly controlled diabetes mellitus, glucose levels exceed the capacity of the tubular glucose symporters, resulting in glucose in the urine. The unrecovered glucose becomes a powerful osmotic diuretic. Classically, in the days before glucose could be detected in the blood and urine, clinicians identified diabetes mellitus by the three Ps: polyuria (diuresis), polydipsia (increased thirst), and polyphagia (increased hunger).</para>
 </section>
 <section id="fs-id2267360">
