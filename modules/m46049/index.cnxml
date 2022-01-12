@@ -48,7 +48,15 @@ Loose connective tissue
 <item>Adipose</item>
 <item>Reticular</item>
 </list>
+
+  Dense connective tissue
+  <list id="fs-id1503431" list-type="bulleted">
+  <item>Dense regular</item>
+  <item>Elastic</item>
+  <item>Dense-irregular</item>
+  </list>
 </entry>
+
 <entry>
 Cartilage
 <list id="fs-id1321152" list-type="bulleted">
@@ -56,25 +64,14 @@ Cartilage
 <item>Fibrocartilage</item>
 <item>Elastic</item>
 </list>
+Bone
 </entry>
-<entry>Blood</entry>
-</row>
-<row>
+
 <entry>
-Dense connective tissue
-<list id="fs-id1503431" list-type="bulleted">
-<item>Regular elastic</item>
-<item>Irregular elastic</item>
-</list>
+Blood
+<newline/>
+Lymph
 </entry>
-<entry>
-Bones
-<list id="fs-id1484050" list-type="bulleted">
-<item>Compact bone</item>
-<item>Cancellous bone</item>
-</list>
-</entry>
-<entry>Lymph</entry>
 </row>
 </tbody>
 </tgroup>
