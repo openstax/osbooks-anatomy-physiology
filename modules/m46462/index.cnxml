@@ -40,7 +40,7 @@
 <caption>Excess acetyl CoA is diverted from the Krebs cycle to the ketogenesis pathway. This reaction occurs in the mitochondria of liver cells. The result is the production of β-hydroxybutyrate, the primary ketone body found in the blood.</caption></figure></section>
 <section id="fs-id1815892">
 <title>Ketone Body Oxidation</title>
-<para id="fs-id2459241">Organs that have classically been thought to be dependent solely on glucose, such as the brain, can actually use ketones as an alternative energy source. This keeps the brain functioning when glucose is limited. When ketones are produced faster than they can be used, they can be broken down into CO<sub>2</sub> and acetone. The acetone is removed by exhalation. One symptom of ketogenesis is that the patient’s breath smells sweet like alcohol. This effect provides one way of telling if a diabetic is properly controlling the disease. The carbon dioxide produced can acidify the blood, leading to diabetic ketoacidosis, a dangerous condition in diabetics.</para>
+<para id="fs-id2459241">Organs that have classically been thought to be dependent solely on glucose, such as the brain, can actually use ketones as an alternative energy source. This keeps the brain functioning when glucose is limited. When ketones are produced faster than they can be used, they can be broken down into CO<sub>2</sub> and acetone. The acetone is removed by exhalation. One symptom of ketogenesis is that the patient’s breath smells sweet like alcohol. This effect provides one way of telling if a person with diabetes is properly controlling the disease. The carbon dioxide produced can acidify the blood, leading to diabetic ketoacidosis, a dangerous condition in people with diabetes.</para>
 <para id="fs-id2383123">Ketones oxidize to produce energy for the brain. <term id="term-00012">beta (β)-hydroxybutyrate</term> is oxidized to acetoacetate and NADH is released. An HS-CoA molecule is added to acetoacetate, forming acetoacetyl CoA. The carbon within the acetoacetyl CoA that is not bonded to the CoA then detaches, splitting the molecule in two. This carbon then attaches to another free HS-CoA, resulting in two acetyl CoA molecules. These two acetyl CoA molecules are then processed through the Krebs cycle to generate energy (<link target-id="fig-ch25_03_05" document=""/>).</para><figure id="fig-ch25_03_05"><title>Ketone Oxidation </title><media id="fs-id2925057" alt="This figure shows the reactions in which ketone is oxidized to acetyl-CoA.">
 <image mime-type="image/jpg" src="../../media/2515_Ketone_Oxidation.jpg" width="520"/>
 </media>
@@ -153,7 +153,7 @@
 </solution>
 </exercise>
 <exercise id="fs-id2936242">
-<problem id="fs-id1362126"><para id="fs-id2637766">If a diabetic’s breath smells like alcohol, what could this mean?</para></problem>
+<problem id="fs-id1362126"><para id="fs-id2637766">If a person with diabetes that has breath smells like alcohol, what could this mean?</para></problem>
 <solution id="fs-id799310"><label/>
 <para id="fs-id1499660">If diabetes is uncontrolled, the glucose in the blood is not being taken up and processed by the cells. Although blood glucose levels are high, there is no glucose available to the cells to be converted into energy. Because glucose is lacking, the body turns to other energy sources, including ketones. A side effect of using ketones as fuel is a sweet alcohol smell on the breath.</para>
 </solution>
