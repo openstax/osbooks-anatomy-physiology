@@ -107,11 +107,11 @@
 <entry>Peptidases</entry>
 <entry>Small intestine</entry>
 <entry>
-<list id="fs-id2176840" list-type="bulleted" bullet-style="none"><item>Aminopeptidase: amino acids at the amino end of peptides</item>
+<list id="fs-id2176840" list-type="bulleted"><item>Aminopeptidase: amino acids at the amino end of peptides</item>
 <item>Dipeptidase: dipeptides</item>
 </list></entry>
 <entry>
-<list id="fs-id1698513" list-type="bulleted" bullet-style="none"><item>Aminopeptidase: amino acids and peptides</item>
+<list id="fs-id1698513" list-type="bulleted"><item>Aminopeptidase: amino acids and peptides</item>
 <item>Dipeptidase: amino acids</item>
 </list></entry>
 </row>
@@ -148,7 +148,7 @@
 <entry>Nucleases</entry>
 <entry>Pancreatic acinar cells</entry>
 <entry>
-<list id="fs-id1708186" list-type="bulleted" bullet-style="none"><item>Ribonuclease: ribonucleic acids</item>
+<list id="fs-id1708186" list-type="bulleted"><item>Ribonuclease: ribonucleic acids</item>
 <item>Deoxyribonuclease: deoxyribonucleic acids</item>
 </list></entry>
 <entry>Nucleotides</entry>
