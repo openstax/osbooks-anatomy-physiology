@@ -38,82 +38,92 @@
 <colspec colnum="3" colname="c3"/>
 <colspec colnum="4" colname="c4"/>
 <colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
 <thead>
 <row>
-<entry namest="c1" nameend="c5">Summary of ABO and Rh Blood Types within the United States </entry>
+<entry namest="c1" nameend="c6">Summary of ABO and Rh Blood Types within the United States </entry>
 </row>
 <row>
 <entry>Blood Type</entry>
-<entry>African-Americans</entry>
-<entry>Asian-Americans</entry>
-<entry>Caucasian-Americans</entry>
-<entry>Latino/Latina-Americans</entry>
+<entry>Asian</entry>
+<entry>Black non-Hispanic</entry>
+<entry>Hispanic</entry>
+<entry>North American Indian</entry>
+<entry>White non-Hispanic</entry>
 </row>
 </thead>
 <tbody>
 <row>
 <entry>A<sup>+</sup></entry>
-<entry>24</entry>
-<entry>27</entry>
-<entry>33</entry>
-<entry>29</entry>
+<entry>27.3</entry>
+<entry>24.0</entry>
+<entry>28.7</entry>
+<entry>31.3</entry>
+<entry>33.0</entry>
 </row>
 <row>
 <entry>A<sup>−</sup></entry>
-<entry>2</entry>
 <entry>0.5</entry>
-<entry>7</entry>
-<entry>2</entry>
+<entry>1.9</entry>
+<entry>2.4</entry>
+<entry>3.8</entry>
+<entry>6.8</entry>
 </row>
 <row>
 <entry>B<sup>+</sup></entry>
-<entry>18</entry>
-<entry>25</entry>
-<entry>9</entry>
-<entry>9</entry>
+<entry>25.0</entry>
+<entry>18.4</entry>
+<entry>9.2</entry>
+<entry>7.0</entry>
+<entry>9.1</entry>
 </row>
 <row>
 <entry>B<sup>−</sup></entry>
-<entry>1</entry>
 <entry>0.4</entry>
-<entry>2</entry>
-<entry>1</entry>
+<entry>1.3</entry>
+<entry>0.7</entry>
+<entry>0.9</entry>
+<entry>1.8</entry>
 </row>
 <row>
 <entry>AB<sup>+</sup></entry>
-<entry>4</entry>
-<entry>7</entry>
-<entry>3</entry>
-<entry>2</entry>
+<entry>7.0</entry>
+<entry>4.0</entry>
+<entry>2.3</entry>
+<entry>2.2</entry>
+<entry>3.4</entry>
 </row>
 <row>
 <entry>AB<sup>−</sup></entry>
- <entry>0.3</entry>
-<entry>0.1</entry>
-<entry>1</entry>
+ <entry>0.1</entry>
+<entry>0.3</entry>
 <entry>0.2</entry>
+<entry>0.3</entry>
+<entry>0.7</entry>
 </row>
 <row>
 <entry>O<sup>+</sup></entry>
-<entry>47</entry>
-<entry>39</entry>
-<entry>37</entry>
-<entry>53</entry>
+<entry>39.0</entry>
+<entry>46.6</entry>
+<entry>52.6</entry>
+<entry>50.0</entry>
+<entry>37.2</entry>
 </row>
 <row>
 <entry>O<sup>−</sup></entry>
-<entry>4</entry>
-<entry>1</entry>
-<entry>8</entry>
-<entry>4</entry>
+<entry>0.7</entry>
+<entry>3.6</entry>
+<entry>3.9</entry>
+<entry>4.7</entry>
+<entry>8.0</entry>
 </row>
 </tbody>
 </tgroup>
-</table><para id="fs-id1899114">In contrast to the ABO group antibodies, which are preformed, antibodies to the Rh antigen are produced only in Rh<sup>−</sup> individuals after exposure to the antigen. This process, called sensitization, occurs following a transfusion with Rh-incompatible blood or, more commonly, with the birth of an Rh<sup>+</sup> baby to an Rh<sup>−</sup> mother. Problems are rare in a first pregnancy, since the baby’s Rh<sup>+</sup> cells rarely cross the placenta (the organ of gas and nutrient exchange between the baby and the mother). However, during or immediately after birth, the Rh<sup>−</sup> mother can be exposed to the baby’s Rh<sup>+</sup> cells (<link target-id="fig-ch19_06_01" document=""/>). Research has shown that this occurs in about 13−14 percent of such pregnancies. After exposure, the mother’s immune system begins to generate anti-Rh antibodies. If the mother should then conceive another Rh<sup>+</sup> baby, the Rh antibodies she has produced can cross the placenta into the fetal bloodstream and destroy the fetal RBCs. This condition, known as <term id="term-00005">hemolytic disease of the newborn (HDN)</term> or erythroblastosis fetalis, may cause anemia in mild cases, but the agglutination and hemolysis can be so severe that without treatment the fetus may die in the womb or shortly after birth.</para>
+</table><para id="fs-id1899114">In contrast to the ABO group antibodies, which are preformed, antibodies to the Rh antigen are produced only in Rh<sup>−</sup> individuals after exposure to the antigen. This process, called sensitization, occurs following a transfusion with Rh-incompatible blood or, more commonly, with the birth of an Rh<sup>+</sup> baby to an Rh<sup>−</sup> person. Problems are rare in a first pregnancy, since the baby’s Rh<sup>+</sup> cells rarely cross the placenta (the organ of gas and nutrient exchange between the fetus and the pregnant person). However, during or immediately after birth, the Rh<sup>−</sup> parent can be exposed to the baby’s Rh<sup>+</sup> cells (<link target-id="fig-ch19_06_01" document=""/>). Research has shown that this occurs in about 13−14 percent of such pregnancies. After exposure, the immune system of the person who has given birth begins to generate anti-Rh antibodies. If the same person should then become pregnant with another Rh<sup>+</sup> baby, the Rh antibodies they have produced can cross the placenta into the fetal bloodstream and destroy the fetal RBCs. This condition, known as <term id="term-00005">hemolytic disease of the newborn (HDN)</term> or erythroblastosis fetalis, may cause anemia in mild cases, but the agglutination and hemolysis can be so severe that without treatment the fetus may die in the womb or shortly after birth.</para>
 <figure id="fig-ch19_06_01"><title>Erythroblastosis Fetalis </title><media id="fs-id2502299" alt="This figure shows an umbilical artery and vein passing through the placenta on the top left. The top right panel shows the first exposure to Rh+ antibodies in the mother. The bottom right panel shows the response when the second exposure in the form of another fetus takes place. Textboxes detail the steps in each process.">
 <image mime-type="image/jpg" src="../../media/1910_Erythroblastosis_Fetalis.jpg" width="600"/>
 </media>
-<caption>The first exposure of an Rh<sup>−</sup> mother to Rh<sup>+</sup> erythrocytes during pregnancy induces sensitization. Anti-Rh antibodies begin to circulate in the mother’s bloodstream. A second exposure occurs with a subsequent pregnancy with an Rh<sup>+</sup> fetus in the uterus. Maternal anti-Rh antibodies may cross the placenta and enter the fetal bloodstream, causing agglutination and hemolysis of fetal erythrocytes.</caption></figure><para id="fs-id2822281">A drug known as RhoGAM, short for Rh immune globulin, can temporarily prevent the development of Rh antibodies in the Rh<sup>−</sup> mother, thereby averting this potentially serious disease for the fetus. RhoGAM antibodies destroy any fetal Rh<sup>+</sup> erythrocytes that may cross the placental barrier. RhoGAM is normally administered to Rh<sup>−</sup> mothers during weeks 26−28 of pregnancy and within 72 hours following birth. It has proven remarkably effective in decreasing the incidence of HDN. Earlier we noted that the incidence of HDN in an Rh<sup>+</sup> subsequent pregnancy to an Rh<sup>−</sup> mother is about 13–14 percent without preventive treatment. Since the introduction of RhoGAM in 1968, the incidence has dropped to about 0.1 percent in the United States.</para>
+<caption>The first exposure of an Rh<sup>−</sup> person to Rh<sup>+</sup> erythrocytes during pregnancy induces sensitization. Anti-Rh antibodies begin to circulate in the pregnant person's bloodstream. A second exposure occurs with a subsequent pregnancy with an Rh<sup>+</sup> fetus in the uterus. During that subsequent pregnancy, the pregnant person's anti-Rh antibodies may cross the placenta and enter the fetal bloodstream, causing agglutination and hemolysis of fetal erythrocytes.</caption></figure><para id="fs-id2822281">A drug known as RhoGAM, short for Rh immune globulin, can temporarily prevent the development of Rh antibodies in the Rh<sup>−</sup> parent, thereby averting this potentially serious disease for the fetus. RhoGAM antibodies destroy any fetal Rh<sup>+</sup> erythrocytes that may cross the placental barrier. RhoGAM is normally administered to Rh<sup>−</sup> pregnant people during weeks 26−28 of pregnancy and within 72 hours following birth. It has proven remarkably effective in decreasing the incidence of HDN. Earlier we noted that the incidence of HDN in an Rh<sup>+</sup> subsequent pregnancy to an Rh<sup>−</sup> person is about 13–14 percent without preventive treatment. Since the introduction of RhoGAM in 1968, the incidence has dropped to about 0.1 percent in the United States.</para>
 </section><section id="fs-id2801178"><title>Determining ABO Blood Types</title><para id="fs-id2696923">Clinicians are able to determine a patient’s blood type quickly and easily using commercially prepared antibodies. An unknown blood sample is allocated into separate wells. Into one well a small amount of anti-A antibody is added, and to another a small amount of anti-B antibody. If the antigen is present, the antibodies will cause visible agglutination of the cells (<link target-id="fig-ch19_06_02" document=""/>). The blood should also be tested for Rh antibodies.</para>
 <figure id="fig-ch19_06_02"><title>Cross Matching Blood Types </title><media id="fs-id2639973" alt="This figure shows three different red blood cells with different blood types.">
 <image mime-type="image/jpg" src="../../media/1912_Cross_Matching_Blood_Types.jpg" width="430"/>
@@ -130,7 +140,7 @@
 <section id="fs-id2696804" class="summary">
 <title>Chapter Review</title>
 <para id="fs-id2471150">Antigens are nonself molecules, usually large proteins, which provoke an immune response. In transfusion reactions, antibodies attach to antigens on the surfaces of erythrocytes and cause agglutination and hemolysis. ABO blood group antigens are designated A and B. People with type A blood have A antigens on their erythrocytes, whereas those with type B blood have B antigens. Those with AB blood have both A and B antigens, and those with type O blood have neither A nor B antigens. The blood plasma contains preformed antibodies against the antigens not present on a person’s erythrocytes.</para>
-<para id="fs-id2582234">A second group of blood antigens is the Rh group, the most important of which is Rh D. People with Rh<sup>−</sup> blood do not have this antigen on their erythrocytes, whereas those who are Rh<sup>+</sup> do. About 85 percent of Americans are Rh<sup>+</sup>. When a woman who is Rh<sup>−</sup> becomes pregnant with an Rh<sup>+</sup> fetus, her body may begin to produce anti-Rh antibodies. If she subsequently becomes pregnant with a second Rh<sup>+</sup> fetus and is not treated preventively with RhoGAM, the fetus will be at risk for an antigen-antibody reaction, including agglutination and hemolysis. This is known as hemolytic disease of the newborn.</para>
+<para id="fs-id2582234">A second group of blood antigens is the Rh group, the most important of which is Rh D. People with Rh<sup>−</sup> blood do not have this antigen on their erythrocytes, whereas those who are Rh<sup>+</sup> do. About 85 percent of Americans are Rh<sup>+</sup>. When a person who is Rh<sup>−</sup> becomes pregnant with an Rh<sup>+</sup> fetus, their body may begin to produce anti-Rh antibodies. If the person subsequently becomes pregnant with a second Rh<sup>+</sup> fetus and is not treated preventively with RhoGAM, the fetus will be at risk for an antigen-antibody reaction, including agglutination and hemolysis. This is known as hemolytic disease of the newborn.</para>
 <para id="fs-id2527455">Cross matching to determine blood type is necessary before transfusing blood, unless the patient is experiencing hemorrhage that is an immediate threat to life, in which case type O<sup>−</sup> blood may be transfused.</para>
 </section>
 <section id="fs-id2137046" class="multiple-choice">
@@ -166,10 +176,10 @@
 <exercise id="fs-id2174184">
 <problem id="fs-id1972856"><para id="fs-id2180118">Hemolytic disease of the newborn is a risk during a subsequent pregnancy in which ________.</para>
 <list id="fs-id2592707" list-type="enumerated" number-style="lower-alpha">
-<item>a type AB mother is carrying a type O fetus</item>
-<item>a type O mother is carrying a type AB fetus</item>
-<item>an Rh<sup>+</sup> mother is carrying an Rh<sup>−</sup> fetus</item>
-<item>an Rh<sup>−</sup> mother is carrying a second Rh<sup>+</sup> fetus</item>
+<item>a type AB person is carrying a type O fetus</item>
+<item>a type O person is carrying a type AB fetus</item>
+<item>an Rh<sup>+</sup> person is carrying an Rh<sup>−</sup> fetus</item>
+<item>an Rh<sup>−</sup> person is carrying a second Rh<sup>+</sup> fetus</item>
 </list>
 </problem>
 <solution id="fs-id2001137">
@@ -181,7 +191,7 @@
 <section id="fs-id1483057" class="free-response">
 <title>Critical Thinking Questions</title>
 <exercise id="fs-id2363711">
-<problem id="fs-id2430611"><para id="fs-id1432571">Following a motor vehicle accident, a patient is rushed to the emergency department with multiple traumatic injuries, causing severe bleeding. The patient’s condition is critical, and there is no time for determining his blood type. What type of blood is transfused, and why?</para></problem>
+<problem id="fs-id2430611"><para id="fs-id1432571">Following a motor vehicle accident, a patient is rushed to the emergency department with multiple traumatic injuries, causing severe bleeding. The patient’s condition is critical, and there is no time for determining their blood type. What type of blood is transfused, and why?</para></problem>
 <solution id="fs-id2042200"><label/>
 <para id="fs-id1644404">In emergency situations, blood type O<sup>−</sup> will be infused until cross matching can be done. Blood type O<sup>−</sup> is called the universal donor blood because the erythrocytes have neither A nor B antigens on their surface, and the Rh factor is negative.</para>
 </solution>
@@ -199,7 +209,7 @@
 <definition id="fs-id2372415"><term>agglutination</term> <meaning id="fs-id2575878">clustering of cells into masses linked by antibodies</meaning></definition>
 <definition id="fs-id811144"><term>cross matching</term> <meaning id="fs-id2001493">blood test for identification of blood type using antibodies and small samples of blood</meaning></definition>
 <definition id="fs-id1488895"><term>hemolysis</term> <meaning id="fs-id2759618">destruction (lysis) of erythrocytes and the release of their hemoglobin into circulation</meaning></definition>
-<definition id="fs-id2524132"><term>hemolytic disease of the newborn (HDN)</term> <meaning id="fs-id2349123">(also, erythroblastosis fetalis) disorder causing agglutination and hemolysis in an Rh<sup>+</sup> fetus or newborn of an Rh<sup>−</sup> mother</meaning></definition>
+<definition id="fs-id2524132"><term>hemolytic disease of the newborn (HDN)</term> <meaning id="fs-id2349123">(also, erythroblastosis fetalis) disorder causing agglutination and hemolysis in an Rh<sup>+</sup> fetus or newborn of an Rh<sup>−</sup> person</meaning></definition>
 <definition id="fs-id1335568"><term>Rh blood group</term> <meaning id="fs-id2363470">blood-type classification based on the presence or absence of the antigen Rh on the erythrocyte membrane surface</meaning></definition>
 <definition id="fs-id1339500"><term>universal donor</term> <meaning id="fs-id2590692">individual with type O<sup>−</sup> blood</meaning></definition>
 <definition id="fs-id2593900"><term>universal recipient</term> <meaning id="fs-id1472118">individual with type AB<sup>+</sup> blood</meaning></definition>
