@@ -48,7 +48,6 @@
   </m:msub>
   <m:msup>
    <m:mrow/>
-   <m:mo>−</m:mo>
   </m:msup>
  </m:mrow>
 </m:math>), which is a weak acid, and sodium monohydrogen phosphate (<m:math display="left">
@@ -253,10 +252,10 @@
 <m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>
 <m:msub>
    <m:mrow>
-    <m:mtext>NAHCO</m:mtext>
+    <m:mtext>NaHCO</m:mtext>
    </m:mrow>
    <m:mrow>
-    <m:mtext>3-</m:mtext>
+    <m:mtext>3</m:mtext>
    </m:mrow>
   </m:msub>
   <m:msub>
