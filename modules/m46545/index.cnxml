@@ -19,7 +19,6 @@
 <section id="fs-id2492958">
 <title>Oxygen Transport in the Blood</title>
 <para id="fs-id2100829">Even though oxygen is transported via the blood, you may recall that oxygen is not very soluble in liquids. A small amount of oxygen does dissolve in the blood and is transported in the bloodstream, but it is only about 1.5% of the total amount. The majority of oxygen molecules are carried from the lungs to the body’s tissues by a specialized transport system, which relies on the erythrocyte—the red blood cell. Erythrocytes contain a metalloprotein, hemoglobin, which serves to bind oxygen molecules to the erythrocyte (<link target-id="fig-ch23_05_01" document=""/>). Heme is the portion of hemoglobin that contains iron, and it is heme that binds oxygen. Each hemoglobin molecule contains four iron-containing heme molecules, and because of this, one hemoglobin molecule is capable of carrying up to four molecules of oxygen. As oxygen diffuses across the respiratory membrane from the alveolus to the capillary, it also diffuses into the red blood cell and is bound by hemoglobin. The following reversible chemical reaction describes the production of the final product, <term id="term-00001">oxyhemoglobin</term> (HbO<sub>2</sub>), which is formed when oxygen binds to hemoglobin. Oxyhemoglobin is a bright red-colored molecule that contributes to the bright red color of oxygenated blood.</para><equation id="eip-925"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:msub>
     <m:mrow>
@@ -35,8 +34,6 @@
    </m:msub>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeisaiaabkgacaqGGaGaae4kaiaabccacaqGpbWaaSbaaSqaaiaabkdaaeqaaOGaeyiLHSQaaeisaiaabkgacaqGGaGaeyOeI0Iaaeiiaiaab+eadaWgaaWcbaGaaeOmaaqabaaaaa@42D6@</m:annotation>
- </m:semantics>
 </m:math>
 </equation><para id="fs-id2804041">In this formula, Hb represents reduced hemoglobin, that is, hemoglobin that does not have oxygen bound to it. There are multiple factors involved in how readily heme binds to and dissociates from oxygen, which will be discussed in the subsequent sections.</para>
 <figure id="fig-ch23_05_01"><title>Erythrocyte and Hemoglobin </title><media id="fs-id1751352" alt="This diagram shows a red blood cell and the structure of a hemoglobin molecule.">
@@ -93,7 +90,6 @@
 <title>Bicarbonate Buffer</title>
 <para id="fs-id1903912">A large fraction—about 70 percent—of the carbon dioxide molecules that diffuse into the blood is transported to the lungs as bicarbonate. Most bicarbonate is produced in erythrocytes after carbon dioxide diffuses into the capillaries, and subsequently into red blood cells. <term id="term-00004">Carbonic anhydrase (CA)</term> causes carbon dioxide and water to form carbonic acid (H<sub>2</sub>CO<sub>3</sub>), which dissociates into two ions: bicarbonate (HCO<sub>3</sub><sup>–</sup>) and hydrogen (H<sup>+</sup>). The following formula depicts this reaction:</para>
 <equation id="eip-676"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:msub>
     <m:mrow>
@@ -147,8 +143,6 @@
    </m:msub>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaae4qaiaab+eadaWgaaWcbaGaaeOmaaqabaGccaqGGaGaae4kaiaabccacaqGibWaaSbaaSqaaiaabkdaaeqaaOGaae4taiaabccajaaOdaahaaqcbaCabKazbakabaqcba6aa8XbaKazbakabaGaae4qaiaabgeaaiaawgoiaaaakiaabccacaqGibWaaSbaaSqaaiaabkdaaeqaaOGaae4qaiaab+eadaWgaaWcbaGaae4maaqabaGccqGHugYQcaqGibWaaWbaaSqabeaacaqGRaaaaOGaaeiiaiaabUcacaqGGaGaaeisaiaaboeacaqGpbWaaSbaaSqaaiaaiodacqGHsislaeqaaaaa@53ED@</m:annotation>
- </m:semantics>
 </m:math>
 </equation><para id="fs-id2560464">Bicarbonate tends to build up in the erythrocytes, so that there is a greater concentration of bicarbonate in the erythrocytes than in the surrounding blood plasma. As a result, some of the bicarbonate will leave the erythrocytes and move down its concentration gradient into the plasma in exchange for chloride (Cl<sup>–</sup>) ions. This phenomenon is referred to as the <term id="term-00005">chloride shift</term> and occurs because by exchanging one negative ion for another negative ion, neither the electrical charge of the erythrocytes nor that of the blood is altered.</para>
 <para id="fs-id2621229">At the pulmonary capillaries, the chemical reaction that produced bicarbonate (shown above) is reversed, and carbon dioxide and water are the products. Much of the bicarbonate in the plasma re-enters the erythrocytes in exchange for chloride ions. Hydrogen ions and bicarbonate ions join to form carbonic acid, which is converted into carbon dioxide and water by carbonic anhydrase. Carbon dioxide diffuses out of the erythrocytes and into the plasma, where it can further diffuse across the respiratory membrane into the alveoli to be exhaled during pulmonary ventilation.</para>
@@ -157,7 +151,6 @@
 <title>Carbaminohemoglobin</title>
 <para id="fs-id1896772">About 20 percent of carbon dioxide is bound by hemoglobin and is transported to the lungs. Carbon dioxide does not bind to iron as oxygen does; instead, carbon dioxide binds amino acid moieties on the globin portions of hemoglobin to form <term id="term-00006">carbaminohemoglobin</term>, which forms when hemoglobin and carbon dioxide bind. When hemoglobin is not transporting oxygen, it tends to have a bluish-purple tone to it, creating the darker maroon color typical of deoxygenated blood. The following formula depicts this reversible reaction:</para>
 <equation id="eip-548"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:msub>
     <m:mrow>
@@ -173,8 +166,6 @@
    </m:msub>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaae4qaiaab+eadaWgaaWcbaGaaeOmaaqabaGccaqGGaGaae4kaiaabccacaqGibGaaeOyaiabgsziRkaabIeacaqGIbGaae4qaiaab+eadaWgaaWcbaGaaeOmaaqabaaaaa@422F@</m:annotation>
- </m:semantics>
 </m:math>
 </equation><para id="fs-id2350254">Similar to the transport of oxygen by heme, the binding and dissociation of carbon dioxide to and from hemoglobin is dependent on the partial pressure of carbon dioxide. Because carbon dioxide is released from the lungs, blood that leaves the lungs and reaches body tissues has a lower partial pressure of carbon dioxide than is found in the tissues. As a result, carbon dioxide leaves the tissues because of its higher partial pressure, enters the blood, and then moves into red blood cells, binding to hemoglobin. In contrast, in the pulmonary capillaries, the partial pressure of carbon dioxide is high compared to within the alveoli. As a result, carbon dioxide dissociates readily from hemoglobin and diffuses across the respiratory membrane into the air.</para>
 <para id="fs-id2485319">In addition to the partial pressure of carbon dioxide, the oxygen saturation of hemoglobin and the partial pressure of oxygen in the blood also influence the affinity of hemoglobin for carbon dioxide. The <term id="term-00007">Haldane effect</term> is a phenomenon that arises from the relationship between the partial pressure of oxygen and the affinity of hemoglobin for carbon dioxide. Hemoglobin that is saturated with oxygen does not readily bind carbon dioxide. However, when oxygen is not bound to heme and the partial pressure of oxygen is low, hemoglobin readily binds to carbon dioxide.</para>

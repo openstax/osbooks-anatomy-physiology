@@ -46,11 +46,8 @@
    </m:mrow>
    <m:mn>4</m:mn>
   </m:msub>
-  <m:msup>
-   <m:mrow/>
-  </m:msup>
  </m:mrow>
-</m:math>), which is a weak acid, and sodium monohydrogen phosphate (<m:math display="left">
+</m:math>), which is a weak acid, and sodium monohydrogen phosphate (<m:math>
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -68,7 +65,7 @@
  </m:msub>
 
  </m:mrow>
-</m:math>), which is a weak base. When <m:math display="left">
+</m:math>), which is a weak base. When <m:math>
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -378,7 +375,7 @@
 </solution>
 </exercise>
 <exercise id="fs-id2003025">
-<problem id="fs-id2023650"><para id="fs-id1764641">Which reaction is catalyzed by carbonic anhydrase?</para><list id="fs-id1410874" list-type="enumerated" number-style="lower-alpha"><item><m:math display="left">
+<problem id="fs-id2023650"><para id="fs-id1764641">Which reaction is catalyzed by carbonic anhydrase?</para><list id="fs-id1410874" list-type="enumerated" number-style="lower-alpha"><item><m:math>
  <m:mrow>
   <m:msubsup>
    <m:mrow>
@@ -422,7 +419,7 @@
 </m:math>
 </item>
 
-<item><m:math display="left">
+<item><m:math>
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -455,7 +452,7 @@
 </m:math>
 </item>
 
-<item><m:math display="left">
+<item><m:math>
 
   <m:msup>
   <m:mrow>
@@ -505,7 +502,7 @@
 </m:math>
 </item>
 
-<item><m:math display="left">
+<item><m:math>
  <m:mrow>
   <m:msub>
    <m:mtext>H</m:mtext>

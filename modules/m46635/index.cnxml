@@ -36,7 +36,6 @@
 <title>Mean Arterial Pressure</title>
 <para id="fs-id2177683"><term id="term-00007">Mean arterial pressure (MAP)</term> represents the “average” pressure of blood in the arteries, that is, the average force driving blood into vessels that serve the tissues. Mean is a statistical concept and is calculated by taking the sum of the values divided by the number of values. Although complicated to measure directly and complicated to calculate, MAP can be approximated by adding the diastolic pressure to one-third of the pulse pressure or systolic pressure minus the diastolic pressure:</para>
 <para id="fs-id2169609"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:mtext>MAP = diastolic BP + </m:mtext><m:mfrac>
     <m:mrow>
@@ -46,8 +45,6 @@
    </m:mfrac>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeytaiaabgeacaqGqbGaaeiiaiaab2dacaqGGaGaaeizaiaabMgacaqGHbGaae4CaiaabshacaqGVbGaaeiBaiaabMgacaqGJbGaaeiiaiaabkeacaqGqbGaaeiiaiaabUcacaqGGaWaaSaaaeaacaqGOaGaae4CaiaabMhacaqGZbGaaeiDaiaab+gacaqGSbGaaeyAaiaabogacaqGTaGaaeizaiaabMgacaqGHbGaae4CaiaabshacaqGVbGaaeiBaiaabMgacaqGJbGaaeiiaiaabkeacaqGqbGaaeykaaqaaiaabodaaaaaaa@5BD7@</m:annotation>
- </m:semantics>
 </m:math></para><para id="fs-id1478018">In <link target-id="fig-ch21_02_01" document=""/>, this value is approximately 80 + (120 − 80) / 3, or 93.33. Normally, the MAP falls within the range of 70–110 mm Hg. If the value falls below 60 mm Hg for an extended time, blood pressure will not be high enough to ensure circulation to and through the tissues, which results in <term id="term-00008">ischemia</term>, or insufficient blood flow. A condition called <term id="term-00009">hypoxia</term>, inadequate oxygenation of tissues, commonly accompanies ischemia. The term hypoxemia refers to low levels of oxygen in systemic arterial blood. Neurons are especially sensitive to hypoxia and may die or be damaged if blood flow and oxygen supplies are not quickly restored.</para></section>
 </section>
 <section id="fs-id1337968">
@@ -98,7 +95,6 @@
 <para id="fs-id2675192">Poiseuille’s equation:</para>
 
 <equation id="eip-824"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:mtext>Blood flow = </m:mtext><m:mfrac>
     <m:mrow>
@@ -116,8 +112,6 @@
    </m:mfrac>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeOqaiaabYgacaqGVbGaae4BaiaabsgacaqGGaGaaeOzaiaabYgacaqGVbGaae4DaiaabccacaqG9aGaaeiiamaalaaabaGaaeiWdiaabccacaqGuoGaaeiuaiaabccacaqGYbWaaWbaaSqabeaacaqG0aaaaaGcbaGaaeioaiaabE7acaqG7oaaaaaa@4A84@</m:annotation>
- </m:semantics>
 </m:math></equation><list id="eip-517" list-type="bulleted"><item>π is the Greek letter pi, used to represent the mathematical constant that is the ratio of a circle’s circumference to its diameter. It may commonly be represented as 3.14, although the actual number extends to infinity.</item>
 <item>ΔP represents the difference in pressure.</item>
 <item>r<sup>4 </sup>is the radius (one-half of the diameter) of the vessel to the fourth power.</item>
@@ -125,7 +119,6 @@
 <item>λ is the Greek letter lambda and represents the length of a blood vessel.</item></list><para id="fs-id2339510">One of several things this equation allows us to do is calculate the resistance in the vascular system. Normally this value is extremely difficult to measure, but it can be calculated from this known relationship:</para>
 
 <equation id="eip-456"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:mtext>Blood flow = </m:mtext><m:mfrac>
     <m:mrow>
@@ -137,12 +130,9 @@
    </m:mfrac>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeOqaiaabYgacaqGVbGaae4BaiaabsgacaqGGaGaaeOzaiaabYgacaqGVbGaae4DaiaabccacaqG9aGaaeiiamaalaaabaGaaeiLdiaabcfaaeaacaqGsbGaaeyzaiaabohacaqGPbGaae4CaiaabshacaqGHbGaaeOBaiaabogacaqGLbaaaaaa@4C0B@</m:annotation>
- </m:semantics>
 </m:math></equation><para id="fs-id2395114">If we rearrange this slightly,</para>
 
 <equation id="eip-529"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:mtext>Resistance = </m:mtext><m:mfrac>
     <m:mrow>
@@ -154,12 +144,9 @@
    </m:mfrac>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeOuaiaabwgacaqGZbGaaeyAaiaabohacaqG0bGaaeyyaiaab6gacaqGJbGaaeyzaiaabccacaqG9aGaaeiiamaalaaabaGaaeiLdiaabcfaaeaacaqGcbGaaeiBaiaab+gacaqGVbGaaeizaiaabccacaqGMbGaaeiBaiaab+gacaqG3baaaaaa@4C0B@</m:annotation>
- </m:semantics>
 </m:math></equation><para id="fs-id1365136">Then by substituting Pouseille’s equation for blood flow:</para>
 
 <equation id="eip-848"><m:math display="block">
- <m:semantics>
   <m:mrow>
    <m:mtext>Resistance =</m:mtext><m:mfrac>
     <m:mrow>
@@ -177,8 +164,6 @@
    </m:mfrac>
 
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeOuaiaabwgacaqGZbGaaeyAaiaabohacaqG0bGaaeyyaiaab6gacaqGJbGaaeyzaiaabccacaqG9aWaaSaaaeaacaqG4aGaae4TdiaabU7aaeaacaqGapGaaeOCamaaCaaaleqabaGaaeinaaaaaaaaaa@46ED@</m:annotation>
- </m:semantics>
 </m:math></equation><para id="fs-id1390569">By examining this equation, you can see that there are only three variables: viscosity, vessel length, and radius, since 8 and π are both constants. The important thing to remember is this: Two of these variables, viscosity and vessel length, will change slowly in the body. Only one of these factors, the radius, can be changed rapidly by vasoconstriction and vasodilation, thus dramatically impacting resistance and flow. Further, small changes in the radius will greatly affect flow, since it is raised to the fourth power in the equation.</para>
 <para id="fs-id1986982">We have briefly considered how cardiac output and blood volume impact blood flow and pressure; the next step is to see how the other variables (contraction, vessel length, and viscosity) articulate with Pouseille’s equation and what they can teach us about the impact on blood flow.</para>
 </section>

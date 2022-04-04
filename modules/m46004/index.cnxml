@@ -35,8 +35,7 @@
 <title>Characteristics of Chemical Reactions</title>
 <para id="fs-id2081438">All chemical reactions begin with a <term id="term-00004">reactant</term>, the general term for the one or more substances that enter into the reaction. Sodium and chloride ions, for example, are the reactants in the production of table salt. The one or more substances produced by a chemical reaction are called the <term id="term-00005">product</term>.</para>
 <para id="fs-id1383464">In chemical reactions, the components of the reactants—the elements involved and the number of atoms of each—are all present in the product(s). Similarly, there is nothing present in the products that are not present in the reactants. This is because chemical reactions are governed by the law of conservation of mass, which states that matter cannot be created or destroyed in a chemical reaction.</para>
-<para id="fs-id2177278">Just as you can express mathematical calculations in equations such as 2 + 7 = 9, you can use chemical equations to show how reactants become products. As in math, chemical equations proceed from left to right, but instead of an equal sign, they employ an arrow or arrows indicating the direction in which the chemical reaction proceeds. For example, the chemical reaction in which one atom of nitrogen and three atoms of hydrogen produce ammonia would be written as <m:math display="left">
- <m:semantics>
+<para id="fs-id2177278">Just as you can express mathematical calculations in equations such as 2 + 7 = 9, you can use chemical equations to show how reactants become products. As in math, chemical equations proceed from left to right, but instead of an equal sign, they employ an arrow or arrows indicating the direction in which the chemical reaction proceeds. For example, the chemical reaction in which one atom of nitrogen and three atoms of hydrogen produce ammonia would be written as <m:math>
   <m:mrow>
    <m:mtext>N + 3H</m:mtext><m:mo stretchy="false">→</m:mo><m:msub>
     <m:mrow>
@@ -46,10 +45,7 @@
    </m:msub>
    
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaeOtaiaabccacaqGRaGaaeiiaiaabodacaqGibGaeyOKH4QaaeOtaiaabIeadaWgaaWcbaGaae4maaqabaaaaa@3EA4@</m:annotation>
- </m:semantics>
-</m:math>. Correspondingly, the breakdown of ammonia into its components would be written as <m:math display="left">
- <m:semantics>
+</m:math>. Correspondingly, the breakdown of ammonia into its components would be written as <m:math>
   <m:mrow>
    <m:msub>
     <m:mrow>
@@ -59,66 +55,42 @@
    </m:msub>
    <m:mo stretchy="false">→</m:mo><m:mtext>N + 3H.</m:mtext>
   </m:mrow>
- </m:semantics>
-</m:math></para><para id="fs-id2069935">Notice that, in the first example, a nitrogen (N) atom and three hydrogen (H) atoms bond to form a compound. This anabolic reaction requires energy, which is then stored within the compound’s bonds. Such reactions are referred to as synthesis reactions. A <term id="term-00006">synthesis reaction</term> is a chemical reaction that results in the synthesis (joining) of components that were formerly separate (<link target-id="fig-ch02_03_01" document=""/><emphasis effect="bold">a</emphasis>). Again, nitrogen and hydrogen are reactants in a synthesis reaction that yields ammonia as the product. The general equation for a synthesis reaction is <m:math display="left">
- <m:semantics>
+</m:math></para><para id="fs-id2069935">Notice that, in the first example, a nitrogen (N) atom and three hydrogen (H) atoms bond to form a compound. This anabolic reaction requires energy, which is then stored within the compound’s bonds. Such reactions are referred to as synthesis reactions. A <term id="term-00006">synthesis reaction</term> is a chemical reaction that results in the synthesis (joining) of components that were formerly separate (<link target-id="fig-ch02_03_01" document=""/><emphasis effect="bold">a</emphasis>). Again, nitrogen and hydrogen are reactants in a synthesis reaction that yields ammonia as the product. The general equation for a synthesis reaction is <m:math>
   <m:mrow>
    <m:mtext>A + B</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AB.</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacaqGGaGaae4kaiaabccacaqGcbGaeyOKH4Qaaeyqaiaabkeaaaa@3D25@</m:annotation>
- </m:semantics>
+
 </m:math></para><figure id="fig-ch02_03_01"><title>The Three Fundamental Chemical Reactions</title><media id="fs-id1916633" alt="This figure shows three chemical reactions.">
 <image mime-type="image/jpg" src="../../media/211_Three_Fundamental_Chemical_Reactions-01.jpg" width="525"/>
 </media>
-<caption>The atoms and molecules involved in the three fundamental chemical reactions can be imagined as words.</caption></figure><para id="fs-id2152461">In the second example, ammonia is catabolized into its smaller components, and the potential energy that had been stored in its bonds is released. Such reactions are referred to as decomposition reactions. A <term id="term-00007">decomposition reaction</term> is a chemical reaction that breaks down or “de-composes” something larger into its constituent parts (see <link target-id="fig-ch02_03_01" document=""/><emphasis effect="bold">b</emphasis>). The general equation for a decomposition reaction is: <m:math display="left">
- <m:semantics>
+<caption>The atoms and molecules involved in the three fundamental chemical reactions can be imagined as words.</caption></figure><para id="fs-id2152461">In the second example, ammonia is catabolized into its smaller components, and the potential energy that had been stored in its bonds is released. Such reactions are referred to as decomposition reactions. A <term id="term-00007">decomposition reaction</term> is a chemical reaction that breaks down or “de-composes” something larger into its constituent parts (see <link target-id="fig-ch02_03_01" document=""/><emphasis effect="bold">b</emphasis>). The general equation for a decomposition reaction is: <m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>A</m:mtext><m:mo>+</m:mo><m:mtext>B</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacaqGcbGaeyOKH4QaaeyqaiabgUcaRiaabkeaaaa@3C13@</m:annotation>
- </m:semantics>
-</m:math>.</para><para id="fs-id2110634">An <term id="term-00008">exchange reaction</term> is a chemical reaction in which both synthesis and decomposition occur, chemical bonds are both formed and broken, and chemical energy is absorbed, stored, and released (see <link target-id="fig-ch02_03_01" document=""/><emphasis effect="bold">c</emphasis>). The simplest form of an exchange reaction might be: <m:math display="left">
- <m:semantics>
+</m:math>.</para><para id="fs-id2110634">An <term id="term-00008">exchange reaction</term> is a chemical reaction in which both synthesis and decomposition occur, chemical bonds are both formed and broken, and chemical energy is absorbed, stored, and released (see <link target-id="fig-ch02_03_01" document=""/><emphasis effect="bold">c</emphasis>). The simplest form of an exchange reaction might be: <m:math>
   <m:mrow>
    <m:mtext>A</m:mtext><m:mo>+</m:mo><m:mtext>BC</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>C</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacqGHRaWkcaqGcbGaae4qaiabgkziUkaabgeacaqGcbGaey4kaSIaae4qaaaa@3E81@</m:annotation>
- </m:semantics>
-</m:math>. Notice that, to produce these products, B and C had to break apart in a decomposition reaction, whereas A and B had to bond in a synthesis reaction. A more complex exchange reaction might be:<m:math display="left">
- <m:semantics>
+</m:math>. Notice that, to produce these products, B and C had to break apart in a decomposition reaction, whereas A and B had to bond in a synthesis reaction. A more complex exchange reaction might be:<m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>CD</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AC</m:mtext><m:mo>+</m:mo><m:mtext>BD</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacaqGcbGaey4kaSIaae4qaiaabseacqGHsgIRcaqGbbGaae4qaiabgUcaRiaabkeacaqGebaaaa@400F@</m:annotation>
- </m:semantics>
-</m:math>. Another example might be: <m:math display="left">
- <m:semantics>
+</m:math>. Another example might be: <m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>CD</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AD</m:mtext><m:mo>+</m:mo><m:mtext>BC</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacaqGcbGaey4kaSIaae4qaiaabseacqGHsgIRcaqGbbGaaeiraiabgUcaRiaabkeacaqGdbaaaa@400F@</m:annotation>
- </m:semantics>
-</m:math>.</para><para id="fs-id1618560">In theory, any chemical reaction can proceed in either direction under the right conditions. Reactants may synthesize into a product that is later decomposed. Reversibility is also a quality of exchange reactions. For instance, <m:math display="left">
- <m:semantics>
+</m:math>.</para><para id="fs-id1618560">In theory, any chemical reaction can proceed in either direction under the right conditions. Reactants may synthesize into a product that is later decomposed. Reversibility is also a quality of exchange reactions. For instance, <m:math>
   <m:mrow>
    <m:mtext>A</m:mtext><m:mo>+</m:mo><m:mtext>BC</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>C</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacqGHRaWkcaqGcbGaae4qaiabgkziUkaabgeacaqGcbGaey4kaSIaae4qaaaa@3E81@</m:annotation>
- </m:semantics>
-</m:math> could then reverse to <m:math display="left">
- <m:semantics>
+</m:math> could then reverse to <m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>C</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>A</m:mtext><m:mo>+</m:mo><m:mtext>BC</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacaqGcbGaey4kaSIaae4qaiabgkziUkaabgeacqGHRaWkcaqGcbGaae4qaaaa@3E81@</m:annotation>
- </m:semantics>
-</m:math>. This reversibility of a chemical reaction is indicated with a double arrow: <m:math display="left">
- <m:semantics>
+</m:math>. This reversibility of a chemical reaction is indicated with a double arrow: <m:math>
   <m:mrow>
    <m:mtext>A</m:mtext><m:mo>+</m:mo><m:mtext>BC</m:mtext><m:mo stretchy="false">⇄</m:mo><m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>C</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacqGHRaWkcaqGcbGaae4qaiablsCiakaabgeacaqGcbGaey4kaSIaae4qaaaa@3E8A@</m:annotation>
- </m:semantics>
 </m:math>. Still, in the human body, many chemical reactions do proceed in a predictable direction, either one way or the other. You can think of this more predictable path as the path of least resistance because, typically, the alternate direction requires more energy.</para></section>
 <section id="fs-id1616095">
 <title>Factors Influencing the Rate of Chemical Reactions</title>
@@ -185,13 +157,10 @@
 </solution>
 </exercise>
 <exercise id="fs-id1488494">
-<problem id="fs-id1470242"><para id="fs-id1938324"><m:math display="left">
- <m:semantics>
+<problem id="fs-id1470242"><para id="fs-id1938324"><m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>A</m:mtext><m:mo>+</m:mo><m:mtext>B</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaqcaaKaaeyqaiaabkeacqGHsgIRcaqGbbGaey4kaSIaaeOqaaaa@3C1D@</m:annotation>
- </m:semantics>
 </m:math> is a general notation for a(n) ________ reaction.</para><list id="fs-id2443794" list-type="enumerated" number-style="lower-alpha">
 <item>anabolic</item>
 <item>endergonic</item>
@@ -250,30 +219,21 @@
 <section id="fs-id2340988" class="free-response">
 <title>Critical Thinking Questions</title>
 <exercise id="fs-id1885918">
-<problem id="fs-id1358455"><para id="fs-id2164806"><m:math display="left">
- <m:semantics>
+<problem id="fs-id1358455"><para id="fs-id2164806"><m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>CD</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AD</m:mtext><m:mo>+</m:mo><m:mtext>BE</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaqcaauaaiaabgeacaqGcbGaey4kaSIaae4qaiaabseacqGHsgIRcaqGbbGaaeiraiabgUcaRiaabkeacaqGfbaaaa@4011@</m:annotation>
- </m:semantics>
 </m:math>
 Is this a legitimate example of an exchange reaction? Why or why not?</para></problem>
 <solution id="fs-id2741285"><label/>
-<para id="fs-id2080388">It is not. An exchange reaction might be <m:math display="left">
- <m:semantics>
+<para id="fs-id2080388">It is not. An exchange reaction might be <m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>CD</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AC</m:mtext><m:mo>+</m:mo><m:mtext>BD</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaqcaaKaaeyqaiaabkeacqGHRaWkcaqGdbGaaeiraiabgkziUkaabgeacaqGdbGaey4kaSIaaeOqaiaabseaaaa@4019@</m:annotation>
- </m:semantics>
-</m:math> or <m:math display="left">
- <m:semantics>
+</m:math> or <m:math>
   <m:mrow>
    <m:mtext>AB</m:mtext><m:mo>+</m:mo><m:mtext>CD</m:mtext><m:mo stretchy="false">→</m:mo><m:mtext>AD</m:mtext><m:mo>+</m:mo><m:mtext>BC</m:mtext>
   </m:mrow>
-  <m:annotation encoding="MathType-MTEF">MathType@MTEF@5@5@+=feaagyart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLnhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9vqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=xfr=xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaqcaaKaaeyqaiaabkeacqGHRaWkcaqGdbGaaeiraiabgkziUkaabgeacaqGebGaey4kaSIaaeOqaiaaboeaaaa@4019@</m:annotation>
- </m:semantics>
 </m:math>. In all chemical reactions, including exchange reactions, the components of the reactants are identical to the components of the products. A component present among the reactants cannot disappear, nor can a component not present in the reactants suddenly appear in the products.</para></solution>
 </exercise>
 <exercise id="fs-id2526180">
