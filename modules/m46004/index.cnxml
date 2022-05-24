@@ -61,7 +61,7 @@
   </m:mrow>
 
 </m:math></para><figure id="fig-ch02_03_01"><title>The Three Fundamental Chemical Reactions</title><media id="fs-id1916633" alt="This figure shows three chemical reactions.">
-<image mime-type="image/jpg" src="../../media/211_Three_Fundamental_Chemical_Reactions-01.jpg" width="525"/>
+<image mime-type="image/jpg" src="../../media/211_Three_Fundamental_Chemical_Reactions-01.jpg"/>
 </media>
 <caption>The atoms and molecules involved in the three fundamental chemical reactions can be imagined as words.</caption></figure><para id="fs-id2152461">In the second example, ammonia is catabolized into its smaller components, and the potential energy that had been stored in its bonds is released. Such reactions are referred to as decomposition reactions. A <term id="term-00007">decomposition reaction</term> is a chemical reaction that breaks down or “de-composes” something larger into its constituent parts (see <link target-id="fig-ch02_03_01" document=""/><emphasis effect="bold">b</emphasis>). The general equation for a decomposition reaction is: <m:math>
   <m:mrow>
@@ -114,7 +114,7 @@
 <para id="fs-id2371267">In chemistry, a <term id="term-00010">catalyst</term> is a substance that increases the rate of a chemical reaction without itself undergoing any change. You can think of a catalyst as a chemical change agent. They help increase the rate and force at which atoms, ions, and molecules collide, thereby increasing the probability that their valence shell electrons will interact.</para>
 <para id="fs-id1855242">The most important catalysts in the human body are enzymes. An <term id="term-00011">enzyme</term> is a catalyst composed of protein or ribonucleic acid (RNA), both of which will be discussed later in this chapter. Like all catalysts, enzymes work by lowering the level of energy that needs to be invested in a chemical reaction. A chemical reaction’s <term id="term-00012">activation energy</term> is the “threshold” level of energy needed to break the bonds in the reactants. Once those bonds are broken, new arrangements can form. Without an enzyme to act as a catalyst, a much larger investment of energy is needed to ignite a chemical reaction (<link target-id="fig-ch02_03_02" document=""/>).</para>
 <figure id="fig-ch02_03_02"><title>Enzymes </title><media id="fs-id2025561" alt="The left panel shows a graph of energy versus progress of reaction in the absence of enzymes. The right panel shows the graph in the presence of enzymes.">
-<image mime-type="image/jpg" src="../../media/212_Enzymes-01.jpg" width="530"/>
+<image mime-type="image/jpg" src="../../media/212_Enzymes-01.jpg"/>
 </media>
 <caption>Enzymes decrease the activation energy required for a given chemical reaction to occur. (a) Without an enzyme, the energy input needed for a reaction to begin is high. (b) With the help of an enzyme, less energy is needed for a reaction to begin.</caption></figure><para id="fs-id2151113">Enzymes are critical to the body’s healthy functioning. They assist, for example, with the breakdown of food and its conversion to energy. In fact, most of the chemical reactions in the body are facilitated by enzymes.</para>
 </section>

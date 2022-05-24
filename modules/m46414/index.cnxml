@@ -249,7 +249,7 @@
 <title>Aldosterone</title>
 <para id="fs-id1896420">Recall that aldosterone increases the excretion of potassium and the reabsorption of sodium in the distal tubule. Aldosterone is released if blood levels of potassium increase, if blood levels of sodium severely decrease, or if blood pressure decreases. Its net effect is to conserve and increase water levels in the plasma by reducing the excretion of sodium, and thus water, from the kidneys. In a negative feedback loop, increased osmolality of the ECF (which follows aldosterone-stimulated sodium absorption) inhibits the release of the hormone (<link target-id="fig-ch27_03_01" document=""/>).</para>
 <figure id="fig-ch27_03_01"><title>The Aldosterone Feedback Loop </title><media id="fs-id1410874" alt="This flow chart shows how potassium and sodium ion concentrations in the blood are regulated by aldosterone. Rising K plus and falling NA plus levels in the blood trigger aldosterone release from the adrenal cortex. Aldosterone targets the kidneys, causing a decrease in K plus release from the kidneys, which reduces the amount of K plus in the blood back to homeostatic levels. Aldosterone also increases sodium reabsorption by the kidneys, which increases the amount of NA plus in the blood back to homeostatic levels.">
-<image mime-type="image/jpeg" src="../../media/2711_Aldosterone_Feedback_Loop-01.jpg" width="250"/>
+<image mime-type="image/jpeg" src="../../media/2711_Aldosterone_Feedback_Loop-01.jpg"/>
 </media>
 
 <caption>Aldosterone, which is released by the adrenal gland, facilitates reabsorption of Na<sup>+</sup> and thus the reabsorption of water.</caption></figure></section>
@@ -259,7 +259,7 @@
 <para id="fs-id1652355">In the distal convoluted tubules and collecting ducts of the kidneys, aldosterone stimulates the synthesis and activation of the sodium-potassium pump (<link target-id="fig-ch27_03_02" document=""/>). Sodium passes from the filtrate, into and through the cells of the tubules and ducts, into the ECF and then into capillaries. Water follows the sodium due to osmosis. Thus, aldosterone causes an increase in blood sodium levels and blood volume. Aldosterone’s effect on potassium is the reverse of that of sodium; under its influence, excess potassium is pumped into the renal filtrate for excretion from the body.</para>
 
 <figure id="fig-ch27_03_02"><title>The Renin-Angiotensin System </title><media id="fs-id1836522" alt="This figure shows the hormone cascade that that increases kidney reabsorption of NA plus and water. In the first step, the kidneys release renin into the blood stream. The blood stream is depicted with a red arrow pointing from left to right. At the same time, the liver releases angiotensinogen into the blood, which combines with the renin, yielding angiotensin one. The blood flow then leads to the lungs. Within the pulmonary blood, angiotensin-converting enzyme (ACE) converts angiotensin one to angiotensin two. The blood then flows to the adrenal cortex, where angiotensin two stimulates the adrenal cortex to secrete aldosterone. Aldosterone causes the kidney tubules to increase reabsorption of NA plus and water into the blood.">
-<image mime-type="image/jpg" src="../../media/2712_Renin_Angiotensin_System-01.jpg" width="550"/>
+<image mime-type="image/jpg" src="../../media/2712_Renin_Angiotensin_System-01.jpg"/>
 </media>
 <caption>Angiotensin II stimulates the release of aldosterone from the adrenal cortex.</caption></figure></section>
 </section>

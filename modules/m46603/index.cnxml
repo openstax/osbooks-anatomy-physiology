@@ -88,7 +88,7 @@
 </table>
 <para id="fs-id2489067">Three homeostatic mechanisms ensure adequate blood flow, blood pressure, distribution, and ultimately perfusion: neural, endocrine, and autoregulatory mechanisms. They are summarized in <link target-id="fig-ch21_04_01" document=""/>.</para>
 <figure id="fig-ch21_04_01"><title>Summary of Factors Maintaining Vascular Homeostasis </title><media id="fs-id3335885" alt="This flowchart shows the various factors that control the flow of blood. The top panel focuses on autoregulation, and the bottom panel focuses on neural and endocrine mechanisms.">
-<image mime-type="image/jpg" src="../../media/2115_Vascular_Homeostasis_Flow_Art.jpg" width="580"/>
+<image mime-type="image/jpg" src="../../media/2115_Vascular_Homeostasis_Flow_Art.jpg"/>
 </media>
 <caption>Adequate blood flow, blood pressure, distribution, and perfusion involve autoregulatory, neural, and endocrine mechanisms.</caption></figure><section id="fs-id2173498">
 <title>Neural Regulation</title>
@@ -114,7 +114,7 @@
 <item>When blood pressure drops too low, the rate of baroreceptor firing decreases. This will trigger an increase in sympathetic stimulation of the heart, causing cardiac output to increase. It will also trigger sympathetic stimulation of the peripheral vessels, resulting in vasoconstriction. Combined, these activities cause blood pressure to rise.</item>
 </list>
 <figure id="fig-ch21_04_02"><title>Baroreceptor Reflexes for Maintaining Vascular Homeostasis </title><media id="fs-id1793370" alt="This flow chart shows what happens when blood pressure is increased or decreased. The top panel shows the events that take place when blood pressure is increased, and the bottom panel shows the events that take place when blood pressure is decreased.">
-<image mime-type="image/jpg" src="../../media/2116_Baroreceptor_Reflex_Flow_Art.jpg" width="530"/>
+<image mime-type="image/jpg" src="../../media/2116_Baroreceptor_Reflex_Flow_Art.jpg"/>
 </media>
 <caption>Increased blood pressure results in increased rates of baroreceptor firing, whereas decreased blood pressure results in slower rates of fire, both initiating the homeostatic mechanism to restore blood pressure.</caption></figure><para id="fs-id1537735">The baroreceptors in the venae cavae and right atrium monitor blood pressure as the blood returns to the heart from the systemic circulation. Normally, blood flow into the aorta is the same as blood flow back into the right atrium. If blood is returning to the right atrium more rapidly than it is being ejected from the left ventricle, the atrial receptors will stimulate the cardiovascular centers to increase sympathetic firing and increase cardiac output until homeostasis is achieved. The opposite is also true. This mechanism is referred to as the <term id="term-00003">atrial reflex</term>.</para>
 </section>
@@ -141,7 +141,7 @@
 <para id="fs-id2025984">The renin-angiotensin-aldosterone mechanism has a major effect upon the cardiovascular system (<link target-id="fig-ch21_04_03" document=""/>). Renin is an enzyme, although because of its importance in the renin-angiotensin-aldosterone pathway, some sources identify it as a hormone. Specialized cells in the kidneys , called juxtaglomerular (JG) cells, respond to decreased blood pressure by secreting renin into the blood. Renin converts the plasma protein angiotensinogen, which is produced by the liver, into its active form—angiotensin I. Angiotensin I circulates in the blood and is then converted into angiotensin II in the lungs. This reaction is catalyzed by the enzyme angiotensin-converting enzyme (ACE).</para>
 <para id="fs-id1721006">Angiotensin II is a powerful vasoconstrictor, greatly increasing blood pressure. It also stimulates the release of ADH and aldosterone, a hormone produced by the adrenal cortex. Aldosterone increases the reabsorption of sodium into the blood by the kidneys. Since water follows sodium, this increases the reabsorption of water. This in turn increases blood volume, raising blood pressure. Angiotensin II also stimulates the thirst center in the hypothalamus, so an individual will likely consume more fluids, again increasing blood volume and pressure.</para>
 <figure id="fig-ch21_04_03"><title>Hormones Involved in Renal Control of Blood Pressure </title><media id="fs-id1606632" alt="This flow chart shows the action of decreased blood pressure in the short and long term.">
-<image mime-type="image/jpg" src="../../media/2117_Renin_Angiotensin_Aldosterone_Pathway.jpg" width="560"/>
+<image mime-type="image/jpg" src="../../media/2117_Renin_Angiotensin_Aldosterone_Pathway.jpg"/>
 </media>
 <caption>In the renin-angiotensin-aldosterone mechanism, increasing angiotensin II will stimulate the production of antidiuretic hormone and aldosterone. In addition to renin, the kidneys produce erythropoietin, which stimulates the production of red blood cells, further increasing blood volume.</caption></figure></section>
 <section id="fs-id1273892">
@@ -171,7 +171,7 @@
 <para id="fs-id2366146">When blood flow is low, the vessel’s smooth muscle will be only minimally stretched. In response, it relaxes, allowing the vessel to dilate and thereby increase the movement of blood into the tissue. When blood flow is too high, the smooth muscle will contract in response to the increased stretch, prompting vasoconstriction that reduces blood flow.</para>
 <para id="fs-id2507382"><link target-id="fig-ch21_04_04" document=""/> summarizes the effects of nervous, endocrine, and local controls on arterioles.</para>
 <figure id="fig-ch21_04_04"><title>Summary of Mechanisms Regulating Arteriole Smooth Muscle and Veins </title><media id="fs-id1390569" alt="This table summarizes mechanisms that regulate arteriole smooth muscle and veins. Neural controls are regulated by sympathetic stimulation and parasympathetic. Endocrine controls are regulated by epinephrine, norepinephrine, angiotensin II, ANH (peptide), and ADH. Other factors include decreasing levels of oxygen, decreasing pH, increasing levels of carbon dioxide, increasing levels of potassium ion, increasing levels of prostaglandins, increasing levels of andenosine, increasing levels of NO, increasing levels of lactic acid and other metabolites, increasing levels of endothelins, increasing levels of platelet secretions, increasing hyperhtermia, stretching of vascular wall (myogenic), and increasing levels of histamines from basophils and mast cells.">
-<image mime-type="image/jpg" src="../../media/2143_Mechanism_Regulating_Arteries_and_Veins.jpg" width="520"/>
+<image mime-type="image/jpg" src="../../media/2143_Mechanism_Regulating_Arteries_and_Veins.jpg"/>
 </media></figure></section>
 </section>
 <section id="fs-id1504033">
@@ -200,7 +200,7 @@
 <para id="fs-id2544137">In response to blood loss, stimuli from the baroreceptors trigger the cardiovascular centers to stimulate sympathetic responses to increase cardiac output and vasoconstriction. This typically prompts the heart rate to increase to about 180–200 contractions per minute, restoring cardiac output to normal levels. Vasoconstriction of the arterioles increases vascular resistance, whereas constriction of the veins increases venous return to the heart. Both of these steps will help increase blood pressure. Sympathetic stimulation also triggers the release of epinephrine and norepinephrine, which enhance both cardiac output and vasoconstriction. If blood loss were less than 20 percent of total blood volume, these responses together would usually return blood pressure to normal and redirect the remaining blood to the tissues.</para>
 <para id="fs-id2165845">Additional endocrine involvement is necessary, however, to restore the lost blood volume. The angiotensin-renin-aldosterone mechanism stimulates the thirst center in the hypothalamus, which increases fluid consumption to help restore the lost blood. More importantly, it increases renal reabsorption of sodium and water, reducing water loss in urine output. The kidneys also increase the production of EPO, stimulating the formation of erythrocytes that not only deliver oxygen to the tissues but also increase overall blood volume. <link target-id="fig-ch21_04_05" document=""/> summarizes the responses to loss of blood volume.</para>
 <figure id="fig-ch21_04_05"><title>Homeostatic Responses to Loss of Blood Volume </title><media id="fs-id1793672" alt="This flowchart shows the action of decreased blood pressure and volume in the neural and endocrine mechanisms.">
-<image mime-type="image/jpg" src="../../media/2118_Blood_Volume_Loss_and_Homeostasis.jpg" width="490"/>
+<image mime-type="image/jpg" src="../../media/2118_Blood_Volume_Loss_and_Homeostasis.jpg"/>
 </media></figure></section>
 <section id="fs-id2008487">
 <title>Circulatory Shock</title>

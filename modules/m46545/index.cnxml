@@ -37,7 +37,7 @@
 </m:math>
 </equation><para id="fs-id2804041">In this formula, Hb represents reduced hemoglobin, that is, hemoglobin that does not have oxygen bound to it. There are multiple factors involved in how readily heme binds to and dissociates from oxygen, which will be discussed in the subsequent sections.</para>
 <figure id="fig-ch23_05_01"><title>Erythrocyte and Hemoglobin </title><media id="fs-id1751352" alt="This diagram shows a red blood cell and the structure of a hemoglobin molecule.">
-<image mime-type="image/jpg" src="../../media/2322_Fig_23.22-a.jpg" width="300"/>
+<image mime-type="image/jpg" src="../../media/2322_Fig_23.22-a.jpg"/>
 </media>
 <caption>Hemoglobin consists of four subunits, each of which contains one molecule of iron.</caption></figure><section id="fs-id2531372">
 <title>Function of Hemoglobin</title>
@@ -49,19 +49,19 @@
 <figure id="fig-ch23_05_02" orient="vertical"><title>Oxygen-Hemoglobin Dissociation and Effects of pH and Temperature </title><subfigure id="fs-id1993063">
 <label/>
 <media id="fs-id1754496" alt="The top panel of this figure shows a graph with oxygen saturation of the y-axis and partial pressure of oxygen on the x-axis.">
-<image mime-type="image/jpg" src="../../media/2323_Oxygen-hemoglobin_Dissociation-a.jpg" width="400"/>
+<image mime-type="image/jpg" src="../../media/2323_Oxygen-hemoglobin_Dissociation-a.jpg"/>
 </media>
 </subfigure>
 <subfigure id="fs-id2137210">
 <label/>
 <media id="fs-id1991851" alt="The middle panel shows oxygen saturation versus partial pressure of oxygen as a function of pH.">
-<image mime-type="image/jpg" src="../../media/2323_Oxygen-hemoglobin_Dissociation-b.jpg" width="400"/>
+<image mime-type="image/jpg" src="../../media/2323_Oxygen-hemoglobin_Dissociation-b.jpg"/>
 </media>
 </subfigure>
 <subfigure id="fs-id1389684">
 <label/>
 <media id="fs-id1259250" alt="The bottom panel shows the same relationship as a function of temperature.">
-<image mime-type="image/jpg" src="../../media/2323_Oxygen-hemoglobin_Dissociation-c.jpg" width="400"/>
+<image mime-type="image/jpg" src="../../media/2323_Oxygen-hemoglobin_Dissociation-c.jpg"/>
 </media>
 </subfigure>
 
@@ -72,7 +72,7 @@
 <title>Hemoglobin of the Fetus</title>
 <para id="fs-id2026710">The fetus has its own circulation with its own erythrocytes; however, it is dependent on the pregnant person for oxygen. Blood is supplied to the fetus by way of the umbilical cord, which is connected to the placenta and separated from maternal blood by the chorion. The mechanism of gas exchange at the chorion is similar to gas exchange at the respiratory membrane. However, the partial pressure of oxygen is lower in the maternal blood in the placenta, at about 35 to 50 mm Hg, than it is in maternal arterial blood. The difference in partial pressures between maternal and fetal blood is not large, as the partial pressure of oxygen in fetal blood at the placenta is about 20 mm Hg. Therefore, there is not as much diffusion of oxygen into the fetal blood supply. The fetus’ hemoglobin overcomes this problem by having a greater affinity for oxygen than maternal hemoglobin (<link target-id="fig-ch23_05_03" document=""/>). Both fetal and adult hemoglobin have four subunits, but two of the subunits of fetal hemoglobin have a different structure that causes fetal hemoglobin to have a greater affinity for oxygen than does adult hemoglobin.</para>
 <figure id="fig-ch23_05_03"><title>Oxygen-Hemoglobin Dissociation Curves in Fetus and Adult</title><media id="fs-id2728343" alt="This graph shows the oxygen saturation versus the partial pressure of oxygen in fetal hemoglobin and adult hemoglobin.">
-<image mime-type="image/jpg" src="../../media/2324_Oxygen-hemoglobin_Dissociation_Fetus_Adult.jpg" width="430"/>
+<image mime-type="image/jpg" src="../../media/2324_Oxygen-hemoglobin_Dissociation_Fetus_Adult.jpg"/>
 </media>
 <caption>Fetal hemoglobin has a greater affinity for oxygen than does adult hemoglobin.</caption></figure></section>
 </section>
@@ -80,7 +80,7 @@
 <title>Carbon Dioxide Transport in the Blood</title>
 <para id="fs-id1524921">Carbon dioxide is transported by three major mechanisms. The first mechanism of carbon dioxide transport is by blood plasma, as some carbon dioxide molecules dissolve in the blood. The second mechanism is transport in the form of bicarbonate (HCO<sub>3</sub><sup>–</sup>), which also dissolves in plasma. The third mechanism of carbon dioxide transport is similar to the transport of oxygen by erythrocytes (<link target-id="fig-ch23_05_04" document=""/>).</para>
 <figure id="fig-ch23_05_04"><title>Carbon Dioxide Transport</title><media id="fs-id1882371" alt="This figure shows how carbon dioxide is transported from the tissue to the red blood cell.">
-<image mime-type="image/jpg" src="../../media/2325_Carbon_Dioxide_Transport.jpg" width="435"/>
+<image mime-type="image/jpg" src="../../media/2325_Carbon_Dioxide_Transport.jpg"/>
 </media>
 <caption>Carbon dioxide is transported by three different methods: (a) in erythrocytes; (b) after forming carbonic acid (H<sub>2</sub>CO<sub>3</sub> ), which is dissolved in plasma; (c) and in plasma.</caption></figure><section id="fs-id2240689">
 <title>Dissolved Carbon Dioxide</title>
