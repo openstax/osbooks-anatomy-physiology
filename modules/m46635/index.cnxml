@@ -35,17 +35,10 @@
 <section id="fs-id1745200">
 <title>Mean Arterial Pressure</title>
 <para id="fs-id2177683"><term id="term-00007">Mean arterial pressure (MAP)</term> represents the “average” pressure of blood in the arteries, that is, the average force driving blood into vessels that serve the tissues. Mean is a statistical concept and is calculated by taking the sum of the values divided by the number of values. Although complicated to measure directly and complicated to calculate, MAP can be approximated by adding the diastolic pressure to one-third of the pulse pressure or systolic pressure minus the diastolic pressure:</para>
-<para id="fs-id2169609"><m:math display="block">
-  <m:mrow>
-   <m:mtext>MAP = diastolic BP + </m:mtext><m:mfrac>
-    <m:mrow>
-     <m:mtext>(systolic-diastolic BP)</m:mtext>
-    </m:mrow>
-    <m:mtext>3</m:mtext>
-   </m:mfrac>
-
-  </m:mrow>
-</m:math></para><para id="fs-id1478018">In <link target-id="fig-ch21_02_01" document=""/>, this value is approximately 80 + (120 − 80) / 3, or 93.33. Normally, the MAP falls within the range of 70–110 mm Hg. If the value falls below 60 mm Hg for an extended time, blood pressure will not be high enough to ensure circulation to and through the tissues, which results in <term id="term-00008">ischemia</term>, or insufficient blood flow. A condition called <term id="term-00009">hypoxia</term>, inadequate oxygenation of tissues, commonly accompanies ischemia. The term hypoxemia refers to low levels of oxygen in systemic arterial blood. Neurons are especially sensitive to hypoxia and may die or be damaged if blood flow and oxygen supplies are not quickly restored.</para></section>
+<para id="fs-id2169609">
+  <m:math display="block"><m:mtable><m:mtr><m:mtd><m:mtext>MAP&#xA0;=&#xA0;diastolic&#xA0;BP&#xA0;+&#xA0;</m:mtext><m:mfrac><m:mtext>(systolic&#xA0;BP-diastolic&#xA0;BP)</m:mtext><m:mi mathvariant="normal">3</m:mi></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd><m:mi mathvariant="bold">or</m:mi></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>MAP&#xA0;=&#xA0;diastolic&#xA0;BP&#xA0;+&#xA0;</m:mtext><m:mo>&#xA0;</m:mo><m:mfrac><m:mrow><m:mo>(</m:mo><m:mtext>pulse&#xA0;pressure</m:mtext><m:mo>)</m:mo></m:mrow><m:mn>3</m:mn></m:mfrac></m:mtd></m:mtr></m:mtable></m:math>
+</para>
+<para id="fs-id1478018">In <link target-id="fig-ch21_02_01" document=""/>, this value is approximately 80 + (120 − 80) / 3, or 93.33. Normally, the MAP falls within the range of 70–110 mm Hg. If the value falls below 60 mm Hg for an extended time, blood pressure will not be high enough to ensure circulation to and through the tissues, which results in <term id="term-00008">ischemia</term>, or insufficient blood flow. A condition called <term id="term-00009">hypoxia</term>, inadequate oxygenation of tissues, commonly accompanies ischemia. The term hypoxemia refers to low levels of oxygen in systemic arterial blood. Neurons are especially sensitive to hypoxia and may die or be damaged if blood flow and oxygen supplies are not quickly restored.</para></section>
 </section>
 <section id="fs-id1337968">
 <title>Pulse</title>
