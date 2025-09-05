@@ -161,7 +161,7 @@
 <tbody>
 <row>
 <entry>Thenar muscles</entry>
-<entry>Moves thumb toward body</entry>
+<entry>Moves thumb away from body</entry>
 <entry>Thumb</entry>
 <entry>Abduction</entry>
 <entry>Abductor pollicis brevis</entry>
@@ -188,7 +188,7 @@
 </row>
 <row>
 <entry>Thenar muscles</entry>
-<entry>Moves thumb away from body</entry>
+<entry>Moves thumb toward body</entry>
 <entry>Thumb</entry>
 <entry>Adduction</entry>
 <entry>Adductor pollicis</entry> 
@@ -197,7 +197,7 @@
 </row>
 <row>
 <entry>Hypothenar muscles</entry>
-<entry>Moves little finger toward body</entry>
+<entry>Moves little finger away from body</entry>
 <entry>Little finger</entry>
 <entry>Abduction</entry>
 <entry>Abductor digiti minimi</entry> 
