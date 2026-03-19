@@ -7,7 +7,7 @@ _Anatomy and Physiology 2e_ is a textbook published by [OpenStax](https://openst
 The book can be viewed [online](https://openstax.org/details/books/anatomy-and-physiology-2e), where you can also see a list of contributors.
 
 ## License
-_Anatomy and Physiology 2e_ is available under the [Creative Commons Attribution License](./LICENSE) license.
+_Anatomy and Physiology 2e_ is available under the [Creative Commons Attribution-NonCommercial-ShareAlike License](./LICENSE) license.
 
 ## Support
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
