@@ -18,7 +18,8 @@
 <para id="fs-id2867338">The other major activity in the lungs is the process of respiration, the process of gas exchange. The function of respiration is to provide oxygen for use by body cells during cellular respiration and to eliminate carbon dioxide, a waste product of cellular respiration, from the body. In order for the exchange of oxygen and carbon dioxide to occur, both gases must be transported between the external and internal respiration sites. Although carbon dioxide is more soluble than oxygen in blood, both gases require a specialized transport system for the majority of the gas molecules to be moved between the lungs and other tissues.</para>
 <section id="fs-id2492958">
 <title>Oxygen Transport in the Blood</title>
-<para id="fs-id2100829">Even though oxygen is transported via the blood, you may recall that oxygen is not very soluble in liquids. A small amount of oxygen does dissolve in the blood and is transported in the bloodstream, but it is only about 1.5% of the total amount. The majority of oxygen molecules are carried from the lungs to the body’s tissues by a specialized transport system, which relies on the erythrocyte—the red blood cell. Erythrocytes contain a metalloprotein, hemoglobin, which serves to bind oxygen molecules to the erythrocyte (<link target-id="fig-ch23_05_01" document=""/>). Heme is the portion of hemoglobin that contains iron, and it is heme that binds oxygen. Each hemoglobin molecule contains four iron-containing heme molecules, and because of this, one hemoglobin molecule is capable of carrying up to four molecules of oxygen. As oxygen diffuses across the respiratory membrane from the alveolus to the capillary, it also diffuses into the red blood cell and is bound by hemoglobin. The following reversible chemical reaction describes the production of the final product, <term id="term-00001">oxyhemoglobin</term> (HbO<sub>2</sub>), which is formed when oxygen binds to hemoglobin. Oxyhemoglobin is a bright red-colored molecule that contributes to the bright red color of oxygenated blood.</para><equation id="eip-925"><m:math display="block">
+<para id="fs-id2100829">Even though oxygen is transported via the blood, you may recall that oxygen is not very soluble in liquids. A small amount of oxygen does dissolve in the blood and is transported in the bloodstream, but it is only about 1.5% of the total amount. The majority of oxygen molecules are carried from the lungs to the body’s tissues by a specialized transport system, which relies on the erythrocyte—the red blood cell. Erythrocytes contain a metalloprotein, hemoglobin, which serves to bind oxygen molecules to the erythrocyte (<link target-id="fig-ch23_05_01" document=""/>). Heme is the portion of hemoglobin that contains iron, and it is heme that binds oxygen. Each hemoglobin molecule contains four iron-containing heme molecules, and because of this, one hemoglobin molecule is capable of carrying up to four molecules of oxygen. As oxygen diffuses across the respiratory membrane from the alveolus to the capillary, it also diffuses into the red blood cell and is bound by hemoglobin. The following reversible chemical reaction describes the production of the final product, <term id="term-00001">oxyhemoglobin</term> (HbO<sub>2</sub>), which is formed when oxygen binds to hemoglobin. Oxyhemoglobin is a bright red-colored molecule that contributes to the bright red color of oxygenated blood.</para>
+<equation id="eip-925" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:msub>
     <m:mrow>
@@ -89,7 +90,7 @@
 <section id="fs-id2639476">
 <title>Bicarbonate Buffer</title>
 <para id="fs-id1903912">A large fraction—about 70 percent—of the carbon dioxide molecules that diffuse into the blood is transported to the lungs as bicarbonate. Most bicarbonate is produced in erythrocytes after carbon dioxide diffuses into the capillaries, and subsequently into red blood cells. <term id="term-00004">Carbonic anhydrase (CA)</term> causes carbon dioxide and water to form carbonic acid (H<sub>2</sub>CO<sub>3</sub>), which dissociates into two ions: bicarbonate (HCO<sub>3</sub><sup>–</sup>) and hydrogen (H<sup>+</sup>). The following formula depicts this reaction:</para>
-<equation id="eip-676"><m:math display="block">
+<equation id="eip-676" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:msub>
     <m:mrow>
@@ -150,7 +151,7 @@
 <section id="fs-id2522864">
 <title>Carbaminohemoglobin</title>
 <para id="fs-id1896772">About 20 percent of carbon dioxide is bound by hemoglobin and is transported to the lungs. Carbon dioxide does not bind to iron as oxygen does; instead, carbon dioxide binds amino acid moieties on the globin portions of hemoglobin to form <term id="term-00006">carbaminohemoglobin</term>, which forms when hemoglobin and carbon dioxide bind. When hemoglobin is not transporting oxygen, it tends to have a bluish-purple tone to it, creating the darker maroon color typical of deoxygenated blood. The following formula depicts this reversible reaction:</para>
-<equation id="eip-548"><m:math display="block">
+<equation id="eip-548" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:msub>
     <m:mrow>

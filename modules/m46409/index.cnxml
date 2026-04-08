@@ -115,7 +115,7 @@
  </m:msub>
 
  </m:mrow>
-</m:math> (the weak acid) comes into contact with a strong base, such as sodium hydroxide (NaOH), the weak acid reverts back to the weak base and produces water. Acids and bases are still present, but they hold onto the ions.</para><equation id="eip-177"><m:math display="block">
+</m:math> (the weak acid) comes into contact with a strong base, such as sodium hydroxide (NaOH), the weak acid reverts back to the weak base and produces water. Acids and bases are still present, but they hold onto the ions.</para><equation id="eip-177" class="unnumbered"><m:math display="block">
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -145,14 +145,14 @@
   <m:mtext> + NaCl</m:mtext>
  </m:mrow>
 </m:math>
-</equation><equation id="eip-75"><m:math display="block">
+</equation><equation id="eip-75" class="unnumbered">><m:math display="block">
  <m:mrow>
   <m:mtext>(strong acid) + (weak base) </m:mtext>
 <m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>
 <m:mtext> (weak acid) + (salt)</m:mtext>
  </m:mrow>
 </m:math>
-</equation><equation id="eip-714"><m:math display="block">
+</equation><equation id="eip-714" class="unnumbered">><m:math display="block">
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -188,7 +188,7 @@
   <m:mtext>O</m:mtext>
  </m:mrow>
 </m:math>
-</equation><equation id="eip-713"><m:math display="block">
+</equation><equation id="eip-713" class="unnumbered">><m:math display="block">
  <m:mrow>
   <m:mtext>(strong base) + (weak acid) </m:mtext>
 <m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>
@@ -201,7 +201,7 @@
 <title>Bicarbonate-Carbonic Acid Buffer</title>
 <para id="fs-id2029316">The bicarbonate-carbonic acid buffer works in a fashion similar to phosphate buffers. The bicarbonate is regulated in the blood by sodium, as are the phosphate ions. When sodium bicarbonate (NaHCO<sub>3</sub>), comes into contact with a strong acid, such as HCl, carbonic acid (H<sub>2</sub>CO<sub>3</sub>), which is a weak acid, and NaCl are formed. When carbonic acid comes into contact with a strong base, such as NaOH, bicarbonate and water are formed.</para>
 
-<equation id="eip-515"><m:math display="block">
+<equation id="eip-515" class="unnumbered">><m:math display="block">
  <m:mrow>
   <m:msub>
    <m:mrow>
@@ -226,14 +226,14 @@
   <m:mtext>+NaCl</m:mtext>
  </m:mrow>
 </m:math>
-</equation><equation id="eip-562"><m:math display="block">
+</equation><equation id="eip-562" class="unnumbered">><m:math display="block">
  <m:mrow>
   <m:mtext>(sodium bicarbonate) + (strong acid) </m:mtext>
 <m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>
 <m:mtext> (weak acid) + (salt)</m:mtext>
  </m:mrow>
 </m:math>
-</equation><equation id="eip-524"><m:math display="block">
+</equation><equation id="eip-524" class="unnumbered">><m:math display="block">
  <m:mrow>
   <m:msub>
    <m:mtext>H</m:mtext>
@@ -264,7 +264,7 @@
   <m:mtext>O</m:mtext>
  </m:mrow>
 </m:math>
-</equation><equation id="eip-207"><m:math display="block">
+</equation><equation id="eip-207" class="unnumbered">><m:math display="block">
  <m:mrow>
   <m:mtext>(weak acid) + (strong base)</m:mtext>
 <m:mrow><m:mo stretchy="false">→</m:mo></m:mrow>

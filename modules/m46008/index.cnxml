@@ -103,7 +103,7 @@
 <para id="fs-id1915226">The body obtains carbohydrates from plant-based foods. Grains, fruits, and legumes and other vegetables provide most of the carbohydrate in the human diet, although lactose is found in dairy products.</para>
 <para id="fs-id1406008">Although most body cells can break down other organic compounds for fuel, all body cells can use glucose. Moreover, nerve cells (neurons) in the brain, spinal cord, and through the peripheral nervous system, as well as red blood cells, can use only glucose for fuel. In the breakdown of glucose for energy, molecules of adenosine triphosphate, better known as ATP, are produced. <term id="term-00007">Adenosine triphosphate (ATP)</term> is composed of a ribose sugar, an adenine base, and three phosphate groups. ATP releases free energy when its phosphate bonds are broken, and thus supplies ready energy to the cell. More ATP is produced in the presence of oxygen (O<sub>2</sub>) than in pathways that do not use oxygen. The overall reaction for the conversion of the energy in glucose to energy stored in ATP can be written:</para>
 
-<equation id="eip-189"><m:math display="block">
+<equation id="eip-189" class="unnumbered"><m:math display="block">
  <m:mrow>
   <m:msub>
    <m:mtext>C</m:mtext>
@@ -254,7 +254,7 @@
 </media>
 </figure><para id="fs-id2272163">When a phosphate group is cleaved from ATP, the products are adenosine diphosphate (ADP) and inorganic phosphate (P<sub>i</sub>). This hydrolysis reaction can be written:</para>
 
-<equation id="eip-14"><m:math display="block">
+<equation id="eip-14" class="unnumbered"><m:math display="block">
  <m:mrow>
   <m:msub>
    <m:mrow>

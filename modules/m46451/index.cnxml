@@ -32,7 +32,7 @@
 <para id="fs-id1913646">Watch this <link url="http://openstax.org/l/glycolysis1">video</link> to learn about glycolysis.</para>
 </note><para id="fs-id1618994">Glycolysis can be divided into two phases: energy consuming (also called chemical priming) and energy yielding. The first phase is the <term id="term-00009">energy-consuming phase</term>, so it requires two ATP molecules to start the reaction for each molecule of glucose. However, the end of the reaction produces four ATPs, resulting in a net gain of two ATP energy molecules.</para>
 <para id="fs-id1618515">Glycolysis can be expressed as the following equation:</para>
-       <equation id="eip-959"><m:math display="block">
+       <equation id="eip-959" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:msup>
     <m:mrow>

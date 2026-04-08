@@ -87,7 +87,7 @@
 <para id="fs-id1733439">Jean Louis Marie Poiseuille was a French physician and physiologist who devised a mathematical equation describing blood flow and its relationship to known parameters. The same equation also applies to engineering studies of the flow of fluids. Although understanding the math behind the relationships among the factors affecting blood flow is not necessary to understand blood flow, it can help solidify an understanding of their relationships. Please note that even if the equation looks intimidating, breaking it down into its components and following the relationships will make these relationships clearer, even if you are weak in math. Focus on the three critical variables: radius (r), vessel length (λ), and viscosity (η).</para>
 <para id="fs-id2675192">Poiseuille’s equation:</para>
 
-<equation id="eip-824"><m:math display="block">
+<equation id="eip-824" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:mtext>Blood flow = </m:mtext><m:mfrac>
     <m:mrow>
@@ -111,7 +111,7 @@
 <item>η is the Greek letter eta and represents the viscosity of the blood.</item>
 <item>λ is the Greek letter lambda and represents the length of a blood vessel.</item></list><para id="fs-id2339510">One of several things this equation allows us to do is calculate the resistance in the vascular system. Normally this value is extremely difficult to measure, but it can be calculated from this known relationship:</para>
 
-<equation id="eip-456"><m:math display="block">
+<equation id="eip-456" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:mtext>Blood flow = </m:mtext><m:mfrac>
     <m:mrow>
@@ -125,7 +125,7 @@
   </m:mrow>
 </m:math></equation><para id="fs-id2395114">If we rearrange this slightly,</para>
 
-<equation id="eip-529"><m:math display="block">
+<equation id="eip-529" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:mtext>Resistance = </m:mtext><m:mfrac>
     <m:mrow>
@@ -139,7 +139,7 @@
   </m:mrow>
 </m:math></equation><para id="fs-id1365136">Then by substituting Pouseille’s equation for blood flow:</para>
 
-<equation id="eip-848"><m:math display="block">
+<equation id="eip-848" class="unnumbered">><m:math display="block">
   <m:mrow>
    <m:mtext>Resistance =</m:mtext><m:mfrac>
     <m:mrow>
