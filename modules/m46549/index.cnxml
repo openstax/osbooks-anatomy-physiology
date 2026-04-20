@@ -27,7 +27,7 @@
 <title>Pressure Relationships</title>
 <para id="fs-id2754129">Inspiration (or inhalation) and expiration (or exhalation) are dependent on the differences in pressure between the atmosphere and the lungs. In a gas, pressure is a force created by the movement of gas molecules that are confined. For example, a certain number of gas molecules in a two-liter container has more room than the same number of gas molecules in a one-liter container (<link target-id="fig-ch23_03_01" document=""/>). In this case, the force exerted by the movement of the gas molecules against the walls of the two-liter container is lower than the force exerted by the gas molecules in the one-liter container. Therefore, the pressure is lower in the two-liter container and higher in the one-liter container. At a constant temperature, changing the volume occupied by the gas changes the pressure, as does changing the number of gas molecules. <term id="term-00002">Boyle’s law</term> describes the relationship between volume and pressure in a gas at a constant temperature. Boyle discovered that the pressure of a gas is inversely proportional to its volume: If volume increases, pressure decreases. Likewise, if volume decreases, pressure increases. Pressure and volume are inversely related (<emphasis effect="italics">P</emphasis> = k/<emphasis effect="italics">V</emphasis>). Therefore, the pressure in the one-liter container (one-half the volume of the two-liter container) would be twice the pressure in the two-liter container. Boyle’s law is expressed by the following formula:</para>
 
-<equation id="eip-832" class="unnumbered">><m:math display="block">
+<equation id="eip-832" class="unnumbered"><m:math display="block">
  <m:mrow>
   <m:msub>
    <m:mi>P</m:mi>
@@ -63,7 +63,7 @@
 <para id="fs-id1545698">In addition to the differences in pressures, breathing is also dependent upon the contraction and relaxation of muscle fibers of both the diaphragm and thorax. The lungs themselves are passive during breathing, meaning they are not involved in creating the movement that helps inspiration and expiration. This is because of the adhesive nature of the pleural fluid, which allows the lungs to be pulled outward when the thoracic wall moves during inspiration. The recoil of the thoracic wall during expiration causes compression of the lungs. Contraction and relaxation of the diaphragm and intercostals muscles (found between the ribs) cause most of the pressure changes that result in inspiration and expiration. These muscle movements and subsequent pressure changes cause air to either rush in or be forced out of the lungs.</para>
 <para id="fs-id1285027">Other characteristics of the lungs influence the effort that must be expended to ventilate. Resistance is a force that slows motion, in this case, the flow of gases. The size of the airway is the primary factor affecting resistance. A small tubular diameter forces air through a smaller space, causing more collisions of air molecules with the walls of the airways. The following formula helps to describe the relationship between airway resistance and pressure changes:</para>
 
-<equation id="eip-248" class="unnumbered">><m:math>
+<equation id="eip-248" class="unnumbered"><m:math>
  <m:mrow>
   <m:mi>F</m:mi>
   <m:mo>=</m:mo>
